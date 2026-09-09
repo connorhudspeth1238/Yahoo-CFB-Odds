@@ -32,27 +32,29 @@ async function scrapeYahooScores() {
             let seenGames = new Set();
 
             gameCards.forEach(card => {
+                // Unique card ID from Yahoo's DOM container
+                const cardId = card.id || '';
+
+                // Team Names
                 const teamNames = card.querySelectorAll('._ys_159h2dm');
-                const awayTeamName = teamNames[0] ? teamNames[0].innerText : '';
-                const homeTeamName = teamNames[1] ? teamNames[1].innerText : '';
+                const awayTeamName = teamNames[0] ? teamNames[0].innerText.trim() : '';
+                const homeTeamName = teamNames[1] ? teamNames[1].innerText.trim() : '';
 
                 if (!awayTeamName || !homeTeamName) return;
 
-                // Robust ranking parser: looks inside the team's parent block for a valid AP/Coaches rank (1-25)
+                // Dedicated Ranking Parser (Targeting small badge elements near team rows)
                 const parseRank = (teamElement) => {
                     if (!teamElement) return '';
-                    const container = teamElement.closest('div.flex') || teamElement.parentElement;
-                    if (!container) return '';
+                    const row = teamElement.closest('div.flex') || teamElement.parentElement;
+                    if (!row) return '';
                     
-                    // Look at all small text elements or spans within the team row
-                    const spans = container.querySelectorAll('span, div');
-                    for (let el of spans) {
-                        const txt = el.innerText.trim();
-                        // Matches a clean number between 1 and 25 (ensures it's not a record with a hyphen like 2-1)
+                    const nodes = row.querySelectorAll('span, div');
+                    for (let node of nodes) {
+                        const txt = node.innerText.trim();
                         if (/^(?:#)?([1-2]?[0-9])$/.test(txt)) {
-                            const num = parseInt(txt.replace('#', ''), 10);
-                            if (num >= 1 && num <= 25) {
-                                return num.toString();
+                            const val = parseInt(txt.replace('#', ''), 10);
+                            if (val >= 1 && val <= 25) {
+                                return val.toString();
                             }
                         }
                     }
@@ -62,10 +64,12 @@ async function scrapeYahooScores() {
                 const awayRanking = parseRank(teamNames[0]);
                 const homeRanking = parseRank(teamNames[1]);
 
+                // Logos
                 const logos = card.querySelectorAll('img._ys_14fh01c');
                 const awayLogo = logos[0] ? logos[0].src : '';
                 const homeLogo = logos[1] ? logos[1].src : '';
 
+                // Metadata elements (_ys_qoenog, _ys_aug67i) for Time, Date, and Channel
                 const metaElements = card.querySelectorAll('._ys_qoenog, ._ys_aug67i');
                 let gameTime = '';
                 let gameDate = '';
@@ -75,19 +79,26 @@ async function scrapeYahooScores() {
                     const text = el.innerText.trim();
                     const lower = text.toLowerCase();
 
-                    if ((text.includes(':') || lower.includes('pm') || lower.includes('am')) && !lower.includes('thu') && !lower.includes('fri') && !lower.includes('sat')) {
+                    // Ensure we don't accidentally capture odds text here
+                    if (text.includes('O/U') || text.includes('-') && (text.includes('.') || text.length > 5)) {
+                        return;
+                    }
+
+                    if ((text.includes(':') || lower.includes('pm') || lower.includes('am')) && !lower.includes('thu') && !lower.includes('fri') && !lower.includes('sat') && !lower.includes('sun')) {
                         gameTime = text;
                     } else if (text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed')) {
                         gameDate = text;
-                    } else if (text.length > 0 && text.length <= 6 && text === text.toUpperCase() && !text.includes('-')) {
+                    } else if (text.length > 0 && text.length <= 6 && text === text.toUpperCase() && !text.includes('-') && !text.includes('/')) {
                         broadcastChannel = text;
                     }
                 });
 
-                const uniqueKey = `${awayTeamName}-${homeTeamName}-${gameDate || gameTime}`;
+                // Robust deduplication key using card ID and teams
+                const uniqueKey = cardId ? cardId : `${awayTeamName}-${homeTeamName}`;
                 if (seenGames.has(uniqueKey)) return;
                 seenGames.add(uniqueKey);
 
+                // Status check
                 const fullCardText = card.innerText.toLowerCase();
                 const isLiveOrFinal = fullCardText.includes('final') || fullCardText.includes('q1') || fullCardText.includes('q2') || fullCardText.includes('q3') || fullCardText.includes('q4') || fullCardText.includes('half');
                 
@@ -98,20 +109,22 @@ async function scrapeYahooScores() {
                     gameStatus = broadcastChannel;
                 }
 
+                // Scores
                 const scoreElements = card.querySelectorAll('span._ys_1lqk2dn');
                 let awayScore = '';
                 let homeScore = '';
 
                 if (isLiveOrFinal && scoreElements.length >= 2) {
-                    awayScore = scoreElements[0].innerText;
-                    homeScore = scoreElements[1].innerText;
+                    awayScore = scoreElements[0].innerText.trim();
+                    homeScore = scoreElements[1].innerText.trim();
                 }
 
+                // Betting Odds (Strict target on odds element class)
                 const oddsElement = card.querySelector('._ys_ea8nnj');
                 let odds = '';
                 if (oddsElement) {
-                    const text = oddsElement.innerText;
-                    if (text.includes('-') || text.includes('+') || text.includes('O/U')) {
+                    const text = oddsElement.innerText.trim();
+                    if (text.length > 0) {
                         odds = text;
                     }
                 }
@@ -130,7 +143,7 @@ async function scrapeYahooScores() {
         });
 
         fs.writeFileSync('games.json', JSON.stringify(games, null, 2));
-        console.log(`Successfully scraped and saved ${games.length} unique games with rankings to games.json!`);
+        console.log(`Successfully scraped and saved ${games.length} unique games to games.json!`);
 
     } catch (error) {
         console.error("CRITICAL SCRAPE ERROR:", error);
