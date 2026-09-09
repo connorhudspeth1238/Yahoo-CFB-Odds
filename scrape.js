@@ -38,12 +38,26 @@ async function scrapeYahooScores() {
             const awayLogo = logos[0] ? logos[0].src : '';
             const homeLogo = logos[1] ? logos[1].src : '';
 
-            // Time and Date (Yahoo uses _ys_qoenog for times/dates)
-            const timeDateEls = card.querySelectorAll('._ys_qoenog');
-            const gameTime = timeDateEls[0] ? timeDateEls[0].innerText : '';
-            const gameDate = timeDateEls[1] ? timeDateEls[1].innerText : '';
+            // Smart-parse Yahoo metadata elements (_ys_qoenog)
+            const metaElements = card.querySelectorAll('._ys_qoenog, ._ys_aug67i');
+            let gameTime = '';
+            let gameDate = '';
+            let broadcastChannel = '';
 
-            const uniqueKey = `${awayTeamName}-${homeTeamName}-${gameDate}`;
+            metaElements.forEach(el => {
+                const text = el.innerText.trim();
+                const lower = text.toLowerCase();
+
+                if (text.includes(':') || lower.includes('pm') || lower.includes('am')) {
+                    gameTime = text;
+                } else if (text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed')) {
+                    gameDate = text;
+                } else if (text.length > 0 && text.length <= 6 && text === text.toUpperCase() && !text.includes('-')) {
+                    broadcastChannel = text;
+                }
+            });
+
+            const uniqueKey = `${awayTeamName}-${homeTeamName}-${gameDate || gameTime}`;
             if (seenGames.has(uniqueKey)) return;
             seenGames.add(uniqueKey);
 
@@ -51,26 +65,11 @@ async function scrapeYahooScores() {
             const fullCardText = card.innerText.toLowerCase();
             const isLiveOrFinal = fullCardText.includes('final') || fullCardText.includes('q1') || fullCardText.includes('q2') || fullCardText.includes('q3') || fullCardText.includes('q4') || fullCardText.includes('half');
             
-            // Look for broadcast channel (checking elements with _ys_qoenog or _ys_aug67i that aren't times/dates)
-            let broadcastChannel = '';
-            const allMetaEls = card.querySelectorAll('._ys_qoenog, ._ys_aug67i, div');
-            allMetaEls.forEach(el => {
-                const text = el.innerText.trim();
-                // Channels are typically short text strings (e.g., ACCN, ESPN, SECN, FOX) without time markers
-                const isShortText = text.length > 0 && text.length <= 6;
-                const isNotTime = !text.includes(':') && !text.toLowerCase().includes('pm') && !text.toLowerCase().includes('am') && !text.toLowerCase().includes('thu') && !text.toLowerCase().includes('fri') && !text.toLowerCase().includes('sat');
-                const isNotOdds = !text.includes('-') && !text.includes('O/U') && !text.includes(',');
-
-                if (isShortText && isNotTime && isNotOdds && text === text.toUpperCase()) {
-                    broadcastChannel = text;
-                }
-            });
-
             let gameStatus = 'UPCOMING';
             if (isLiveOrFinal) {
                 gameStatus = fullCardText.includes('final') ? 'FINAL' : 'LIVE';
             } else if (broadcastChannel) {
-                gameStatus = broadcastChannel; // Displays channel like ACCN instead of UPCOMING
+                gameStatus = broadcastChannel;
             }
 
             // Scores
