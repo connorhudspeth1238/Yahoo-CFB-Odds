@@ -34,20 +34,26 @@
                     card.innerHTML = `
                         <div class="flex justify-between items-center text-xs font-semibold text-slate-400 mb-3">
                             <span>${game.date} ${game.date && game.time ? '—' : ''} ${game.time}</span>
-                            <span class="${game.status === 'LIVE' ? 'text-emerald-400 animate-pulse' : 'text-slate-400'}">${game.status}</span>
+                            <span class="${game.status === 'LIVE' ? 'text-emerald-400 animate-pulse font-bold' : 'text-slate-400'}">${game.status}</span>
                         </div>
                         <div class="space-y-3 mb-3">
                             <div class="flex justify-between items-center">
                                 <div class="flex items-center space-x-3">
                                     <img src="${game.awayTeam.logo}" class="w-6 h-6 object-contain" alt="" />
-                                    <span class="font-medium">${game.awayTeam.name}</span>
+                                    <div class="flex items-center space-x-2">
+                                        ${game.awayTeam.rank ? `<span class="text-xs font-bold text-amber-400 bg-amber-400/10 px-1.5 py-0.5 rounded">${game.awayTeam.rank}</span>` : ''}
+                                        <span class="font-medium">${game.awayTeam.name}</span>
+                                    </div>
                                 </div>
                                 <span class="text-lg font-bold">${game.awayTeam.score}</span>
                             </div>
                             <div class="flex justify-between items-center">
                                 <div class="flex items-center space-x-3">
                                     <img src="${game.homeTeam.logo}" class="w-6 h-6 object-contain" alt="" />
-                                    <span class="font-medium">${game.homeTeam.name}</span>
+                                    <div class="flex items-center space-x-2">
+                                        ${game.homeTeam.rank ? `<span class="text-xs font-bold text-amber-400 bg-amber-400/10 px-1.5 py-0.5 rounded">${game.homeTeam.rank}</span>` : ''}
+                                        <span class="font-medium">${game.homeTeam.name}</span>
+                                    </div>
                                 </div>
                                 <span class="text-lg font-bold">${game.homeTeam.score}</span>
                             </div>
