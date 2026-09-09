@@ -23,7 +23,7 @@ async function scrapeYahooScores() {
     const games = await page.evaluate(() => {
         const gameCards = document.querySelectorAll('div[id^="ncaaf.g."], div[id^="nfl.g."]');
         let results = [];
-        let seenGames = new Set(); // Used to prevent duplicates
+        let seenGames = new Set();
 
         gameCards.forEach(card => {
             // Team Names
@@ -31,7 +31,6 @@ async function scrapeYahooScores() {
             const awayTeamName = teamNames[0] ? teamNames[0].innerText : '';
             const homeTeamName = teamNames[1] ? teamNames[1].innerText : '';
 
-            // Skip if team names are missing
             if (!awayTeamName || !homeTeamName) return;
 
             // Logos
@@ -39,23 +38,40 @@ async function scrapeYahooScores() {
             const awayLogo = logos[0] ? logos[0].src : '';
             const homeLogo = logos[1] ? logos[1].src : '';
 
-            // Time and Date
+            // Time and Date (Yahoo uses _ys_qoenog for times/dates)
             const timeDateEls = card.querySelectorAll('._ys_qoenog');
             const gameTime = timeDateEls[0] ? timeDateEls[0].innerText : '';
             const gameDate = timeDateEls[1] ? timeDateEls[1].innerText : '';
 
-            // Create a unique identifier for this game to filter out duplicate DOM wrappers
             const uniqueKey = `${awayTeamName}-${homeTeamName}-${gameDate}`;
-            if (seenGames.has(uniqueKey)) {
-                return; // Skip if we already recorded this game
-            }
+            if (seenGames.has(uniqueKey)) return;
             seenGames.add(uniqueKey);
 
-            // Status check
+            // Status check (Live, Final, or Broadcast Channel)
             const fullCardText = card.innerText.toLowerCase();
             const isLiveOrFinal = fullCardText.includes('final') || fullCardText.includes('q1') || fullCardText.includes('q2') || fullCardText.includes('q3') || fullCardText.includes('q4') || fullCardText.includes('half');
             
-            let gameStatus = isLiveOrFinal ? (fullCardText.includes('final') ? 'FINAL' : 'LIVE') : 'UPCOMING';
+            // Look for broadcast channel (checking elements with _ys_qoenog or _ys_aug67i that aren't times/dates)
+            let broadcastChannel = '';
+            const allMetaEls = card.querySelectorAll('._ys_qoenog, ._ys_aug67i, div');
+            allMetaEls.forEach(el => {
+                const text = el.innerText.trim();
+                // Channels are typically short text strings (e.g., ACCN, ESPN, SECN, FOX) without time markers
+                const isShortText = text.length > 0 && text.length <= 6;
+                const isNotTime = !text.includes(':') && !text.toLowerCase().includes('pm') && !text.toLowerCase().includes('am') && !text.toLowerCase().includes('thu') && !text.toLowerCase().includes('fri') && !text.toLowerCase().includes('sat');
+                const isNotOdds = !text.includes('-') && !text.includes('O/U') && !text.includes(',');
+
+                if (isShortText && isNotTime && isNotOdds && text === text.toUpperCase()) {
+                    broadcastChannel = text;
+                }
+            });
+
+            let gameStatus = 'UPCOMING';
+            if (isLiveOrFinal) {
+                gameStatus = fullCardText.includes('final') ? 'FINAL' : 'LIVE';
+            } else if (broadcastChannel) {
+                gameStatus = broadcastChannel; // Displays channel like ACCN instead of UPCOMING
+            }
 
             // Scores
             const scoreElements = card.querySelectorAll('span._ys_1lqk2dn');
@@ -69,7 +85,13 @@ async function scrapeYahooScores() {
 
             // Betting Odds
             const oddsElement = card.querySelector('._ys_ea8nnj');
-            const odds = oddsElement ? oddsElement.innerText : '';
+            let odds = '';
+            if (oddsElement) {
+                const text = oddsElement.innerText;
+                if (text.includes('-') || text.includes('+') || text.includes('O/U')) {
+                    odds = text;
+                }
+            }
 
             results.push({
                 time: gameTime,
