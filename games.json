@@ -2,7 +2,7 @@
   {
     "time": "12:00 AM",
     "date": "Thu 9/10",
-    "status": "UPCOMING",
+    "status": "ACCN",
     "odds": "MIA -57.5, O/U 62.5",
     "awayTeam": {
       "name": "Florida A&M",
@@ -18,7 +18,7 @@
   {
     "time": "11:00 PM",
     "date": "Fri 9/11",
-    "status": "UPCOMING",
+    "status": "ESNU",
     "odds": "NCST -30.5, O/U 48.5",
     "awayTeam": {
       "name": "Richmond",
@@ -34,7 +34,7 @@
   {
     "time": "11:00 PM",
     "date": "Fri 9/11",
-    "status": "UPCOMING",
+    "status": "ACC",
     "odds": "UVA -44.5, O/U 54.5",
     "awayTeam": {
       "name": "Norfolk St.",
@@ -50,7 +50,7 @@
   {
     "time": "11:00 PM",
     "date": "Fri 9/11",
-    "status": "UPCOMING",
+    "status": "ACCN",
     "odds": "LOU -36.5, O/U 56.5",
     "awayTeam": {
       "name": "Villanova",
@@ -66,7 +66,7 @@
   {
     "time": "11:30 PM",
     "date": "Fri 9/11",
-    "status": "UPCOMING",
+    "status": "ESPN2",
     "odds": "BC -3.5, O/U 54.5",
     "awayTeam": {
       "name": "Rutgers",
@@ -82,7 +82,7 @@
   {
     "time": "12:00 AM",
     "date": "Fri 9/11",
-    "status": "UPCOMING",
+    "status": "FOX",
     "odds": "MIZZ -5.5, O/U 50.5",
     "awayTeam": {
       "name": "Missouri",
@@ -98,7 +98,7 @@
   {
     "time": "4:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "BTN",
     "odds": "IND -56.5, O/U 64.5",
     "awayTeam": {
       "name": "Howard",
@@ -114,7 +114,7 @@
   {
     "time": "4:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN",
     "odds": "ORE -22.5, O/U 57.5",
     "awayTeam": {
       "name": "Oregon",
@@ -130,7 +130,7 @@
   {
     "time": "4:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "FOX",
     "odds": "OU -5.5, O/U 43.5",
     "awayTeam": {
       "name": "Oklahoma",
@@ -146,7 +146,7 @@
   {
     "time": "4:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "TNT/",
     "odds": "KSU -19.5, O/U 48.5",
     "awayTeam": {
       "name": "Washington St.",
@@ -162,7 +162,7 @@
   {
     "time": "4:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "FS1",
     "odds": "WAKE -2.5, O/U 49.5",
     "awayTeam": {
       "name": "Wake Forest",
@@ -178,7 +178,7 @@
   {
     "time": "4:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "KENT -12.5, O/U 46.5",
     "awayTeam": {
       "name": "Wofford",
@@ -194,7 +194,7 @@
   {
     "time": "4:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "CW",
     "odds": "VT -19.5, O/U 49.5",
     "awayTeam": {
       "name": "Old Dominion",
@@ -210,7 +210,7 @@
   {
     "time": "4:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN2",
     "odds": "PSU -23.5, O/U 49.5",
     "awayTeam": {
       "name": "Penn St.",
@@ -226,7 +226,7 @@
   {
     "time": "4:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ABC",
     "odds": "TAMU -14.5, O/U 50.5",
     "awayTeam": {
       "name": "Arizona St.",
@@ -242,7 +242,7 @@
   {
     "time": "4:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ACCN",
     "odds": "UNC -35.5, O/U 53.5",
     "awayTeam": {
       "name": "E. Tennessee St.",
@@ -258,7 +258,7 @@
   {
     "time": "4:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "CBSS",
     "odds": "ARMY -3.5, O/U 46.5",
     "awayTeam": {
       "name": "South Florida",
@@ -274,7 +274,7 @@
   {
     "time": "4:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESNU",
     "odds": "ECU -7, O/U 56.5",
     "awayTeam": {
       "name": "Appalachian St.",
@@ -290,7 +290,7 @@
   {
     "time": "4:45 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "SECN",
     "odds": "UGA -40.5, O/U 55.5",
     "awayTeam": {
       "name": "W. Kentucky",
@@ -306,7 +306,7 @@
   {
     "time": "5:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "M-OH -31.5, O/U 50.5",
     "awayTeam": {
       "name": "Holy Cross",
@@ -322,7 +322,7 @@
   {
     "time": "5:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "WVU -40.5, O/U 56.5",
     "awayTeam": {
       "name": "Tenn-Martin",
@@ -338,7 +338,7 @@
   {
     "time": "5:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "CMU -24.5, O/U 49.5",
     "awayTeam": {
       "name": "Colgate",
@@ -354,7 +354,7 @@
   {
     "time": "6:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "BALL -15.5, O/U 56.5",
     "awayTeam": {
       "name": "Stony Brook",
@@ -370,7 +370,7 @@
   {
     "time": "7:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "FS1",
     "odds": "ILL -5.5, O/U 51.5",
     "awayTeam": {
       "name": "Duke",
@@ -386,7 +386,7 @@
   {
     "time": "7:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "FOX",
     "odds": "BYU -7.5, O/U 47.5",
     "awayTeam": {
       "name": "Arizona",
@@ -402,7 +402,7 @@
   {
     "time": "7:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN2",
     "odds": "PITT -7, O/U 57.5",
     "awayTeam": {
       "name": "UCF",
@@ -418,7 +418,7 @@
   {
     "time": "7:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "NBC",
     "odds": "ND -44.5, O/U 55.5",
     "awayTeam": {
       "name": "Rice",
@@ -434,7 +434,7 @@
   {
     "time": "7:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ABC",
     "odds": "ALA -10.5, O/U 49.5",
     "awayTeam": {
       "name": "Alabama",
@@ -450,7 +450,7 @@
   {
     "time": "7:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ACCN",
     "odds": "SYR -3.5, O/U 56.5",
     "awayTeam": {
       "name": "California",
@@ -466,7 +466,7 @@
   {
     "time": "7:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "BTN",
     "odds": "UW -26.5, O/U 55.5",
     "awayTeam": {
       "name": "Utah St.",
@@ -482,7 +482,7 @@
   {
     "time": "7:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "CW",
     "odds": "TXST -1.5, O/U 66.5",
     "awayTeam": {
       "name": "UTSA",
@@ -498,7 +498,7 @@
   {
     "time": "7:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "JMU -45.5, O/U 55.5",
     "awayTeam": {
       "name": "Wagner",
@@ -514,7 +514,7 @@
   {
     "time": "7:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "TOL -34.5, O/U 56.5",
     "awayTeam": {
       "name": "Central Conn. St.",
@@ -530,7 +530,7 @@
   {
     "time": "7:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "CBSS",
     "odds": "UMD -12.5, O/U 52.5",
     "awayTeam": {
       "name": "Maryland",
@@ -546,7 +546,7 @@
   {
     "time": "7:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "AKR -27.5, O/U 42.5",
     "awayTeam": {
       "name": "Robert Morris",
@@ -562,7 +562,7 @@
   {
     "time": "7:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "UMASS -23.5, O/U 53.5",
     "awayTeam": {
       "name": "Sacred Heart",
@@ -578,7 +578,7 @@
   {
     "time": "7:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "UAB -10.5, O/U 55.5",
     "awayTeam": {
       "name": "LA Monroe",
@@ -594,7 +594,7 @@
   {
     "time": "7:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "BTN",
     "odds": "MSU -17.5, O/U 49.5",
     "awayTeam": {
       "name": "East. Michigan",
@@ -610,7 +610,7 @@
   {
     "time": "7:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "CBS",
     "odds": "MINN -1.5, O/U 55.5",
     "awayTeam": {
       "name": "Mississippi St.",
@@ -626,7 +626,7 @@
   {
     "time": "7:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "COLO -34.5, O/U 53.5",
     "awayTeam": {
       "name": "Weber St.",
@@ -642,7 +642,7 @@
   {
     "time": "7:45 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESNU",
     "odds": "UNLV -3.5, O/U 56.5",
     "awayTeam": {
       "name": "UNLV",
@@ -658,7 +658,7 @@
   {
     "time": "8:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "MW+",
     "odds": "UNM -41.5, O/U 52.5",
     "awayTeam": {
       "name": "Mercyhurst",
@@ -674,7 +674,7 @@
   {
     "time": "8:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "MW+",
     "odds": "WYO -23.5, O/U 48.5",
     "awayTeam": {
       "name": "Northern Colorado",
@@ -690,7 +690,7 @@
   {
     "time": "8:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ACC",
     "odds": "SMU -25, O/U 58.5",
     "awayTeam": {
       "name": "UC Davis",
@@ -706,7 +706,7 @@
   {
     "time": "8:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "TROY -23, O/U 52.5",
     "awayTeam": {
       "name": "Alabama St.",
@@ -722,7 +722,7 @@
   {
     "time": "8:15 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "SECN",
     "odds": "VAN -20.5, O/U 54.5",
     "awayTeam": {
       "name": "Delaware",
@@ -738,7 +738,7 @@
   {
     "time": "9:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "SEC",
     "odds": "FLA -49.5, O/U 67",
     "awayTeam": {
       "name": "Campbell",
@@ -754,7 +754,7 @@
   {
     "time": "10:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "USA",
     "odds": "BSU -8.5, O/U 54.5",
     "awayTeam": {
       "name": "Memphis",
@@ -770,8 +770,8 @@
   {
     "time": "10:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
-    "odds": "LIB -26.5, O/U 54.5",
+    "status": "ESPN+",
+    "odds": "LIB -27, O/U 54.5",
     "awayTeam": {
       "name": "Gardner-Webb",
       "score": "",
@@ -786,7 +786,7 @@
   {
     "time": "10:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "FIU -10.5, O/U 47.5",
     "awayTeam": {
       "name": "Buffalo",
@@ -802,7 +802,7 @@
   {
     "time": "10:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "OHIO -2.5, O/U 50.5",
     "awayTeam": {
       "name": "Jacksonville St.",
@@ -818,8 +818,8 @@
   {
     "time": "10:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
-    "odds": "WMU -26, O/U 53",
+    "status": "ESPN+",
+    "odds": "WMU -26.5, O/U 53.5",
     "awayTeam": {
       "name": "Monmouth",
       "score": "",
@@ -834,7 +834,7 @@
   {
     "time": "11:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "MRSH -13.5, O/U 56.5",
     "awayTeam": {
       "name": "Middle Tenn. St.",
@@ -850,7 +850,7 @@
   {
     "time": "11:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "MOST -21, O/U 53.5",
     "awayTeam": {
       "name": "Lindenwood",
@@ -866,7 +866,7 @@
   {
     "time": "11:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "TULN -9.5, O/U 49.5",
     "awayTeam": {
       "name": "South Alabama",
@@ -882,7 +882,7 @@
   {
     "time": "11:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "TLSA -13.5, O/U 51.5",
     "awayTeam": {
       "name": "Tulsa",
@@ -898,7 +898,7 @@
   {
     "time": "11:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "CIN -36.5, O/U 60.5",
     "awayTeam": {
       "name": "Western Carolina",
@@ -914,7 +914,7 @@
   {
     "time": "11:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN",
     "odds": "TENN -12.5, O/U 55.5",
     "awayTeam": {
       "name": "Tennessee",
@@ -930,7 +930,7 @@
   {
     "time": "11:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "KENN -9.5, O/U 54.5",
     "awayTeam": {
       "name": "Georgia St.",
@@ -946,7 +946,7 @@
   {
     "time": "11:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "CBSS",
     "odds": "CSU -20.5, O/U 57.5",
     "awayTeam": {
       "name": "Southern Utah",
@@ -962,7 +962,7 @@
   {
     "time": "11:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "FS1",
     "odds": "NEB -29.5, O/U 51.5",
     "awayTeam": {
       "name": "Bowling Green",
@@ -978,7 +978,7 @@
   {
     "time": "11:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "HOU -51.5, O/U 60.5",
     "awayTeam": {
       "name": "Southern",
@@ -994,7 +994,7 @@
   {
     "time": "11:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "",
     "awayTeam": {
       "name": "West Georgia",
@@ -1010,7 +1010,7 @@
   {
     "time": "11:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "MW+",
     "odds": "ILST -3.5, O/U 47",
     "awayTeam": {
       "name": "Illinois St.",
@@ -1026,7 +1026,7 @@
   {
     "time": "11:00 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "SEC",
     "odds": "SC -43, O/U 55.5",
     "awayTeam": {
       "name": "Towson",
@@ -1042,7 +1042,7 @@
   {
     "time": "11:15 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "BTN",
     "odds": "WIS -37, O/U 49.5",
     "awayTeam": {
       "name": "Western Ill.",
@@ -1058,7 +1058,7 @@
   {
     "time": "11:15 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "BTN",
     "odds": "UCLA -12.5, O/U 55.5",
     "awayTeam": {
       "name": "SDSU",
@@ -1074,7 +1074,7 @@
   {
     "time": "11:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "NBC",
     "odds": "IOWA -13.5, O/U 40.5",
     "awayTeam": {
       "name": "Iowa St.",
@@ -1090,7 +1090,7 @@
   {
     "time": "11:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "CCU -32, O/U 53.5",
     "awayTeam": {
       "name": "Fordham",
@@ -1106,7 +1106,7 @@
   {
     "time": "11:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESNU",
     "odds": "NAVY -4.5, O/U 58.5",
     "awayTeam": {
       "name": "Navy",
@@ -1122,7 +1122,7 @@
   {
     "time": "11:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ABC",
     "odds": "TEX -1.5, O/U 49.5",
     "awayTeam": {
       "name": "Ohio St.",
@@ -1138,7 +1138,7 @@
   {
     "time": "11:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ACCN",
     "odds": "CLEM -20.5, O/U 55.5",
     "awayTeam": {
       "name": "Georgia Southern",
@@ -1154,7 +1154,7 @@
   {
     "time": "11:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "SEC",
     "odds": "LSU -35.5, O/U 55.5",
     "awayTeam": {
       "name": "Louisiana Tech",
@@ -1170,7 +1170,7 @@
   {
     "time": "11:30 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "CBS/",
     "odds": "TTU -26.5, O/U 53.5",
     "awayTeam": {
       "name": "Texas Tech",
@@ -1186,7 +1186,7 @@
   {
     "time": "11:45 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "SECN",
     "odds": "AUB -33.5, O/U 56.5",
     "awayTeam": {
       "name": "Southern Miss",
@@ -1202,7 +1202,7 @@
   {
     "time": "11:45 PM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN2",
     "odds": "MISS -47.5, O/U 60.5",
     "awayTeam": {
       "name": "Charlotte",
@@ -1218,7 +1218,7 @@
   {
     "time": "12:00 AM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "BAY -38, O/U 55",
     "awayTeam": {
       "name": "Prairie View A&M",
@@ -1234,7 +1234,7 @@
   {
     "time": "12:00 AM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN+",
     "odds": "TCU -44, O/U 54.5",
     "awayTeam": {
       "name": "Grambling St.",
@@ -1250,7 +1250,7 @@
   {
     "time": "1:00 AM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "MW+",
     "odds": "SJSU -20.5, O/U 57.5",
     "awayTeam": {
       "name": "Cal Poly",
@@ -1266,7 +1266,7 @@
   {
     "time": "1:00 AM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "MW+",
     "odds": "UTEP -27, O/U 53.5",
     "awayTeam": {
       "name": "Texas Southern",
@@ -1282,7 +1282,7 @@
   {
     "time": "2:00 AM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "FS1",
     "odds": "NDSU -2.5, O/U 47.5",
     "awayTeam": {
       "name": "N. Dak. St.",
@@ -1298,7 +1298,7 @@
   {
     "time": "2:15 AM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "ESPN",
     "odds": "UTAH -12.5, O/U 54.5",
     "awayTeam": {
       "name": "Arkansas",
@@ -1314,7 +1314,7 @@
   {
     "time": "2:30 AM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "CBSS",
     "odds": "FRES -18.5, O/U 45.5",
     "awayTeam": {
       "name": "Sacramento St.",
@@ -1330,7 +1330,7 @@
   {
     "time": "2:30 AM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "CW",
     "odds": "MTST -3.5, O/U 49.5",
     "awayTeam": {
       "name": "Montana St.",
@@ -1346,7 +1346,7 @@
   {
     "time": "3:00 AM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "BTN",
     "odds": "USC -30.5, O/U 59.5",
     "awayTeam": {
       "name": "Louisiana",
@@ -1362,7 +1362,7 @@
   {
     "time": "4:00 AM",
     "date": "Sat 9/12",
-    "status": "UPCOMING",
+    "status": "MW+",
     "odds": "HAW -7.5, O/U 49.5",
     "awayTeam": {
       "name": "N. Mex. St.",
