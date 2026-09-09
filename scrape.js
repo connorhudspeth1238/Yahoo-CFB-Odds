@@ -38,15 +38,22 @@ async function scrapeYahooScores() {
 
                 if (!awayTeamName || !homeTeamName) return;
 
+                // Robust ranking parser: looks inside the team's parent block for a valid AP/Coaches rank (1-25)
                 const parseRank = (teamElement) => {
                     if (!teamElement) return '';
-                    const row = teamElement.closest('div');
-                    if (!row) return '';
-                    const text = row.innerText.trim();
-                    const lines = text.split('\n').map(l => l.trim());
-                    for (let line of lines) {
-                        if (/^(?:#)?[1-2]?[0-9]$/.test(line)) {
-                            return line.replace('#', '');
+                    const container = teamElement.closest('div.flex') || teamElement.parentElement;
+                    if (!container) return '';
+                    
+                    // Look at all small text elements or spans within the team row
+                    const spans = container.querySelectorAll('span, div');
+                    for (let el of spans) {
+                        const txt = el.innerText.trim();
+                        // Matches a clean number between 1 and 25 (ensures it's not a record with a hyphen like 2-1)
+                        if (/^(?:#)?([1-2]?[0-9])$/.test(txt)) {
+                            const num = parseInt(txt.replace('#', ''), 10);
+                            if (num >= 1 && num <= 25) {
+                                return num.toString();
+                            }
                         }
                     }
                     return '';
@@ -123,7 +130,7 @@ async function scrapeYahooScores() {
         });
 
         fs.writeFileSync('games.json', JSON.stringify(games, null, 2));
-        console.log(`Successfully scraped and saved ${games.length} unique games to games.json!`);
+        console.log(`Successfully scraped and saved ${games.length} unique games with rankings to games.json!`);
 
     } catch (error) {
         console.error("CRITICAL SCRAPE ERROR:", error);
