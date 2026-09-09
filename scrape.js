@@ -9,8 +9,6 @@ async function scrapeYahooScores() {
     });
     
     const page = await browser.newPage();
-
-    // Set a realistic user agent to avoid being blocked
     await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
 
     console.log("Navigating to Yahoo Sports Scoreboard...");
@@ -18,6 +16,9 @@ async function scrapeYahooScores() {
         waitUntil: 'networkidle2',
         timeout: 60000 
     });
+
+    // Give it a brief pause for dynamic elements to render
+    await new Promise(resolve => setTimeout(resolve, 3000));
 
     console.log("Extracting game cards...");
     const games = await page.evaluate(() => {
@@ -35,24 +36,21 @@ async function scrapeYahooScores() {
             const awayLogo = logos[0] ? logos[0].src : '';
             const homeLogo = logos[1] ? logos[1].src : '';
 
-            // Status / Time / Date
-            const statusEls = card.querySelectorAll('._ys_qoenog');
-            let timeText = '';
-            let dateText = '';
-            if (statusEls.length >= 2) {
-                timeText = statusEls[0].innerText;
-                dateText = statusEls[1].innerText;
-            } else if (statusEls.length === 1) {
-                timeText = statusEls[0].innerText;
-            }
+            // Time and Date using exact Yahoo class matching
+            const timeDateEls = card.querySelectorAll('._ys_qoenog');
+            const gameTime = timeDateEls[0] ? timeDateEls[0].innerText : '';
+            const gameDate = timeDateEls[1] ? timeDateEls[1].innerText : '';
 
-            // Check if game is active or final to safely grab scores
+            // Status check
+            const fullCardText = card.innerText.toLowerCase();
+            const isLiveOrFinal = fullCardText.includes('final') || fullCardText.includes('q1') || fullCardText.includes('q2') || fullCardText.includes('q3') || fullCardText.includes('q4') || fullCardText.includes('half');
+            
+            let gameStatus = isLiveOrFinal ? (fullCardText.includes('final') ? 'FINAL' : 'LIVE') : 'UPCOMING';
+
+            // Scores (Only extract if game is live or final)
             const scoreElements = card.querySelectorAll('span._ys_1lqk2dn');
             let awayScore = '';
             let homeScore = '';
-            
-            const fullCardText = card.innerText.toLowerCase();
-            const isLiveOrFinal = fullCardText.includes('final') || fullCardText.includes('q') || fullCardText.includes('half') || fullCardText.includes('et');
 
             if (isLiveOrFinal && scoreElements.length >= 2) {
                 awayScore = scoreElements[0].innerText;
@@ -64,9 +62,9 @@ async function scrapeYahooScores() {
             const odds = oddsElement ? oddsElement.innerText : '';
 
             results.push({
-                time: timeText,
-                date: dateText,
-                status: isLiveOrFinal ? timeText : 'UPCOMING',
+                time: gameTime,
+                date: gameDate,
+                status: gameStatus,
                 odds,
                 awayTeam: { name: awayTeamName, score: awayScore, logo: awayLogo },
                 homeTeam: { name: homeTeamName, score: homeScore, logo: homeLogo }
@@ -76,7 +74,6 @@ async function scrapeYahooScores() {
         return results;
     });
 
-    // Save data to games.json in the root directory
     fs.writeFileSync('games.json', JSON.stringify(games, null, 2));
     console.log(`Successfully scraped and saved ${games.length} games to games.json!`);
 
