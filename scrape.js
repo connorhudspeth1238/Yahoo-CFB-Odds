@@ -9,6 +9,10 @@ async function scrapeYahooScores() {
     });
     
     const page = await browser.newPage();
+    
+    // Force the browser to use US Central time
+    await page.emulateTimezone('America/Chicago');
+
     await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
 
     console.log("Navigating to Yahoo Sports Scoreboard...");
@@ -48,7 +52,6 @@ async function scrapeYahooScores() {
                 const text = el.innerText.trim();
                 const lower = text.toLowerCase();
 
-                // Match time strings explicitly containing PM/AM or a time colon
                 if ((text.includes(':') || lower.includes('pm') || lower.includes('am')) && !lower.includes('thu') && !lower.includes('fri') && !lower.includes('sat')) {
                     gameTime = text;
                 } else if (text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed')) {
