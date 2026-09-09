@@ -17,13 +17,13 @@ async function scrapeYahooScores() {
         timeout: 60000 
     });
 
-    // Give it a brief pause for dynamic elements to render
     await new Promise(resolve => setTimeout(resolve, 3000));
 
     console.log("Extracting game cards...");
     const games = await page.evaluate(() => {
         const gameCards = document.querySelectorAll('div[id^="ncaaf.g."], div[id^="nfl.g."]');
         let results = [];
+        let seenGames = new Set(); // Used to prevent duplicates
 
         gameCards.forEach(card => {
             // Team Names
@@ -31,15 +31,25 @@ async function scrapeYahooScores() {
             const awayTeamName = teamNames[0] ? teamNames[0].innerText : '';
             const homeTeamName = teamNames[1] ? teamNames[1].innerText : '';
 
+            // Skip if team names are missing
+            if (!awayTeamName || !homeTeamName) return;
+
             // Logos
             const logos = card.querySelectorAll('img._ys_14fh01c');
             const awayLogo = logos[0] ? logos[0].src : '';
             const homeLogo = logos[1] ? logos[1].src : '';
 
-            // Time and Date using exact Yahoo class matching
+            // Time and Date
             const timeDateEls = card.querySelectorAll('._ys_qoenog');
             const gameTime = timeDateEls[0] ? timeDateEls[0].innerText : '';
             const gameDate = timeDateEls[1] ? timeDateEls[1].innerText : '';
+
+            // Create a unique identifier for this game to filter out duplicate DOM wrappers
+            const uniqueKey = `${awayTeamName}-${homeTeamName}-${gameDate}`;
+            if (seenGames.has(uniqueKey)) {
+                return; // Skip if we already recorded this game
+            }
+            seenGames.add(uniqueKey);
 
             // Status check
             const fullCardText = card.innerText.toLowerCase();
@@ -47,7 +57,7 @@ async function scrapeYahooScores() {
             
             let gameStatus = isLiveOrFinal ? (fullCardText.includes('final') ? 'FINAL' : 'LIVE') : 'UPCOMING';
 
-            // Scores (Only extract if game is live or final)
+            // Scores
             const scoreElements = card.querySelectorAll('span._ys_1lqk2dn');
             let awayScore = '';
             let homeScore = '';
@@ -75,7 +85,7 @@ async function scrapeYahooScores() {
     });
 
     fs.writeFileSync('games.json', JSON.stringify(games, null, 2));
-    console.log(`Successfully scraped and saved ${games.length} games to games.json!`);
+    console.log(`Successfully scraped and saved ${games.length} unique games to games.json!`);
 
     await browser.close();
 }
