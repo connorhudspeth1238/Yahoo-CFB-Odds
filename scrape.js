@@ -12,7 +12,7 @@ async function scrapeYahooScores() {
         
         const page = await browser.newPage();
         
-        // Force the browser to use US Central time
+        // Force Central Time zone emulation
         await page.emulateTimezone('America/Chicago');
         await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
 
@@ -34,23 +34,89 @@ async function scrapeYahooScores() {
             gameCards.forEach(card => {
                 const cardId = card.id || '';
 
-                // Locate team rows using the precise container class _ys_1gde6sj
                 const teamContainers = card.querySelectorAll('div._ys_1gde6sj');
                 if (teamContainers.length < 2) return;
+
+                // Extract date, time, and broadcast channel from metadata elements
+                const metaElements = card.querySelectorAll('._ys_qoenog, ._ys_aug67i');
+                let rawTime = '';
+                let rawDate = '';
+                let broadcastChannel = '';
+
+                metaElements.forEach(el => {
+                    const text = el.innerText.trim();
+                    const lower = text.toLowerCase();
+
+                    if (text.includes('O/U') || (text.includes('-') && (text.includes('.') || text.length > 5))) {
+                        return;
+                    }
+
+                    if ((text.includes(':') || lower.includes('pm') || lower.includes('am')) && !lower.includes('thu') && !lower.includes('fri') && !lower.includes('sat') && !lower.includes('sun')) {
+                        rawTime = text;
+                    } else if (text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed')) {
+                        rawDate = text;
+                    } else if (text.length > 0 && text.length <= 6 && text === text.toUpperCase() && !text.includes('-') && !text.includes('/')) {
+                        broadcastChannel = text;
+                    }
+                });
+
+                // Format datetime string (e.g. "Thu, 9/25, 6:30 PM CDT")
+                let dateTimeDisplay = [rawDate, rawTime].filter(Boolean).join(', ');
+                if (dateTimeDisplay && !dateTimeDisplay.includes('CDT')) {
+                    dateTimeDisplay += ' CDT';
+                }
+
+                const fullCardText = card.innerText.toLowerCase();
+                const isFinal = fullCardText.includes('final');
+                const isLive = fullCardText.includes('q1') || fullCardText.includes('q2') || fullCardText.includes('q3') || fullCardText.includes('q4') || fullCardText.includes('half') || fullCardText.includes('ot');
+                const isLiveOrFinal = isFinal || isLive;
+
+                let gameStatus = isFinal ? 'FINAL' : (isLive ? 'LIVE' : 'UPCOMING');
 
                 const extractTeamData = (container) => {
                     const nameEl = container.querySelector('._ys_159h2dm');
                     const name = nameEl ? nameEl.innerText.trim() : '';
                     
-                    const scoreEl = container.querySelector('._ys_1lqk2dn');
-                    const score = scoreEl ? scoreEl.innerText.trim() : '';
-
-                    // Check metadata spans (like _ys_dljgj5) for ranking numbers vs records (e.g., "1-0")
-                    let rank = '';
-                    const metaSpans = container.querySelectorAll('span');
-                    metaSpans.forEach(span => {
+                    // Extract mascot / secondary name (e.g., "Black Knights", "Seminoles")
+                    const allSpans = Array.from(container.querySelectorAll('span'));
+                    let mascot = '';
+                    for (let span of allSpans) {
                         const txt = span.innerText.trim();
-                        // Match numbers 1 through 25, ensuring it's not a record format containing a hyphen "-"
+                        // Look for the short abbreviation or secondary identifier class _ys_1gzfv8j or a sub-text block
+                        if (span.className.includes('_ys_1gzfv8j')) {
+                            // usually abbreviation, we want full mascot if available, let's check text length
+                        }
+                    }
+                    
+                    // Grab secondary text row (mascot) if present in container text nodes
+                    const textSpans = allSpans.map(s => s.innerText.trim());
+                    for (let t of textSpans) {
+                        if (t && t !== name && !/^[0-9]+$/.test(t) && !t.includes('-') && t.length > 2 && !/^(?:#)?[0-9]+$/.test(t)) {
+                            mascot = t;
+                            break;
+                        }
+                    }
+
+                    // Extract record (e.g., "1-2") or score
+                    let record = '';
+                    let score = '';
+                    
+                    allSpans.forEach(span => {
+                        const txt = span.innerText.trim();
+                        if (/^[0-9]+-[0-9]+$/.test(txt)) {
+                            record = txt;
+                        }
+                    });
+
+                    if (isLiveOrFinal) {
+                        const scoreEl = container.querySelector('._ys_1lqk2dn');
+                        score = scoreEl ? scoreEl.innerText.trim() : '';
+                    }
+
+                    // Extract rank (1-25)
+                    let rank = '';
+                    allSpans.forEach(span => {
+                        const txt = span.innerText.trim();
                         if (/^(?:#)?([1-2]?[0-9])$/.test(txt) && !txt.includes('-')) {
                             const val = parseInt(txt.replace('#', ''), 10);
                             if (val >= 1 && val <= 25) {
@@ -59,7 +125,7 @@ async function scrapeYahooScores() {
                         }
                     });
 
-                    return { name, score, rank };
+                    return { name, mascot: mascot === name ? '' : mascot, record, score, rank };
                 };
 
                 const awayTeam = extractTeamData(teamContainers[0]);
@@ -72,43 +138,9 @@ async function scrapeYahooScores() {
                 const awayLogo = logos[0] ? logos[0].src : '';
                 const homeLogo = logos[1] ? logos[1].src : '';
 
-                // Metadata elements for Time, Date, and Channel
-                const metaElements = card.querySelectorAll('._ys_qoenog, ._ys_aug67i');
-                let gameTime = '';
-                let gameDate = '';
-                let broadcastChannel = '';
-
-                metaElements.forEach(el => {
-                    const text = el.innerText.trim();
-                    const lower = text.toLowerCase();
-
-                    if (text.includes('O/U') || (text.includes('-') && (text.includes('.') || text.length > 5))) {
-                        return;
-                    }
-
-                    if ((text.includes(':') || lower.includes('pm') || lower.includes('am')) && !lower.includes('thu') && !lower.includes('fri') && !lower.includes('sat') && !lower.includes('sun')) {
-                        gameTime = text;
-                    } else if (text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed')) {
-                        gameDate = text;
-                    } else if (text.length > 0 && text.length <= 6 && text === text.toUpperCase() && !text.includes('-') && !text.includes('/')) {
-                        broadcastChannel = text;
-                    }
-                });
-
                 const uniqueKey = cardId ? cardId : `${awayTeam.name}-${homeTeam.name}`;
                 if (seenGames.has(uniqueKey)) return;
                 seenGames.add(uniqueKey);
-
-                // Status check
-                const fullCardText = card.innerText.toLowerCase();
-                const isLiveOrFinal = fullCardText.includes('final') || fullCardText.includes('q1') || fullCardText.includes('q2') || fullCardText.includes('q3') || fullCardText.includes('q4') || fullCardText.includes('half');
-                
-                let gameStatus = 'UPCOMING';
-                if (isLiveOrFinal) {
-                    gameStatus = fullCardText.includes('final') ? 'FINAL' : 'LIVE';
-                } else if (broadcastChannel) {
-                    gameStatus = broadcastChannel;
-                }
 
                 // Betting Odds
                 const oddsElement = card.querySelector('._ys_ea8nnj');
@@ -121,12 +153,26 @@ async function scrapeYahooScores() {
                 }
 
                 results.push({
-                    time: gameTime,
-                    date: gameDate,
+                    datetime: dateTimeDisplay,
                     status: gameStatus,
-                    odds,
-                    awayTeam: { name: awayTeam.name, rank: awayTeam.rank, score: awayTeam.score, logo: awayLogo },
-                    homeTeam: { name: homeTeam.name, rank: homeTeam.rank, score: homeTeam.score, logo: homeLogo }
+                    odds: odds,
+                    tv: broadcastChannel,
+                    awayTeam: { 
+                        name: awayTeam.name, 
+                        mascot: awayTeam.mascot, 
+                        rank: awayTeam.rank, 
+                        record: awayTeam.record, 
+                        score: awayTeam.score, 
+                        logo: awayLogo 
+                    },
+                    homeTeam: { 
+                        name: homeTeam.name, 
+                        mascot: homeTeam.mascot, 
+                        rank: homeTeam.rank, 
+                        record: homeTeam.record, 
+                        score: homeTeam.score, 
+                        logo: homeLogo 
+                    }
                 });
             });
 
@@ -134,7 +180,7 @@ async function scrapeYahooScores() {
         });
 
         fs.writeFileSync('games.json', JSON.stringify(games, null, 2));
-        console.log(`Successfully scraped and saved ${games.length} unique games with rankings to games.json!`);
+        console.log(`Successfully scraped and saved ${games.length} games to games.json!`);
 
     } catch (error) {
         console.error("CRITICAL SCRAPE ERROR:", error);
