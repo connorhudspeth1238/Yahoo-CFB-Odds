@@ -3,7 +3,7 @@
     "time": "12:00 AM",
     "date": "Thu 9/10",
     "status": "UPCOMING",
-    "odds": "MIA -57.5, O/U 62.5",
+    "odds": "MIA -56.5, O/U 62.5",
     "awayTeam": {
       "name": "Florida A&M",
       "score": "",
@@ -1091,7 +1091,7 @@
     "time": "11:30 PM",
     "date": "Sat 9/12",
     "status": "UPCOMING",
-    "odds": "CCU -31.5, O/U 53.5",
+    "odds": "CCU -32, O/U 53.5",
     "awayTeam": {
       "name": "Fordham",
       "score": "",
@@ -1377,9 +1377,9 @@
   },
   {
     "time": "12:00 AM",
-    "date": "MIA -57.5, O/U 62.5",
+    "date": "MIA -56.5, O/U 62.5",
     "status": "ACCN",
-    "odds": "MIA -57.5, O/U 62.5",
+    "odds": "MIA -56.5, O/U 62.5",
     "awayTeam": {
       "name": "Florida A&M",
       "score": "",
@@ -1597,22 +1597,6 @@
       "name": "Temple",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/NbCi._v8wGYDzq8cgdpHMQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260702/owls_500.png.cf.webp"
-    }
-  },
-  {
-    "time": "4:00 PM",
-    "date": "TAMU -14.5, O/U 50.5",
-    "status": "ABC",
-    "odds": "TAMU -14.5, O/U 50.5",
-    "awayTeam": {
-      "name": "Arizona St.",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/WcEqI60biLkMbOheHAHG8Q--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181127/500X500/arizona_state.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Texas A&M",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/7L_L7FP24NgjqDIY_l8Xlw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181212/500x500/texas_a_m_s.png.cf.webp"
     }
   },
   {
@@ -2449,9 +2433,9 @@
   },
   {
     "time": "11:30 PM",
-    "date": "CCU -31.5, O/U 53.5",
+    "date": "CCU -32, O/U 53.5",
     "status": "ESPN+",
-    "odds": "CCU -31.5, O/U 53.5",
+    "odds": "CCU -32, O/U 53.5",
     "awayTeam": {
       "name": "Fordham",
       "score": "",
