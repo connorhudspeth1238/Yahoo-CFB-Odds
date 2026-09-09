@@ -38,7 +38,7 @@ async function scrapeYahooScores() {
             const awayLogo = logos[0] ? logos[0].src : '';
             const homeLogo = logos[1] ? logos[1].src : '';
 
-            // Smart-parse Yahoo metadata elements (_ys_qoenog)
+            // Extract all text elements associated with metadata classes
             const metaElements = card.querySelectorAll('._ys_qoenog, ._ys_aug67i');
             let gameTime = '';
             let gameDate = '';
@@ -48,7 +48,8 @@ async function scrapeYahooScores() {
                 const text = el.innerText.trim();
                 const lower = text.toLowerCase();
 
-                if (text.includes(':') || lower.includes('pm') || lower.includes('am')) {
+                // Look specifically for valid times (must contain colon and AM/PM)
+                if ((text.includes(':') && (lower.includes('pm') || lower.includes('am')))) {
                     gameTime = text;
                 } else if (text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed')) {
                     gameDate = text;
@@ -57,14 +58,16 @@ async function scrapeYahooScores() {
                 }
             });
 
+            // Skip entries missing a proper kickoff time if they aren't live/final
+            const fullCardText = card.innerText.toLowerCase();
+            const isLiveOrFinal = fullCardText.includes('final') || fullCardText.includes('q1') || fullCardText.includes('q2') || fullCardText.includes('q3') || fullCardText.includes('q4') || fullCardText.includes('half');
+            
+            if (!gameTime && !isLiveOrFinal) return; // Skip cards without a valid game time
+
             const uniqueKey = `${awayTeamName}-${homeTeamName}-${gameDate || gameTime}`;
             if (seenGames.has(uniqueKey)) return;
             seenGames.add(uniqueKey);
 
-            // Status check (Live, Final, or Broadcast Channel)
-            const fullCardText = card.innerText.toLowerCase();
-            const isLiveOrFinal = fullCardText.includes('final') || fullCardText.includes('q1') || fullCardText.includes('q2') || fullCardText.includes('q3') || fullCardText.includes('q4') || fullCardText.includes('half');
-            
             let gameStatus = 'UPCOMING';
             if (isLiveOrFinal) {
                 gameStatus = fullCardText.includes('final') ? 'FINAL' : 'LIVE';
