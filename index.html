@@ -9,7 +9,7 @@
 <body class="bg-slate-950 text-slate-100 min-h-screen p-6">
     <div class="max-w-7xl mx-auto">
         <h1 class="text-3xl font-black tracking-wider mb-8">YAHOO SCOREBOARD</h1>
-        <div id="grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        <div id="grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <p class="text-slate-500">Loading scores...</p>
         </div>
     </div>
@@ -29,36 +29,46 @@
 
                 games.forEach(game => {
                     const card = document.createElement('div');
-                    card.className = "bg-slate-900 border border-slate-800 rounded-xl p-4 shadow-lg hover:border-slate-700 transition";
+                    card.className = "bg-white text-slate-900 border border-slate-300 rounded-lg p-5 shadow-sm hover:shadow-md transition flex flex-col justify-between";
                     
+                    // Format team rows helper
+                    const renderTeamRow = (team) => `
+                        <div class="flex justify-between items-center">
+                            <div class="flex items-center space-x-3">
+                                <img src="${team.logo || ''}" class="w-8 h-8 object-contain" alt="" />
+                                <div>
+                                    <div class="flex items-center space-x-1.5 font-bold text-base">
+                                        ${team.rank ? `<span>(${team.rank})</span>` : ''}
+                                        <span>${team.name}</span>
+                                    </div>
+                                    ${team.mascot ? `<div class="text-xs text-slate-500 font-medium">${team.mascot}</div>` : ''}
+                                </div>
+                            </div>
+                            <div class="text-lg font-bold">
+                                ${game.status === 'UPCOMING' ? (team.record || '') : (team.score || team.record || '')}
+                            </div>
+                        </div>
+                    `;
+
                     card.innerHTML = `
-                        <div class="flex justify-between items-center text-xs font-semibold text-slate-400 mb-3">
-                            <span>${game.date} ${game.date && game.time ? '—' : ''} ${game.time}</span>
-                            <span class="${game.status === 'LIVE' ? 'text-emerald-400 animate-pulse font-bold' : 'text-slate-400'}">${game.status}</span>
-                        </div>
-                        <div class="space-y-3 mb-3">
-                            <div class="flex justify-between items-center">
-                                <div class="flex items-center space-x-3">
-                                    <img src="${game.awayTeam.logo}" class="w-6 h-6 object-contain" alt="" />
-                                    <div class="flex items-center space-x-2">
-                                        ${game.awayTeam.rank ? `<span class="text-xs font-bold text-amber-400 bg-amber-400/10 px-1.5 py-0.5 rounded">${game.awayTeam.rank}</span>` : ''}
-                                        <span class="font-medium">${game.awayTeam.name}</span>
-                                    </div>
-                                </div>
-                                <span class="text-lg font-bold">${game.awayTeam.score}</span>
+                        <div>
+                            <!-- Datetime header -->
+                            <div class="flex justify-end text-xs font-bold text-slate-800 mb-4">
+                                <span>${game.datetime || ''}</span>
                             </div>
-                            <div class="flex justify-between items-center">
-                                <div class="flex items-center space-x-3">
-                                    <img src="${game.homeTeam.logo}" class="w-6 h-6 object-contain" alt="" />
-                                    <div class="flex items-center space-x-2">
-                                        ${game.homeTeam.rank ? `<span class="text-xs font-bold text-amber-400 bg-amber-400/10 px-1.5 py-0.5 rounded">${game.homeTeam.rank}</span>` : ''}
-                                        <span class="font-medium">${game.homeTeam.name}</span>
-                                    </div>
-                                </div>
-                                <span class="text-lg font-bold">${game.homeTeam.score}</span>
+
+                            <!-- Teams Block -->
+                            <div class="space-y-4 mb-5">
+                                ${renderTeamRow(game.awayTeam)}
+                                ${renderTeamRow(game.homeTeam)}
                             </div>
                         </div>
-                        ${game.odds ? `<div class="text-xs text-slate-500 border-t border-slate-800/80 pt-2 mt-2">Odds: ${game.odds}</div>` : ''}
+
+                        <!-- Footer Details (Odds & TV) -->
+                        <div class="border-t border-slate-200 pt-3 mt-2 flex justify-between items-center text-xs font-semibold text-slate-700">
+                            <span>${game.odds ? `Odds: ${game.odds}` : ''}</span>
+                            <span>${game.tv ? `TV: ${game.tv}` : ''}</span>
+                        </div>
                     `;
                     grid.appendChild(card);
                 });
