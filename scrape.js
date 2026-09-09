@@ -37,12 +37,30 @@ async function scrapeYahooScores() {
 
             if (!awayTeamName || !homeTeamName) return;
 
+            // Extract Rankings
+            const parseRank = (teamElement) => {
+                if (!teamElement) return '';
+                const row = teamElement.closest('div');
+                if (!row) return '';
+                const text = row.innerText.trim();
+                const lines = text.split('\n').map(l => l.trim());
+                for (let line of lines) {
+                    if (/^(?:#)?[1-2]?[0-9]$/.test(line)) {
+                        return line.replace('#', '');
+                    }
+                }
+                return '';
+            };
+
+            const awayRanking = parseRank(teamNames[0]);
+            const homeRanking = parseRank(teamNames[1]);
+
             // Logos
             const logos = card.querySelectorAll('img._ys_14fh01c');
             const awayLogo = logos[0] ? logos[0].src : '';
             const homeLogo = logos[1] ? logos[1].src : '';
 
-            // Grab all metadata elements inside the card
+            // Grab metadata elements inside the card
             const metaElements = card.querySelectorAll('._ys_qoenog, ._ys_aug67i');
             let gameTime = '';
             let gameDate = '';
@@ -76,7 +94,7 @@ async function scrapeYahooScores() {
                 gameStatus = broadcastChannel;
             }
 
-            // Scores
+            // Scores using exact class matching
             const scoreElements = card.querySelectorAll('span._ys_1lqk2dn');
             let awayScore = '';
             let homeScore = '';
@@ -101,8 +119,8 @@ async function scrapeYahooScores() {
                 date: gameDate,
                 status: gameStatus,
                 odds,
-                awayTeam: { name: awayTeamName, score: awayScore, logo: awayLogo },
-                homeTeam: { name: homeTeamName, score: homeScore, logo: homeLogo }
+                awayTeam: { name: awayTeamName, rank: awayRanking, score: awayScore, logo: awayLogo },
+                homeTeam: { name: homeTeamName, rank: homeRanking, score: homeScore, logo: homeLogo }
             });
         });
 
