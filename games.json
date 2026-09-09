@@ -12,8 +12,8 @@
     },
     "homeTeam": {
       "name": "Miami (FL)",
-      "rank": "",
-      "score": "",
+      "rank": "7",
+      "score": "7",
       "logo": "https://s.yimg.com/iu/api/res/1.2/DRdOTbhUxL8J95PvPxS6HQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181127/500X500/miami_fl.png.cf.webp"
     }
   },
@@ -48,8 +48,8 @@
     },
     "homeTeam": {
       "name": "Virginia",
-      "rank": "",
-      "score": "",
+      "rank": "25",
+      "score": "25",
       "logo": "https://s.yimg.com/iu/api/res/1.2/2JHcCbus6uxH87RSwBcQzg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260702/virginia_500.png.cf.webp"
     }
   },
@@ -66,8 +66,8 @@
     },
     "homeTeam": {
       "name": "Louisville",
-      "rank": "",
-      "score": "",
+      "rank": "24",
+      "score": "24",
       "logo": "https://s.yimg.com/iu/api/res/1.2/Js1VUrzmUehtYyjXsb4x8w--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181212/500x500/Louisville.png.cf.webp"
     }
   },
@@ -96,8 +96,8 @@
     "odds": "MIZZ -5.5, O/U 50.5",
     "awayTeam": {
       "name": "Missouri",
-      "rank": "",
-      "score": "",
+      "rank": "23",
+      "score": "23",
       "logo": "https://s.yimg.com/iu/api/res/1.2/36LgNj4qJwBUnb3i.y7aOg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181126/500x500/missouri.png.cf.webp"
     },
     "homeTeam": {
@@ -120,8 +120,8 @@
     },
     "homeTeam": {
       "name": "Indiana",
-      "rank": "",
-      "score": "",
+      "rank": "5",
+      "score": "5",
       "logo": "https://s.yimg.com/iu/api/res/1.2/tV0FJqQnCIXCRYT.p35k9A--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20190606/500x500/indiana_s.png.cf.webp"
     }
   },
@@ -132,8 +132,8 @@
     "odds": "ORE -22.5, O/U 57.5",
     "awayTeam": {
       "name": "Oregon",
-      "rank": "",
-      "score": "",
+      "rank": "6",
+      "score": "6",
       "logo": "https://s.yimg.com/iu/api/res/1.2/uNRoMeNBWGSp2_MB5d.WNQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260701/Oregon_Ducks_500.png.cf.webp"
     },
     "homeTeam": {
@@ -150,8 +150,8 @@
     "odds": "OU -5.5, O/U 43.5",
     "awayTeam": {
       "name": "Oklahoma",
-      "rank": "",
-      "score": "",
+      "rank": "11",
+      "score": "11",
       "logo": "https://s.yimg.com/iu/api/res/1.2/h2kZrykk7lFWh8AT4J36vg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181214/500x500/Oklahoma.png.cf.webp"
     },
     "homeTeam": {
@@ -240,8 +240,8 @@
     "odds": "PSU -23.5, O/U 49.5",
     "awayTeam": {
       "name": "Penn St.",
-      "rank": "",
-      "score": "",
+      "rank": "16",
+      "score": "16",
       "logo": "https://s.yimg.com/iu/api/res/1.2/jaJNv0uhvhtZYw0Yq9vrzw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181217/500x500/penn_state.png.cf.webp"
     },
     "homeTeam": {
@@ -264,8 +264,8 @@
     },
     "homeTeam": {
       "name": "Texas A&M",
-      "rank": "",
-      "score": "",
+      "rank": "10",
+      "score": "10",
       "logo": "https://s.yimg.com/iu/api/res/1.2/7L_L7FP24NgjqDIY_l8Xlw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181212/500x500/texas_a_m_s.png.cf.webp"
     }
   },
@@ -336,8 +336,8 @@
     },
     "homeTeam": {
       "name": "Georgia",
-      "rank": "",
-      "score": "",
+      "rank": "2",
+      "score": "2",
       "logo": "https://s.yimg.com/iu/api/res/1.2/mrfPhPL.O1.HMXOBF_UA5g--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181214/500x500/Georgia.png.cf.webp"
     }
   },
@@ -444,8 +444,8 @@
     },
     "homeTeam": {
       "name": "BYU",
-      "rank": "",
-      "score": "",
+      "rank": "15",
+      "score": "15",
       "logo": "https://s.yimg.com/iu/api/res/1.2/nTu3KeD3dHbME_YhViGdtA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260702/BYU_Cougars_500.png.cf.webp"
     }
   },
@@ -480,8 +480,8 @@
     },
     "homeTeam": {
       "name": "Notre Dame",
-      "rank": "",
-      "score": "",
+      "rank": "3",
+      "score": "3",
       "logo": "https://s.yimg.com/iu/api/res/1.2/21Baq7eKi6xixD3gZyL5oQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181214/500x500/Notre_dame.png.cf.webp"
     }
   },
@@ -492,8 +492,8 @@
     "odds": "ALA -10.5, O/U 49.5",
     "awayTeam": {
       "name": "Alabama",
-      "rank": "",
-      "score": "",
+      "rank": "12",
+      "score": "12",
       "logo": "https://s.yimg.com/iu/api/res/1.2/wTXjifYDTv4CW9dOvKT_7w--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260701/__Alabama_Crimson_Tide_500.png.cf.webp"
     },
     "homeTeam": {
@@ -534,8 +534,8 @@
     },
     "homeTeam": {
       "name": "Washington",
-      "rank": "",
-      "score": "",
+      "rank": "19",
+      "score": "19",
       "logo": "https://s.yimg.com/iu/api/res/1.2/67ZtL2lxma2u7mzCzlgB8A--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181217/500x500/washington.png.cf.webp"
     }
   },
@@ -786,8 +786,8 @@
     },
     "homeTeam": {
       "name": "SMU",
-      "rank": "",
-      "score": "",
+      "rank": "17",
+      "score": "17",
       "logo": "https://s.yimg.com/iu/api/res/1.2/wqmpYmc2rLxuLwEieyB6Eg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20230830/500x500/SMU.png.cf.webp"
     }
   },
@@ -1032,8 +1032,8 @@
     "odds": "TENN -12.5, O/U 55.5",
     "awayTeam": {
       "name": "Tennessee",
-      "rank": "",
-      "score": "",
+      "rank": "18",
+      "score": "18",
       "logo": "https://s.yimg.com/iu/api/res/1.2/PZmrntEakEZDG9It7MhXcQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181205/500x500/tennesee_s.png.cf.webp"
     },
     "homeTeam": {
@@ -1110,8 +1110,8 @@
     },
     "homeTeam": {
       "name": "Houston",
-      "rank": "",
-      "score": "",
+      "rank": "22",
+      "score": "22",
       "logo": "https://s.yimg.com/iu/api/res/1.2/7i8yBNk_AbCpzeYvaaz7Jg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181129/500X500/houston.png.cf.webp"
     }
   },
@@ -1218,8 +1218,8 @@
     },
     "homeTeam": {
       "name": "Iowa",
-      "rank": "",
-      "score": "",
+      "rank": "21",
+      "score": "21",
       "logo": "https://s.yimg.com/iu/api/res/1.2/iV8CS2TOyzxrUbnFCFo45Q--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181211/500x500/Iowa.png.cf.webp"
     }
   },
@@ -1266,14 +1266,14 @@
     "odds": "TEX -1.5, O/U 49.5",
     "awayTeam": {
       "name": "Ohio St.",
-      "rank": "",
-      "score": "",
+      "rank": "1",
+      "score": "1",
       "logo": "https://s.yimg.com/iu/api/res/1.2/xUdPUfMlzMyS2HOdDQy1.w--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181217/500x500/ohio_state.png.cf.webp"
     },
     "homeTeam": {
       "name": "Texas",
-      "rank": "",
-      "score": "",
+      "rank": "4",
+      "score": "4",
       "logo": "https://s.yimg.com/iu/api/res/1.2/nxNLVz_cKAB9yfK4H98LBw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181217/500x500/texas_austin_s.png.cf.webp"
     }
   },
@@ -1308,8 +1308,8 @@
     },
     "homeTeam": {
       "name": "LSU",
-      "rank": "",
-      "score": "",
+      "rank": "8",
+      "score": "8",
       "logo": "https://s.yimg.com/iu/api/res/1.2/BpjUNdnm2Xcx3peveL3ECQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260702/LSU_Tigers_500.png.cf.webp"
     }
   },
@@ -1320,8 +1320,8 @@
     "odds": "TTU -26.5, O/U 53.5",
     "awayTeam": {
       "name": "Texas Tech",
-      "rank": "",
-      "score": "",
+      "rank": "13",
+      "score": "13",
       "logo": "https://s.yimg.com/iu/api/res/1.2/J35zOhgqgEbgsQ.R8k3Hiw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260721/500px/texastech_dbg.png.cf.webp"
     },
     "homeTeam": {
@@ -1362,8 +1362,8 @@
     },
     "homeTeam": {
       "name": "Mississippi",
-      "rank": "",
-      "score": "",
+      "rank": "9",
+      "score": "9",
       "logo": "https://s.yimg.com/iu/api/res/1.2/x1qfbI1ZruVkkM4bD1rF2w--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260702/Ole_Miss_Rebels_500.png.cf.webp"
     }
   },
@@ -1470,8 +1470,8 @@
     },
     "homeTeam": {
       "name": "Utah",
-      "rank": "",
-      "score": "",
+      "rank": "20",
+      "score": "20",
       "logo": "https://s.yimg.com/iu/api/res/1.2/fJ6MVjrTbHLltb.3jsbLvw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260701/Utah_Utes_500.png.cf.webp"
     }
   },
@@ -1524,8 +1524,8 @@
     },
     "homeTeam": {
       "name": "USC",
-      "rank": "",
-      "score": "",
+      "rank": "14",
+      "score": "14",
       "logo": "https://s.yimg.com/iu/api/res/1.2/X9zTDz1fuuxTvp4J0O9qSg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181204/500x500/usc.png.cf.webp"
     }
   },
