@@ -332,7 +332,7 @@
   {
     "datetime": "Sat 9/12, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "UNC -35.5, O/U 53.5",
+    "odds": "UNC -35.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "E. Tennessee St.",
@@ -750,7 +750,7 @@
   {
     "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "AKR -27.5, O/U 42.5",
+    "odds": "AKR -27.5, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Robert Morris",
@@ -992,7 +992,7 @@
   {
     "datetime": "Sat 9/12, 3:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "VAN -20.5, O/U 54.5",
+    "odds": "VAN -21, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Delaware",
@@ -1124,7 +1124,7 @@
   {
     "datetime": "Sat 9/12, 5:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "WMU -26, O/U 53",
+    "odds": "WMU -26.5, O/U 53",
     "tv": "",
     "awayTeam": {
       "name": "Monmouth",
@@ -1168,7 +1168,7 @@
   {
     "datetime": "Sat 9/12, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "MOST -20.5, O/U 53.5",
+    "odds": "MOST -19.5, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "Lindenwood",
@@ -1432,7 +1432,7 @@
   {
     "datetime": "Sat 9/12, 6:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "WIS -37.5, O/U 49.5",
+    "odds": "WIS -38.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Western Ill.",
@@ -1542,7 +1542,7 @@
   {
     "datetime": "Sat 9/12, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TEX -1.5, O/U 49.5",
+    "odds": "TEX -1.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Ohio St.",
@@ -1870,7 +1870,7 @@
     }
   },
   {
-    "datetime": "Sat 9/12, 11:00 PM CDT",
+    "datetime": "Sun 9/13, 11:00 PM CDT",
     "status": "UPCOMING",
     "odds": "HAW -7.5, O/U 49.5",
     "tv": "",
