@@ -1011,7 +1011,7 @@
     "time": "11:00 PM",
     "date": "Sat 9/12",
     "status": "UPCOMING",
-    "odds": "ILST -3.5, O/U 47",
+    "odds": "ILST -3.5, O/U 47.5",
     "awayTeam": {
       "name": "Illinois St.",
       "score": "",
@@ -1027,7 +1027,7 @@
     "time": "11:00 PM",
     "date": "Sat 9/12",
     "status": "UPCOMING",
-    "odds": "SC -43, O/U 55.5",
+    "odds": "SC -43.5, O/U 55.5",
     "awayTeam": {
       "name": "Towson",
       "score": "",
@@ -1091,7 +1091,7 @@
     "time": "11:30 PM",
     "date": "Sat 9/12",
     "status": "UPCOMING",
-    "odds": "CCU -32, O/U 53.5",
+    "odds": "CCU -31.5, O/U 53.5",
     "awayTeam": {
       "name": "Fordham",
       "score": "",
@@ -1219,7 +1219,7 @@
     "time": "12:00 AM",
     "date": "Sat 9/12",
     "status": "UPCOMING",
-    "odds": "BAY -38, O/U 55",
+    "odds": "BAY -37.5, O/U 55.5",
     "awayTeam": {
       "name": "Prairie View A&M",
       "score": "",
@@ -1235,7 +1235,7 @@
     "time": "12:00 AM",
     "date": "Sat 9/12",
     "status": "UPCOMING",
-    "odds": "TCU -44, O/U 54.5",
+    "odds": "TCU -43.5, O/U 54.5",
     "awayTeam": {
       "name": "Grambling St.",
       "score": "",
@@ -1267,7 +1267,7 @@
     "time": "1:00 AM",
     "date": "Sat 9/12",
     "status": "UPCOMING",
-    "odds": "UTEP -27, O/U 53.5",
+    "odds": "UTEP -26.5, O/U 53.5",
     "awayTeam": {
       "name": "Texas Southern",
       "score": "",
@@ -1361,7 +1361,7 @@
   },
   {
     "time": "4:00 AM",
-    "date": "Sun 9/13",
+    "date": "Sat 9/12",
     "status": "UPCOMING",
     "odds": "HAW -7.5, O/U 49.5",
     "awayTeam": {
@@ -1597,6 +1597,22 @@
       "name": "Temple",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/NbCi._v8wGYDzq8cgdpHMQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260702/owls_500.png.cf.webp"
+    }
+  },
+  {
+    "time": "4:00 PM",
+    "date": "TAMU -14.5, O/U 50.5",
+    "status": "ABC",
+    "odds": "TAMU -14.5, O/U 50.5",
+    "awayTeam": {
+      "name": "Arizona St.",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/WcEqI60biLkMbOheHAHG8Q--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181127/500X500/arizona_state.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Texas A&M",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/7L_L7FP24NgjqDIY_l8Xlw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181212/500x500/texas_a_m_s.png.cf.webp"
     }
   },
   {
@@ -2353,9 +2369,9 @@
   },
   {
     "time": "11:00 PM",
-    "date": "ILST -3.5, O/U 47",
+    "date": "ILST -3.5, O/U 47.5",
     "status": "MW+",
-    "odds": "ILST -3.5, O/U 47",
+    "odds": "ILST -3.5, O/U 47.5",
     "awayTeam": {
       "name": "Illinois St.",
       "score": "",
@@ -2369,9 +2385,9 @@
   },
   {
     "time": "11:00 PM",
-    "date": "SC -43, O/U 55.5",
+    "date": "SC -43.5, O/U 55.5",
     "status": "SEC",
-    "odds": "SC -43, O/U 55.5",
+    "odds": "SC -43.5, O/U 55.5",
     "awayTeam": {
       "name": "Towson",
       "score": "",
@@ -2433,9 +2449,9 @@
   },
   {
     "time": "11:30 PM",
-    "date": "CCU -32, O/U 53.5",
+    "date": "CCU -31.5, O/U 53.5",
     "status": "ESPN+",
-    "odds": "CCU -32, O/U 53.5",
+    "odds": "CCU -31.5, O/U 53.5",
     "awayTeam": {
       "name": "Fordham",
       "score": "",
@@ -2561,9 +2577,9 @@
   },
   {
     "time": "12:00 AM",
-    "date": "BAY -38, O/U 55",
+    "date": "BAY -37.5, O/U 55.5",
     "status": "ESPN+",
-    "odds": "BAY -38, O/U 55",
+    "odds": "BAY -37.5, O/U 55.5",
     "awayTeam": {
       "name": "Prairie View A&M",
       "score": "",
@@ -2577,9 +2593,9 @@
   },
   {
     "time": "12:00 AM",
-    "date": "TCU -44, O/U 54.5",
+    "date": "TCU -43.5, O/U 54.5",
     "status": "ESPN+",
-    "odds": "TCU -44, O/U 54.5",
+    "odds": "TCU -43.5, O/U 54.5",
     "awayTeam": {
       "name": "Grambling St.",
       "score": "",
@@ -2609,9 +2625,9 @@
   },
   {
     "time": "1:00 AM",
-    "date": "UTEP -27, O/U 53.5",
+    "date": "UTEP -26.5, O/U 53.5",
     "status": "MW+",
-    "odds": "UTEP -27, O/U 53.5",
+    "odds": "UTEP -26.5, O/U 53.5",
     "awayTeam": {
       "name": "Texas Southern",
       "score": "",
