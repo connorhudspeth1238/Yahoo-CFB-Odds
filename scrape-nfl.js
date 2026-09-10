@@ -11,6 +11,7 @@ async function scrapeNflScores() {
         });
         
         const page = await browser.newPage();
+        
         await page.emulateTimezone('America/Chicago');
         await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
 
@@ -31,27 +32,25 @@ async function scrapeNflScores() {
 
             gameCards.forEach(card => {
                 const cardId = card.id || '';
+
                 const teamContainers = card.querySelectorAll('div._ys_1gde6sj');
                 if (teamContainers.length < 2) return;
 
-                const textNodes = [];
-                const walker = document.createTreeWalker(card, NodeFilter.SHOW_TEXT, null, false);
-                let node;
-                while (node = walker.nextNode()) {
-                    const val = node.nodeValue.trim();
-                    if (val) textNodes.push(val);
-                }
-
+                const metaElements = card.querySelectorAll('._ys_qoenog, ._ys_aug67i');
                 let rawTime = '';
                 let rawDate = '';
 
-                textNodes.forEach(text => {
-                    const timeRegex = /^[0-9]{1,2}:[0-9]{2}\s*(?:AM|PM|am|pm)?$/;
-                    if (timeRegex.test(text) && !rawTime) {
-                        rawTime = text.toUpperCase();
+                metaElements.forEach(el => {
+                    const text = el.innerText.trim();
+                    const lower = text.toLowerCase();
+
+                    if (text.includes('O/U') || (text.includes('-') && (text.includes('.') || text.length > 5))) {
+                        return;
                     }
-                    const dateRegex = /(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun),?\s*(?:[A-Za-z]+\s+[0-9]{1,2}|[0-9]{1,2}\/[0-9]{1,2})|[A-Za-z]+\s+[0-9]{1,2}|[0-9]{1,2}\/[0-9]{1,2}/;
-                    if (dateRegex.test(text) && !rawDate && text.length < 15 && !text.includes('-')) {
+
+                    if ((text.includes(':') || lower.includes('pm') || lower.includes('am')) && !lower.includes('thu') && !lower.includes('fri') && !lower.includes('sat') && !lower.includes('sun') && !lower.includes('mon')) {
+                        rawTime = text;
+                    } else if (text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed')) {
                         rawDate = text;
                     }
                 });
@@ -69,10 +68,12 @@ async function scrapeNflScores() {
                 const fullCardText = card.innerText.toLowerCase();
                 const isFinal = fullCardText.includes('final');
                 const isLive = fullCardText.includes('q1') || fullCardText.includes('q2') || fullCardText.includes('q3') || fullCardText.includes('q4') || fullCardText.includes('half') || fullCardText.includes('ot');
+                const isLiveOrFinal = isFinal || isLive;
+
                 let gameStatus = isFinal ? 'FINAL' : (isLive ? 'LIVE' : 'UPCOMING');
 
                 const extractTeamData = (container) => {
-                    const nameEl = container.querySelector('._ys_159h2dm') || container.querySelector('div');
+                    const nameEl = container.querySelector('._ys_159h2dm');
                     const name = nameEl ? nameEl.innerText.trim() : '';
                     
                     const allSpans = Array.from(container.querySelectorAll('span'));
@@ -86,8 +87,8 @@ async function scrapeNflScores() {
                         }
                     });
 
-                    if (isFinal || isLive) {
-                        const scoreEl = container.querySelector('._ys_1lqk2dn') || allSpans[allSpans.length - 1];
+                    if (isLiveOrFinal) {
+                        const scoreEl = container.querySelector('._ys_1lqk2dn');
                         score = scoreEl ? scoreEl.innerText.trim() : '';
                     }
 
@@ -99,7 +100,7 @@ async function scrapeNflScores() {
 
                 if (!awayTeam.name || !homeTeam.name) return;
 
-                const logos = card.querySelectorAll('img');
+                const logos = card.querySelectorAll('img._ys_14fh01c');
                 const awayLogo = logos[0] ? logos[0].src : '';
                 const homeLogo = logos[1] ? logos[1].src : '';
 
@@ -110,9 +111,22 @@ async function scrapeNflScores() {
                 results.push({
                     datetime: dateTimeDisplay,
                     status: gameStatus,
-                    odds: '',
-                    awayTeam,
-                    homeTeam
+                    awayTeam: { 
+                        name: awayTeam.name, 
+                        mascot: awayTeam.mascot, 
+                        rank: awayTeam.rank, 
+                        record: awayTeam.record, 
+                        score: awayTeam.score, 
+                        logo: awayLogo 
+                    },
+                    homeTeam: { 
+                        name: homeTeam.name, 
+                        mascot: homeTeam.mascot, 
+                        rank: homeTeam.rank, 
+                        record: homeTeam.record, 
+                        score: homeTeam.score, 
+                        logo: homeLogo 
+                    }
                 });
             });
 
@@ -126,7 +140,9 @@ async function scrapeNflScores() {
         console.error("CRITICAL NFL SCRAPE ERROR:", error);
         process.exit(1);
     } finally {
-        if (browser) await browser.close();
+        if (browser) {
+            await browser.close();
+        }
     }
 }
 
