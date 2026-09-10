@@ -36,31 +36,30 @@ async function scrapeYahooScores() {
                 const teamContainers = card.querySelectorAll('div._ys_1gde6sj');
                 if (teamContainers.length < 2) return;
 
-                const allSpansOrDivs = card.querySelectorAll('div, span');
+                // Revert to the original targeted metadata elements to avoid grabbing odds/networks
+                const metaElements = card.querySelectorAll('._ys_qoenog, ._ys_aug67i');
                 let rawTime = '';
                 let rawDate = '';
                 let odds = '';
 
-                allSpansOrDivs.forEach(el => {
-                    if (el.children.length > 0) return; // Leaf nodes only
+                metaElements.forEach(el => {
                     const text = el.innerText.trim();
+                    const lower = text.toLowerCase();
+
                     if (!text) return;
 
-                    // Detect Odds (e.g., "-3.5", "+7", "O/U 54.5")
+                    // Explicitly capture odds/spread if present in metadata
                     if (text.includes('O/U') || /^[+-][0-9]+(\.[0-9]+)?$/.test(text) || text.includes('EVEN') || text.includes('PK')) {
                         if (!odds) odds = text;
+                        return;
                     }
 
-                    // Strict Time Extraction (e.g., "7:00 PM")
-                    const timeMatch = text.match(/[0-9]{1,2}:[0-9]{2}\s*(?:AM|PM|am|pm)?/);
-                    if (timeMatch && !rawTime) {
-                        rawTime = timeMatch[0].toUpperCase();
-                    }
-
-                    // Strict Date Extraction (e.g., "Thu, 9/10" or "Sep 10")
-                    const dateMatch = text.match(/(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun),?\s*(?:[A-Za-z]+\s+[0-9]{1,2}|[0-9]{1,2}\/[0-9]{1,2})|[A-Za-z]+\s+[0-9]{1,2}|[0-9]{1,2}\/[0-9]{1,2}/);
-                    if (dateMatch && !rawDate) {
-                        rawDate = dateMatch[0];
+                    if ((text.includes(':') || lower.includes('pm') || lower.includes('am')) && 
+                        !lower.includes('thu') && !lower.includes('fri') && !lower.includes('sat') && 
+                        !lower.includes('sun') && !lower.includes('mon') && !lower.includes('tue') && !lower.includes('wed')) {
+                        rawTime = text;
+                    } else if (text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed') || text.includes('Sep') || text.includes('Oct') || text.includes('Nov')) {
+                        rawDate = text;
                     }
                 });
 
