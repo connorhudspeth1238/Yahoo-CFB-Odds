@@ -35,26 +35,25 @@ async function scrapeNflScores() {
                 const teamContainers = card.querySelectorAll('div._ys_1gde6sj');
                 if (teamContainers.length < 2) return;
 
-                const dateEl = card.querySelector('._ys_qoenog');
-                const timeEl = card.querySelector('._ys_aug67i');
+                const metaEls = card.querySelectorAll('._ys_qoenog, ._ys_aug67i, div[class*="_ys_"]');
+                let rawDate = '';
+                let rawTime = '';
 
-                let rawDate = dateEl ? dateEl.innerText.trim() : '';
-                let rawTime = timeEl ? timeEl.innerText.trim() : '';
+                metaEls.forEach(el => {
+                    const text = el.innerText.trim();
+                    const lower = text.toLowerCase();
 
-                if (!rawDate || !rawTime) {
-                    const allTextElements = Array.from(card.querySelectorAll('div, span')).map(el => el.innerText.trim()).filter(Boolean);
-                    for (let text of allTextElements) {
-                        const lower = text.toLowerCase();
-                        if (!rawDate && (text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed') || lower.includes('sep') || lower.includes('oct') || lower.includes('nov') || lower.includes('dec') || lower.includes('jan') || lower.includes('feb') || lower.includes('mar'))) {
-                            if (text.length < 25 && !text.includes('O/U') && !text.includes('Odds')) {
-                                rawDate = text;
-                            }
-                        }
-                        if (!rawTime && (text.includes(':') || lower.includes('pm') || lower.includes('am')) && !lower.includes('th') && text.length < 15 && !text.includes('O/U')) {
-                            rawTime = text;
-                        }
+                    if (!text || text.length > 20 || text.includes('O/U') || text.includes('-') || text === text.toUpperCase() && text.length <= 4) {
+                        return;
                     }
-                }
+
+                    if ((text.includes(':') || lower.includes('pm') || lower.includes('am')) && !rawTime) {
+                        rawTime = text;
+                    }
+                    else if ((text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed') || lower.includes('sep') || lower.includes('oct') || lower.includes('nov') || lower.includes('dec') || lower.includes('jan')) && !rawDate) {
+                        rawDate = text;
+                    }
+                });
 
                 if (!rawDate && rawTime) {
                     const options = { timeZone: 'America/Chicago', weekday: 'short', month: 'numeric', day: 'numeric' };
