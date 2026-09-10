@@ -36,7 +36,6 @@ async function scrapeYahooScores() {
                 const teamContainers = card.querySelectorAll('div._ys_1gde6sj');
                 if (teamContainers.length < 2) return;
 
-                // Original CFB metadata element targeting that worked perfectly
                 const metaElements = card.querySelectorAll('._ys_qoenog, ._ys_aug67i');
                 let rawTime = '';
                 let rawDate = '';
@@ -130,9 +129,22 @@ async function scrapeYahooScores() {
                 results.push({
                     datetime: dateTimeDisplay,
                     status: gameStatus,
-                    odds: '',
-                    awayTeam,
-                    homeTeam
+                    awayTeam: { 
+                        name: awayTeam.name, 
+                        mascot: awayTeam.mascot, 
+                        rank: awayTeam.rank, 
+                        record: awayTeam.record, 
+                        score: awayTeam.score, 
+                        logo: awayLogo 
+                    },
+                    homeTeam: { 
+                        name: homeTeam.name, 
+                        mascot: homeTeam.mascot, 
+                        rank: homeTeam.rank, 
+                        record: homeTeam.record, 
+                        score: homeTeam.score, 
+                        logo: homeLogo 
+                    }
                 });
             });
 
