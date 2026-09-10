@@ -11,6 +11,7 @@ async function scrapeYahooScores() {
         });
         
         const page = await browser.newPage();
+        
         await page.emulateTimezone('America/Chicago');
         await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
 
@@ -31,29 +32,26 @@ async function scrapeYahooScores() {
 
             gameCards.forEach(card => {
                 const cardId = card.id || '';
+
                 const teamContainers = card.querySelectorAll('div._ys_1gde6sj');
                 if (teamContainers.length < 2) return;
 
-                const allElements = card.querySelectorAll('div, span');
+                // Original CFB metadata element targeting that worked perfectly
+                const metaElements = card.querySelectorAll('._ys_qoenog, ._ys_aug67i');
                 let rawTime = '';
                 let rawDate = '';
 
-                allElements.forEach(el => {
-                    if (el.children.length > 0) return; // Leaf nodes only
+                metaElements.forEach(el => {
                     const text = el.innerText.trim();
                     const lower = text.toLowerCase();
 
-                    if (!text || text.includes('O/U') || text.includes('Spread') || text.length > 30) return;
+                    if (text.includes('O/U') || (text.includes('-') && (text.includes('.') || text.length > 5))) {
+                        return;
+                    }
 
-                    // Match time (e.g., "6:00 PM", "11:30 AM")
-                    if ((text.includes(':') || lower.includes('pm') || lower.includes('am')) && 
-                        !lower.includes('thu') && !lower.includes('fri') && !lower.includes('sat') && 
-                        !lower.includes('sun') && !lower.includes('mon') && !lower.includes('tue') && !lower.includes('wed') &&
-                        !text.includes('-') && !rawTime) {
+                    if ((text.includes(':') || lower.includes('pm') || lower.includes('am')) && !lower.includes('thu') && !lower.includes('fri') && !lower.includes('sat') && !lower.includes('sun')) {
                         rawTime = text;
-                    } 
-                    // Match date strings or days
-                    else if ((text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed') || text.includes('Sep') || text.includes('Oct') || text.includes('Nov')) && !rawDate && text.length < 15) {
+                    } else if (text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed')) {
                         rawDate = text;
                     }
                 });
@@ -74,30 +72,46 @@ async function scrapeYahooScores() {
                 let gameStatus = isFinal ? 'FINAL' : (isLive ? 'LIVE' : 'UPCOMING');
 
                 const extractTeamData = (container) => {
-                    const nameEl = container.querySelector('._ys_159h2dm') || container.querySelector('div');
+                    const nameEl = container.querySelector('._ys_159h2dm');
                     const name = nameEl ? nameEl.innerText.trim() : '';
                     
                     const allSpans = Array.from(container.querySelectorAll('span'));
+                    let mascot = '';
+                    const textSpans = allSpans.map(s => s.innerText.trim());
+                    for (let t of textSpans) {
+                        if (t && t !== name && !/^[0-9]+$/.test(t) && !t.includes('-') && t.length > 2 && !/^(?:#)?[0-9]+$/.test(t)) {
+                            mascot = t;
+                            break;
+                        }
+                    }
+
                     let record = '';
                     let score = '';
-                    let rank = '';
-
+                    
                     allSpans.forEach(span => {
                         const txt = span.innerText.trim();
                         if (/^[0-9]+-[0-9]+$/.test(txt)) {
                             record = txt;
-                        } else if (/^(?:#)?([1-2]?[0-9])$/.test(txt) && !txt.includes('-')) {
-                            const val = parseInt(txt.replace('#', ''), 10);
-                            if (val >= 1 && val <= 25) rank = val.toString();
                         }
                     });
 
                     if (isFinal || isLive) {
-                        const scoreEl = container.querySelector('._ys_1lqk2dn') || allSpans[allSpans.length - 1];
+                        const scoreEl = container.querySelector('._ys_1lqk2dn');
                         score = scoreEl ? scoreEl.innerText.trim() : '';
                     }
 
-                    return { name, mascot: '', record, score, rank };
+                    let rank = '';
+                    allSpans.forEach(span => {
+                        const txt = span.innerText.trim();
+                        if (/^(?:#)?([1-2]?[0-9])$/.test(txt) && !txt.includes('-')) {
+                            const val = parseInt(txt.replace('#', ''), 10);
+                            if (val >= 1 && val <= 25) {
+                                rank = val.toString();
+                            }
+                        }
+                    });
+
+                    return { name, mascot: mascot === name ? '' : mascot, record, score, rank };
                 };
 
                 const awayTeam = extractTeamData(teamContainers[0]);
@@ -105,7 +119,7 @@ async function scrapeYahooScores() {
 
                 if (!awayTeam.name || !homeTeam.name) return;
 
-                const logos = card.querySelectorAll('img');
+                const logos = card.querySelectorAll('img._ys_14fh01c');
                 const awayLogo = logos[0] ? logos[0].src : '';
                 const homeLogo = logos[1] ? logos[1].src : '';
 
@@ -132,7 +146,9 @@ async function scrapeYahooScores() {
         console.error("CRITICAL SCRAPE ERROR:", error);
         process.exit(1);
     } finally {
-        if (browser) await browser.close();
+        if (browser) {
+            await browser.close();
+        }
     }
 }
 
