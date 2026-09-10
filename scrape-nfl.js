@@ -35,44 +35,7 @@ async function scrapeNflScores() {
                 const teamContainers = card.querySelectorAll('div._ys_1gde6sj');
                 if (teamContainers.length < 2) return;
 
-                const metaEls = card.querySelectorAll('._ys_qoenog, ._ys_aug67i, div[class*="_ys_"]');
-                let rawDate = '';
-                let rawTime = '';
-
-                metaEls.forEach(el => {
-                    const text = el.innerText.trim();
-                    const lower = text.toLowerCase();
-
-                    if (!text || text.length > 20 || text.includes('O/U') || text.includes('-') || text === text.toUpperCase() && text.length <= 4) {
-                        return;
-                    }
-
-                    if ((text.includes(':') || lower.includes('pm') || lower.includes('am')) && !rawTime) {
-                        rawTime = text;
-                    }
-                    else if ((text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed') || lower.includes('sep') || lower.includes('oct') || lower.includes('nov') || lower.includes('dec') || lower.includes('jan')) && !rawDate) {
-                        rawDate = text;
-                    }
-                });
-
-                if (!rawDate && rawTime) {
-                    const options = { timeZone: 'America/Chicago', weekday: 'short', month: 'numeric', day: 'numeric' };
-                    rawDate = new Intl.DateTimeFormat('en-US', options).format(new Date());
-                }
-
-                let dateTimeDisplay = [rawDate, rawTime].filter(Boolean).join(', ');
-                if (dateTimeDisplay && !dateTimeDisplay.includes('CDT')) {
-                    dateTimeDisplay += ' CDT';
-                }
-
-                const fullCardText = card.innerText.toLowerCase();
-                const isFinal = fullCardText.includes('final');
-                const isLive = fullCardText.includes('q1') || fullCardText.includes('q2') || fullCardText.includes('q3') || fullCardText.includes('q4') || fullCardText.includes('half') || fullCardText.includes('ot');
-                const isLiveOrFinal = isFinal || isLive;
-
-                let gameStatus = isFinal ? 'FINAL' : (isLive ? 'LIVE' : 'UPCOMING');
-
-                const extractTeamData = (container) => {
+                const extractTeamData = (container, isLiveOrFinal) => {
                     const nameEl = container.querySelector('._ys_159h2dm');
                     const name = nameEl ? nameEl.innerText.trim() : '';
                     
@@ -95,10 +58,47 @@ async function scrapeNflScores() {
                     return { name, record, score };
                 };
 
-                const awayTeam = extractTeamData(teamContainers[0]);
-                const homeTeam = extractTeamData(teamContainers[1]);
+                const fullCardText = card.innerText.toLowerCase();
+                const isFinal = fullCardText.includes('final');
+                const isLive = fullCardText.includes('q1') || fullCardText.includes('q2') || fullCardText.includes('q3') || fullCardText.includes('q4') || fullCardText.includes('half') || fullCardText.includes('ot');
+                const isLiveOrFinal = isFinal || isLive;
 
+                const awayTeam = extractTeamData(teamContainers[0], isLiveOrFinal);
+                const homeTeam = extractTeamData(teamContainers[1], isLiveOrFinal);
                 if (!awayTeam.name || !homeTeam.name) return;
+
+                const allTextElements = Array.from(card.querySelectorAll('div, span')).map(el => el.innerText.trim()).filter(Boolean);
+                let rawDate = '';
+                let rawTime = '';
+
+                for (let text of allTextElements) {
+                    const lower = text.toLowerCase();
+
+                    if (text === awayTeam.name || text === homeTeam.name || text.includes('O/U') || text.includes('-') || text.length > 25) {
+                        continue;
+                    }
+
+                    if (!rawTime && (text.includes(':') || lower.includes('pm') || lower.includes('am')) && text.length < 10) {
+                        rawTime = text;
+                    }
+                    else if (!rawDate && (text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed') || lower.includes('sep') || lower.includes('oct') || lower.includes('nov') || lower.includes('dec') || lower.includes('jan'))) {
+                        if (text.length < 15 && !text.includes(':')) {
+                            rawDate = text;
+                        }
+                    }
+                }
+
+                if (!rawDate && rawTime) {
+                    const options = { timeZone: 'America/Chicago', weekday: 'short', month: 'numeric', day: 'numeric' };
+                    rawDate = new Intl.DateTimeFormat('en-US', options).format(new Date());
+                }
+
+                let dateTimeDisplay = [rawDate, rawTime].filter(Boolean).join(', ');
+                if (dateTimeDisplay && !dateTimeDisplay.includes('CDT')) {
+                    dateTimeDisplay += ' CDT';
+                }
+
+                let gameStatus = isFinal ? 'FINAL' : (isLive ? 'LIVE' : 'UPCOMING');
 
                 const logos = card.querySelectorAll('img._ys_14fh01c');
                 const awayLogo = logos[0] ? logos[0].src : '';
