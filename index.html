@@ -6,11 +6,11 @@
     <title>Yahoo Scoreboard</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-slate-950 text-slate-100 min-h-screen p-6">
-    <div class="max-w-7xl mx-auto">
-        <h1 class="text-3xl font-black tracking-wider mb-8">YAHOO SCOREBOARD</h1>
-        <div id="grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            <p class="text-slate-500">Loading scores...</p>
+<body class="bg-white text-slate-900 min-h-screen p-6">
+    <div class="max-w-[1600px] mx-auto">
+        <h1 class="text-2xl font-black tracking-wider mb-6 text-slate-900">YAHOO SCOREBOARD</h1>
+        <div id="grid" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+            <p class="text-slate-500 text-sm">Loading scores...</p>
         </div>
     </div>
 
@@ -23,28 +23,27 @@
                 grid.innerHTML = '';
 
                 if (games.length === 0) {
-                    grid.innerHTML = `<p class="text-slate-500">No games found.</p>`;
+                    grid.innerHTML = `<p class="text-slate-500 text-sm">No games found.</p>`;
                     return;
                 }
 
                 games.forEach(game => {
                     const card = document.createElement('div');
-                    card.className = "bg-white text-slate-900 border border-slate-300 rounded-lg p-5 shadow-sm hover:shadow-md transition flex flex-col justify-between";
+                    card.className = "bg-white text-slate-900 border border-slate-200 rounded-lg p-3.5 shadow-sm hover:shadow transition flex flex-col justify-between text-xs";
                     
-                    // Format team rows helper
                     const renderTeamRow = (team) => `
                         <div class="flex justify-between items-center">
-                            <div class="flex items-center space-x-3">
-                                <img src="${team.logo || ''}" class="w-8 h-8 object-contain" alt="" />
-                                <div>
-                                    <div class="flex items-center space-x-1.5 font-bold text-base">
+                            <div class="flex items-center space-x-2.5 overflow-hidden">
+                                <img src="${team.logo || ''}" class="w-6 h-6 object-contain shrink-0" alt="" />
+                                <div class="truncate">
+                                    <div class="flex items-center space-x-1 font-bold text-slate-900 text-sm">
                                         ${team.rank ? `<span>(${team.rank})</span>` : ''}
-                                        <span>${team.name}</span>
+                                        <span class="truncate">${team.name}</span>
                                     </div>
-                                    ${team.mascot ? `<div class="text-xs text-slate-500 font-medium">${team.mascot}</div>` : ''}
+                                    ${team.mascot ? `<div class="text-[11px] text-slate-500 truncate">${team.mascot}</div>` : ''}
                                 </div>
                             </div>
-                            <div class="text-lg font-bold">
+                            <div class="text-sm font-bold shrink-0 ml-2">
                                 ${game.status === 'UPCOMING' ? (team.record || '') : (team.score || team.record || '')}
                             </div>
                         </div>
@@ -53,28 +52,28 @@
                     card.innerHTML = `
                         <div>
                             <!-- Datetime header -->
-                            <div class="flex justify-end text-xs font-bold text-slate-800 mb-4">
+                            <div class="flex justify-end font-semibold text-slate-700 mb-3 text-[11px]">
                                 <span>${game.datetime || ''}</span>
                             </div>
 
                             <!-- Teams Block -->
-                            <div class="space-y-4 mb-5">
+                            <div class="space-y-3 mb-4">
                                 ${renderTeamRow(game.awayTeam)}
                                 ${renderTeamRow(game.homeTeam)}
                             </div>
                         </div>
 
                         <!-- Footer Details (Odds & TV) -->
-                        <div class="border-t border-slate-200 pt-3 mt-2 flex justify-between items-center text-xs font-semibold text-slate-700">
-                            <span>${game.odds ? `Odds: ${game.odds}` : ''}</span>
-                            <span>${game.tv ? `TV: ${game.tv}` : ''}</span>
+                        <div class="border-t border-slate-100 pt-2.5 mt-1 flex justify-between items-center text-[11px] font-medium text-slate-600">
+                            <span class="truncate mr-1">${game.odds ? `Odds: ${game.odds}` : ''}</span>
+                            <span class="shrink-0">${game.tv ? `TV: ${game.tv}` : ''}</span>
                         </div>
                     `;
                     grid.appendChild(card);
                 });
             } catch (err) {
                 console.error("Could not load games.json", err);
-                document.getElementById('grid').innerHTML = `<p class="text-red-400">Failed to load games data.</p>`;
+                document.getElementById('grid').innerHTML = `<p class="text-red-500 text-sm">Failed to load games data.</p>`;
             }
         }
 
