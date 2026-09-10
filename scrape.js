@@ -18,7 +18,7 @@ async function scrapeYahooScores() {
 
         console.log("Navigating to Yahoo Sports Scoreboard...");
         await page.goto('https://sports.yahoo.com/college-football/scoreboard/?leagueFilter=divisionIds_1', { 
-            waitUntil: 'networkidle2',
+            waitUntil: 'domcontentloaded',
             timeout: 60000 
         });
 
@@ -43,7 +43,6 @@ async function scrapeYahooScores() {
                 let rawDate = '';
                 let broadcastChannel = '';
 
-                // Known network abbreviations to help spot channels if they appear as standalone text
                 const knownNetworks = ['ESPN', 'ESPN2', 'ESPNEWS', 'ESPNU', 'ABC', 'FOX', 'FS1', 'FS2', 'CBS', 'CBSSN', 'NBC', 'BTN', 'SECN', 'ACCN', 'PEACOCK', 'PRIME', 'TNT', 'TBS', 'TRUTV', 'ESPN+'];
 
                 metaElements.forEach(el => {
@@ -51,40 +50,31 @@ async function scrapeYahooScores() {
                     const upper = text.toUpperCase();
                     const lower = text.toLowerCase();
 
-                    // Skip betting odds text
                     if (text.includes('O/U') || (text.includes('-') && (text.includes('.') || text.length > 5))) {
                         return;
                     }
 
-                    // Check if this specific element matches a known TV network name
                     if (knownNetworks.includes(upper)) {
                         broadcastChannel = upper;
                         return;
                     }
 
-                    // Identify Time
                     if ((text.includes(':') || lower.includes('pm') || lower.includes('am')) && !lower.includes('thu') && !lower.includes('fri') && !lower.includes('sat') && !lower.includes('sun')) {
                         rawTime = text;
-                    } 
-                    // Identify Date
-                    else if (text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed')) {
+                    } else if (text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed')) {
                         rawDate = text;
-                    } 
-                    // Fallback short uppercase string for network if not matched above
-                    else if (text.length > 0 && text.length <= 8 && text === text.toUpperCase() && !text.includes('-') && !text.includes('/') && !text.includes('FINAL')) {
+                    } else if (text.length > 0 && text.length <= 8 && text === text.toUpperCase() && !text.includes('-') && !text.includes('/') && !text.includes('FINAL')) {
                         if (!broadcastChannel) {
                             broadcastChannel = text;
                         }
                     }
                 });
 
-                // Fallback: If rawDate is missing (common for today's games on Yahoo), grab today's date in Central Time
                 if (!rawDate && rawTime) {
                     const options = { timeZone: 'America/Chicago', weekday: 'short', month: 'numeric', day: 'numeric' };
                     rawDate = new Intl.DateTimeFormat('en-US', options).format(new Date());
                 }
 
-                // Format datetime string (e.g. "Thu, 9/10, 7:00 PM CDT")
                 let dateTimeDisplay = [rawDate, rawTime].filter(Boolean).join(', ');
                 if (dateTimeDisplay && !dateTimeDisplay.includes('CDT')) {
                     dateTimeDisplay += ' CDT';
@@ -190,7 +180,7 @@ async function scrapeYahooScores() {
         });
 
         fs.writeFileSync('games.json', JSON.stringify(games, null, 2));
-        console.log(`Successfully scraped and saved ${games.length} games with TV data to games.json!`);
+        console.log(`Successfully scraped and saved ${games.length} games to games.json!`);
 
     } catch (error) {
         console.error("CRITICAL SCRAPE ERROR:", error);
