@@ -1,6 +1,6 @@
 [
   {
-    "datetime": "Thu 9/10, 7:00 PM CDT",
+    "datetime": "7:00 PM CDT",
     "status": "UPCOMING",
     "odds": "MIA -57.5, O/U 62.5",
     "tv": "",
@@ -134,7 +134,7 @@
   {
     "datetime": "Sat 9/12, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "IND -56.5, O/U 64.5",
+    "odds": "IND -56.5, O/U 65.5",
     "tv": "",
     "awayTeam": {
       "name": "Howard",
@@ -420,7 +420,7 @@
   {
     "datetime": "Sat 9/12, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "M-OH -31.5, O/U 50.5",
+    "odds": "M-OH -30.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Holy Cross",
@@ -794,7 +794,7 @@
   {
     "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UAB -10.5, O/U 55.5",
+    "odds": "UAB -10, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "LA Monroe",
@@ -882,7 +882,7 @@
   {
     "datetime": "Sat 9/12, 2:45 PM CDT",
     "status": "UPCOMING",
-    "odds": "UNLV -3.5, O/U 56.5",
+    "odds": "UNLV -3, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "UNLV",
@@ -948,7 +948,7 @@
   {
     "datetime": "Sat 9/12, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "SMU -25, O/U 58.5",
+    "odds": "SMU -25.5, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "UC Davis",
@@ -1366,7 +1366,7 @@
   {
     "datetime": "Sat 9/12, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "",
+    "odds": "ARST -28.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "West Georgia",
@@ -1498,7 +1498,7 @@
   {
     "datetime": "Sat 9/12, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "CCU -31.5, O/U 53.5",
+    "odds": "CCU -33.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Fordham",
@@ -1520,7 +1520,7 @@
   {
     "datetime": "Sat 9/12, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "NAVY -4.5, O/U 58.5",
+    "odds": "NAVY -5.5, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "Navy",
@@ -1542,7 +1542,7 @@
   {
     "datetime": "Sat 9/12, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TEX -1.5, O/U 48.5",
+    "odds": "TEX -1.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Ohio St.",
@@ -1870,7 +1870,7 @@
     }
   },
   {
-    "datetime": "Sun 9/13, 11:00 PM CDT",
+    "datetime": "Sat 9/12, 11:00 PM CDT",
     "status": "UPCOMING",
     "odds": "HAW -7.5, O/U 49.5",
     "tv": "",
