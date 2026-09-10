@@ -3,7 +3,6 @@
     "datetime": "Thu, 9/10, FAMU CDT",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "ACCN",
     "awayTeam": {
       "name": "Florida A&M",
       "mascot": "",
@@ -23,7 +22,6 @@
     "datetime": "Richmond CDT",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Richmond",
       "mascot": "",
@@ -43,7 +41,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Norfolk St.",
       "mascot": "",
@@ -63,7 +60,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "ACCN",
     "awayTeam": {
       "name": "Villanova",
       "mascot": "",
@@ -83,7 +79,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "ESPN2",
     "awayTeam": {
       "name": "Rutgers",
       "mascot": "",
@@ -103,7 +98,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "FOX",
     "awayTeam": {
       "name": "Missouri",
       "mascot": "",
@@ -123,7 +117,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Howard",
       "mascot": "",
@@ -143,7 +136,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "ESPN",
     "awayTeam": {
       "name": "Oregon",
       "mascot": "",
@@ -163,7 +155,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "FOX",
     "awayTeam": {
       "name": "Oklahoma",
       "mascot": "",
@@ -183,7 +174,6 @@
     "datetime": "TNT/ CDT",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Washington St.",
       "mascot": "",
@@ -203,7 +193,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "FS1",
     "awayTeam": {
       "name": "Wake Forest",
       "mascot": "",
@@ -223,7 +212,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Wofford",
       "mascot": "",
@@ -243,7 +231,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Old Dominion",
       "mascot": "",
@@ -263,7 +250,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "ESPN2",
     "awayTeam": {
       "name": "Penn St.",
       "mascot": "",
@@ -283,7 +269,6 @@
     "datetime": "Thu, 9/10, TAMU CDT",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "ABC",
     "awayTeam": {
       "name": "Arizona St.",
       "mascot": "",
@@ -303,7 +288,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "ACCN",
     "awayTeam": {
       "name": "E. Tennessee St.",
       "mascot": "",
@@ -323,7 +307,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "South Florida",
       "mascot": "",
@@ -343,7 +326,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Appalachian St.",
       "mascot": "",
@@ -363,7 +345,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "W. Kentucky",
       "mascot": "",
@@ -383,7 +364,6 @@
     "datetime": "Thu, 9/10, Miami (OH) CDT",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Holy Cross",
       "mascot": "",
@@ -403,7 +383,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Tenn-Martin",
       "mascot": "",
@@ -423,7 +402,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Colgate",
       "mascot": "",
@@ -443,7 +421,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Stony Brook",
       "mascot": "",
@@ -463,7 +440,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "FS1",
     "awayTeam": {
       "name": "Duke",
       "mascot": "",
@@ -483,7 +459,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "FOX",
     "awayTeam": {
       "name": "Arizona",
       "mascot": "",
@@ -503,7 +478,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "ESPN2",
     "awayTeam": {
       "name": "UCF",
       "mascot": "",
@@ -523,7 +497,6 @@
     "datetime": "Thu, 9/10, Notre Dame CDT",
     "status": "LIVE",
     "odds": "",
-    "tv": "NBC",
     "awayTeam": {
       "name": "Rice",
       "mascot": "",
@@ -543,7 +516,6 @@
     "datetime": "Thu, 9/10, Alabama CDT",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "ABC",
     "awayTeam": {
       "name": "Alabama",
       "mascot": "",
@@ -563,7 +535,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "ACCN",
     "awayTeam": {
       "name": "California",
       "mascot": "",
@@ -583,7 +554,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Utah St.",
       "mascot": "",
@@ -603,7 +573,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "UTSA",
       "mascot": "",
@@ -623,7 +592,6 @@
     "datetime": "Thu, 9/10, James Madison CDT",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Wagner",
       "mascot": "",
@@ -643,7 +611,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Central Conn. St.",
       "mascot": "",
@@ -663,7 +630,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Maryland",
       "mascot": "",
@@ -683,7 +649,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Robert Morris",
       "mascot": "",
@@ -703,7 +668,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Sacred Heart",
       "mascot": "",
@@ -723,7 +687,6 @@
     "datetime": "LA Monroe CDT",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "LA Monroe",
       "mascot": "",
@@ -743,7 +706,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "East. Michigan",
       "mascot": "",
@@ -763,7 +725,6 @@
     "datetime": "",
     "status": "LIVE",
     "odds": "",
-    "tv": "CBS",
     "awayTeam": {
       "name": "Mississippi St.",
       "mascot": "",
@@ -783,7 +744,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Weber St.",
       "mascot": "",
@@ -803,7 +763,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "UNLV",
       "mascot": "",
@@ -823,7 +782,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Mercyhurst",
       "mascot": "",
@@ -843,7 +801,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Northern Colorado",
       "mascot": "",
@@ -863,7 +820,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "UC Davis",
       "mascot": "",
@@ -883,7 +839,6 @@
     "datetime": "Thu, 9/10, Alabama St. CDT",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Alabama St.",
       "mascot": "",
@@ -903,7 +858,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Delaware",
       "mascot": "",
@@ -923,7 +877,6 @@
     "datetime": "Thu, 9/10, Campbell CDT",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Campbell",
       "mascot": "",
@@ -943,7 +896,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Memphis",
       "mascot": "",
@@ -963,7 +915,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Gardner-Webb",
       "mascot": "",
@@ -983,7 +934,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Buffalo",
       "mascot": "",
@@ -1003,7 +953,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Jacksonville St.",
       "mascot": "",
@@ -1023,7 +972,6 @@
     "datetime": "Monmouth CDT",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Monmouth",
       "mascot": "",
@@ -1043,7 +991,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Middle Tenn. St.",
       "mascot": "",
@@ -1063,7 +1010,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Lindenwood",
       "mascot": "",
@@ -1083,7 +1029,6 @@
     "datetime": "Thu, 9/10, South Alabama CDT",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "South Alabama",
       "mascot": "",
@@ -1103,7 +1048,6 @@
     "datetime": "Thu, 9/10, Sam Houston State CDT",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Tulsa",
       "mascot": "",
@@ -1123,7 +1067,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Western Carolina",
       "mascot": "",
@@ -1143,7 +1086,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "ESPN",
     "awayTeam": {
       "name": "Tennessee",
       "mascot": "",
@@ -1163,7 +1105,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Georgia St.",
       "mascot": "",
@@ -1183,7 +1124,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Southern Utah",
       "mascot": "",
@@ -1203,7 +1143,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "FS1",
     "awayTeam": {
       "name": "Bowling Green",
       "mascot": "",
@@ -1223,7 +1162,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Southern",
       "mascot": "",
@@ -1243,7 +1181,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "West Georgia",
       "mascot": "",
@@ -1263,7 +1200,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Illinois St.",
       "mascot": "",
@@ -1283,7 +1219,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Towson",
       "mascot": "",
@@ -1303,7 +1238,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Western Ill.",
       "mascot": "",
@@ -1323,7 +1257,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "SDSU",
       "mascot": "",
@@ -1343,7 +1276,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "NBC",
     "awayTeam": {
       "name": "Iowa St.",
       "mascot": "",
@@ -1363,7 +1295,6 @@
     "datetime": "Thu, 9/10, Fordham CDT",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Fordham",
       "mascot": "",
@@ -1383,7 +1314,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Navy",
       "mascot": "",
@@ -1403,7 +1333,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "ABC",
     "awayTeam": {
       "name": "Ohio St.",
       "mascot": "",
@@ -1423,7 +1352,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "ACCN",
     "awayTeam": {
       "name": "Georgia Southern",
       "mascot": "",
@@ -1443,7 +1371,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Louisiana Tech",
       "mascot": "",
@@ -1463,7 +1390,6 @@
     "datetime": "CBS/ CDT",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Texas Tech",
       "mascot": "",
@@ -1483,7 +1409,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Southern Miss",
       "mascot": "",
@@ -1503,7 +1428,6 @@
     "datetime": "",
     "status": "LIVE",
     "odds": "",
-    "tv": "ESPN2",
     "awayTeam": {
       "name": "Charlotte",
       "mascot": "",
@@ -1523,7 +1447,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Prairie View A&M",
       "mascot": "",
@@ -1543,7 +1466,6 @@
     "datetime": "Thu, 9/10, Grambling St. CDT",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Grambling St.",
       "mascot": "",
@@ -1563,7 +1485,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Cal Poly",
       "mascot": "",
@@ -1583,7 +1504,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Texas Southern",
       "mascot": "",
@@ -1603,7 +1523,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "FS1",
     "awayTeam": {
       "name": "N. Dak. St.",
       "mascot": "",
@@ -1623,7 +1542,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "ESPN",
     "awayTeam": {
       "name": "Arkansas",
       "mascot": "",
@@ -1643,7 +1561,6 @@
     "datetime": "Thu, 9/10, Sacramento St. CDT",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Sacramento St.",
       "mascot": "",
@@ -1663,7 +1580,6 @@
     "datetime": "Montana St. CDT",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Montana St.",
       "mascot": "",
@@ -1683,7 +1599,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Louisiana",
       "mascot": "",
@@ -1703,7 +1618,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "N. Mex. St.",
       "mascot": "",

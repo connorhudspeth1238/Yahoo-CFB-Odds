@@ -3,7 +3,6 @@
     "datetime": "Thu, 9/10, Rams CDT",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "49ers",
       "mascot": "",
@@ -23,7 +22,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "FOX",
     "awayTeam": {
       "name": "Buccaneers",
       "mascot": "",
@@ -43,7 +41,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "FOX",
     "awayTeam": {
       "name": "Saints",
       "mascot": "",
@@ -63,7 +60,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "CBS",
     "awayTeam": {
       "name": "Jets",
       "mascot": "",
@@ -83,7 +79,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "CBS",
     "awayTeam": {
       "name": "Ravens",
       "mascot": "",
@@ -103,7 +98,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "FOX",
     "awayTeam": {
       "name": "Falcons",
       "mascot": "",
@@ -123,7 +117,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "FOX",
     "awayTeam": {
       "name": "Bears",
       "mascot": "",
@@ -143,7 +136,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "CBS",
     "awayTeam": {
       "name": "Browns",
       "mascot": "",
@@ -163,7 +155,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "CBS",
     "awayTeam": {
       "name": "Bills",
       "mascot": "",
@@ -183,7 +174,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "FOX",
     "awayTeam": {
       "name": "Dolphins",
       "mascot": "",
@@ -203,7 +193,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "CBS",
     "awayTeam": {
       "name": "Packers",
       "mascot": "",
@@ -223,7 +212,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "FOX",
     "awayTeam": {
       "name": "Commanders",
       "mascot": "",
@@ -243,7 +231,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "CBS",
     "awayTeam": {
       "name": "Cardinals",
       "mascot": "",
@@ -263,7 +250,6 @@
     "datetime": "NBC/P CDT",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Cowboys",
       "mascot": "",
@@ -283,7 +269,6 @@
     "datetime": "ABC/E CDT",
     "status": "UPCOMING",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Broncos",
       "mascot": "",
@@ -303,7 +288,6 @@
     "datetime": "",
     "status": "LIVE",
     "odds": "",
-    "tv": "",
     "awayTeam": {
       "name": "Patriots",
       "mascot": "",
