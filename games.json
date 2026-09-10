@@ -1,6 +1,6 @@
 [
   {
-    "datetime": "Thu, 9/10, FAMU CDT",
+    "datetime": "Thu, 9/10, Miami (FL) CDT",
     "status": "UPCOMING",
     "odds": "MIA -57.5, O/U 63.5",
     "awayTeam": {
@@ -19,7 +19,7 @@
     }
   },
   {
-    "datetime": "Richmond\n2-0 CDT",
+    "datetime": "Richmond CDT",
     "status": "UPCOMING",
     "odds": "NCST -30.5, O/U 48.5",
     "awayTeam": {
@@ -57,7 +57,7 @@
     }
   },
   {
-    "datetime": "Villanova\n1-1 CDT",
+    "datetime": "Villanova CDT",
     "status": "UPCOMING",
     "odds": "LOU -36.5, O/U 56.5",
     "awayTeam": {
@@ -171,7 +171,7 @@
     }
   },
   {
-    "datetime": "TNT/ CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "KSU -18.5, O/U 48.5",
     "awayTeam": {
@@ -266,7 +266,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, TAMU CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "TAMU -14.5, O/U 50.5",
     "awayTeam": {
@@ -361,7 +361,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, Miami (OH)\n0-1 CDT",
+    "datetime": "Thu, 9/10, Miami (OH) CDT",
     "status": "UPCOMING",
     "odds": "M-OH -30.5, O/U 49.5",
     "awayTeam": {
@@ -380,7 +380,7 @@
     }
   },
   {
-    "datetime": "Tenn-Martin\n1-1 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "WVU -40.5, O/U 55.5",
     "awayTeam": {
@@ -513,7 +513,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, 12\nAlabama\n1-0 CDT",
+    "datetime": "Thu, 9/10, Alabama CDT",
     "status": "UPCOMING",
     "odds": "ALA -10.5, O/U 49.5",
     "awayTeam": {
@@ -627,7 +627,7 @@
     }
   },
   {
-    "datetime": "Maryland\n1-0 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "UMD -12.5, O/U 52.5",
     "awayTeam": {
@@ -684,7 +684,7 @@
     }
   },
   {
-    "datetime": "LA Monroe\n0-1\nUAB\n0-1 CDT",
+    "datetime": "LA Monroe CDT",
     "status": "UPCOMING",
     "odds": "UAB -10, O/U 55.5",
     "awayTeam": {
@@ -874,7 +874,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, Campbell\n2-0 CDT",
+    "datetime": "Thu, 9/10, Campbell CDT",
     "status": "UPCOMING",
     "odds": "FLA -49.5, O/U 66.5",
     "awayTeam": {
@@ -969,7 +969,7 @@
     }
   },
   {
-    "datetime": "Monmouth\n1-1 CDT",
+    "datetime": "Monmouth CDT",
     "status": "UPCOMING",
     "odds": "WMU -26, O/U 53",
     "awayTeam": {
@@ -988,7 +988,7 @@
     }
   },
   {
-    "datetime": "Marshall\n0-1 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "MRSH -13.5, O/U 56.5",
     "awayTeam": {
@@ -1026,7 +1026,7 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Thu, 9/10, South Alabama CDT",
     "status": "UPCOMING",
     "odds": "TULN -9.5, O/U 49.5",
     "awayTeam": {
@@ -1045,7 +1045,7 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Thu, 9/10, Sam Houston State CDT",
     "status": "UPCOMING",
     "odds": "TLSA -13.5, O/U 51.5",
     "awayTeam": {
@@ -1292,7 +1292,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, Fordham\n0-2 CDT",
+    "datetime": "Thu, 9/10, Fordham CDT",
     "status": "UPCOMING",
     "odds": "CCU -33.5, O/U 53.5",
     "awayTeam": {
@@ -1387,7 +1387,7 @@
     }
   },
   {
-    "datetime": "CBS/ CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "TTU -26.5, O/U 53.5",
     "awayTeam": {
@@ -1577,7 +1577,7 @@
     }
   },
   {
-    "datetime": "Montana St.\n2-0 CDT",
+    "datetime": "Montana St. CDT",
     "status": "UPCOMING",
     "odds": "MTST -3.5, O/U 49.5",
     "awayTeam": {

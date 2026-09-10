@@ -1,6 +1,6 @@
 [
   {
-    "datetime": "Thu, 9/10, LAR -3.5, O/U 48.5 CDT",
+    "datetime": "Thu, 9/10, Rams CDT",
     "status": "UPCOMING",
     "odds": "LAR -3.5, O/U 48.5",
     "awayTeam": {
@@ -17,7 +17,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, CIN -3.5, O/U 50.5 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "CIN -3.5, O/U 50.5",
     "awayTeam": {
@@ -34,7 +34,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, DET -7, O/U 49.5 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "DET -7, O/U 49.5",
     "awayTeam": {
@@ -51,7 +51,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, TEN -1.5, O/U 38.5 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "TEN -1.5, O/U 38.5",
     "awayTeam": {
@@ -68,7 +68,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, BAL -3.5, O/U 48 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "BAL -3.5, O/U 48",
     "awayTeam": {
@@ -85,7 +85,7 @@
     }
   },
   {
-    "datetime": "FalconsATL0-0, PIT -3.5, O/U 42 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "PIT -3.5, O/U 42",
     "awayTeam": {
@@ -102,7 +102,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, CHI -3, O/U 47 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "CHI -3, O/U 47",
     "awayTeam": {
@@ -119,7 +119,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, JAX -8.5, O/U 40.5 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "JAX -8.5, O/U 40.5",
     "awayTeam": {
@@ -136,7 +136,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, BUF -1.5, O/U 44.5 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "BUF -1.5, O/U 44.5",
     "awayTeam": {
@@ -153,7 +153,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, LV -3.5, O/U 40.5 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "LV -3.5, O/U 40.5",
     "awayTeam": {
@@ -170,7 +170,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, MIN -1.5, O/U 46.5 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "MIN -1.5, O/U 46.5",
     "awayTeam": {
@@ -187,7 +187,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, PHI -4.5, O/U 44.5 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "PHI -4.5, O/U 44.5",
     "awayTeam": {
@@ -204,7 +204,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, LAC -9.5, O/U 47.5 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "LAC -9.5, O/U 47.5",
     "awayTeam": {
@@ -221,7 +221,7 @@
     }
   },
   {
-    "datetime": "NBC/P, DAL -2.5, O/U 48.5 CDT",
+    "datetime": "NBC/P CDT",
     "status": "UPCOMING",
     "odds": "DAL -2.5, O/U 48.5",
     "awayTeam": {
@@ -238,7 +238,7 @@
     }
   },
   {
-    "datetime": "ABC/E, KC -2.5, O/U 43.5 CDT",
+    "datetime": "ABC/E CDT",
     "status": "UPCOMING",
     "odds": "KC -2.5, O/U 43.5",
     "awayTeam": {
@@ -255,7 +255,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, NE +3.5, U 44.5 CDT",
+    "datetime": "",
     "status": "LIVE",
     "odds": "NE +3.5, U 44.5",
     "awayTeam": {
