@@ -1,8 +1,8 @@
 [
   {
-    "datetime": "Thu, 9/10, Miami (FL) CDT",
+    "datetime": "Thu, 9/10, FAMU CDT",
     "status": "UPCOMING",
-    "odds": "MIA -57.5, O/U 63.5",
+    "odds": "MIA -58.5, O/U 64.5",
     "awayTeam": {
       "name": "Florida A&M",
       "rank": "",
@@ -19,7 +19,7 @@
     }
   },
   {
-    "datetime": "Richmond CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "NCST -30.5, O/U 48.5",
     "awayTeam": {
@@ -57,7 +57,7 @@
     }
   },
   {
-    "datetime": "Villanova CDT",
+    "datetime": "NOVA CDT",
     "status": "UPCOMING",
     "odds": "LOU -36.5, O/U 56.5",
     "awayTeam": {
@@ -171,7 +171,7 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "TNT/ CDT",
     "status": "UPCOMING",
     "odds": "KSU -18.5, O/U 48.5",
     "awayTeam": {
@@ -266,7 +266,7 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Thu, 9/10, TAMU CDT",
     "status": "UPCOMING",
     "odds": "TAMU -14.5, O/U 50.5",
     "awayTeam": {
@@ -361,7 +361,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, Miami (OH) CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "M-OH -30.5, O/U 49.5",
     "awayTeam": {
@@ -494,7 +494,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, Notre Dame CDT",
+    "datetime": "",
     "status": "LIVE",
     "odds": "ND -44.5, O/U 55.5",
     "awayTeam": {
@@ -513,7 +513,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, Alabama CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "ALA -10.5, O/U 49.5",
     "awayTeam": {
@@ -589,7 +589,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, James Madison CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "JMU -45.5, O/U 55.5",
     "awayTeam": {
@@ -684,7 +684,7 @@
     }
   },
   {
-    "datetime": "LA Monroe CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "UAB -10, O/U 55.5",
     "awayTeam": {
@@ -762,7 +762,7 @@
   {
     "datetime": "",
     "status": "UPCOMING",
-    "odds": "UNLV -3, O/U 56.5",
+    "odds": "UNLV -3.5, O/U 56.5",
     "awayTeam": {
       "name": "UNLV",
       "rank": "",
@@ -836,7 +836,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, Alabama St. CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "TROY -23, O/U 51.5",
     "awayTeam": {
@@ -857,7 +857,7 @@
   {
     "datetime": "",
     "status": "UPCOMING",
-    "odds": "VAN -21, O/U 54.5",
+    "odds": "VAN -21.5, O/U 54.5",
     "awayTeam": {
       "name": "Delaware",
       "rank": "",
@@ -874,7 +874,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, Campbell CDT",
+    "datetime": "Thu, 9/10, CAMP CDT",
     "status": "UPCOMING",
     "odds": "FLA -49.5, O/U 66.5",
     "awayTeam": {
@@ -969,7 +969,7 @@
     }
   },
   {
-    "datetime": "Monmouth CDT",
+    "datetime": "MONM CDT",
     "status": "UPCOMING",
     "odds": "WMU -26, O/U 53",
     "awayTeam": {
@@ -1026,7 +1026,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, South Alabama CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "TULN -9.5, O/U 49.5",
     "awayTeam": {
@@ -1045,7 +1045,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, Sam Houston State CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "TLSA -13.5, O/U 51.5",
     "awayTeam": {
@@ -1292,7 +1292,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, Fordham CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "CCU -33.5, O/U 53.5",
     "awayTeam": {
@@ -1387,7 +1387,7 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "CBS/ CDT",
     "status": "UPCOMING",
     "odds": "TTU -26.5, O/U 53.5",
     "awayTeam": {
@@ -1463,7 +1463,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, Grambling St. CDT",
+    "datetime": "Thu, 9/10, GRAM CDT",
     "status": "UPCOMING",
     "odds": "TCU -43.5, O/U 54.5",
     "awayTeam": {
@@ -1558,7 +1558,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, Sacramento St. CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "FRES -18.5, O/U 44.5",
     "awayTeam": {
@@ -1577,7 +1577,7 @@
     }
   },
   {
-    "datetime": "Montana St. CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "MTST -3.5, O/U 49.5",
     "awayTeam": {
