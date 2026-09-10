@@ -34,24 +34,24 @@ async function scrapeNflScores() {
                 const teamContainers = card.querySelectorAll('div._ys_1gde6sj');
                 if (teamContainers.length < 2) return;
 
-                const allElements = card.querySelectorAll('div, span');
+                const textNodes = [];
+                const walker = document.createTreeWalker(card, NodeFilter.SHOW_TEXT, null, false);
+                let node;
+                while (node = walker.nextNode()) {
+                    const val = node.nodeValue.trim();
+                    if (val) textNodes.push(val);
+                }
+
                 let rawTime = '';
                 let rawDate = '';
 
-                allElements.forEach(el => {
-                    if (el.children.length > 0) return;
-                    const text = el.innerText.trim();
-                    const lower = text.toLowerCase();
-
-                    if (!text || text.includes('O/U') || text.includes('Spread') || text.length > 30) return;
-
-                    if ((text.includes(':') || lower.includes('pm') || lower.includes('am')) && 
-                        !lower.includes('thu') && !lower.includes('fri') && !lower.includes('sat') && 
-                        !lower.includes('sun') && !lower.includes('mon') && !lower.includes('tue') && !lower.includes('wed') &&
-                        !text.includes('-') && !rawTime) {
-                        rawTime = text;
-                    } 
-                    else if ((text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed') || text.includes('Sep') || text.includes('Oct') || text.includes('Nov') || text.includes('Dec')) && !rawDate && text.length < 15) {
+                textNodes.forEach(text => {
+                    const timeRegex = /^[0-9]{1,2}:[0-9]{2}\s*(?:AM|PM|am|pm)?$/;
+                    if (timeRegex.test(text) && !rawTime) {
+                        rawTime = text.toUpperCase();
+                    }
+                    const dateRegex = /(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun),?\s*(?:[A-Za-z]+\s+[0-9]{1,2}|[0-9]{1,2}\/[0-9]{1,2})|[A-Za-z]+\s+[0-9]{1,2}|[0-9]{1,2}\/[0-9]{1,2}/;
+                    if (dateRegex.test(text) && !rawDate && text.length < 15 && !text.includes('-')) {
                         rawDate = text;
                     }
                 });
