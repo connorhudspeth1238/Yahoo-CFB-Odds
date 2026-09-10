@@ -1,8 +1,8 @@
 [
   {
-    "datetime": "U 62 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "MIA -57.5, O/U 62.5",
+    "odds": "",
     "awayTeam": {
       "name": "Florida A&M",
       "mascot": "FAMU",
@@ -21,9 +21,9 @@
     }
   },
   {
-    "datetime": "U 48 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "NCST -30.5, O/U 48.5",
+    "odds": "",
     "awayTeam": {
       "name": "Richmond",
       "mascot": "RICH",
@@ -42,9 +42,9 @@
     }
   },
   {
-    "datetime": "U 54 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "UVA -44.5, O/U 54.5",
+    "odds": "",
     "awayTeam": {
       "name": "Norfolk St.",
       "mascot": "NORF",
@@ -63,9 +63,9 @@
     }
   },
   {
-    "datetime": "U 56 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "LOU -36.5, O/U 56.5",
+    "odds": "",
     "awayTeam": {
       "name": "Villanova",
       "mascot": "NOVA",
@@ -84,9 +84,9 @@
     }
   },
   {
-    "datetime": "U 54 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "BC -3.5, O/U 54.5",
+    "odds": "",
     "awayTeam": {
       "name": "Rutgers",
       "mascot": "RUTG",
@@ -105,9 +105,9 @@
     }
   },
   {
-    "datetime": "U 50 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "MIZZ -5.5, O/U 50.5",
+    "odds": "",
     "awayTeam": {
       "name": "Missouri",
       "mascot": "MIZZ",
@@ -126,9 +126,9 @@
     }
   },
   {
-    "datetime": "U 65 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "IND -56.5, O/U 65.5",
+    "odds": "",
     "awayTeam": {
       "name": "Howard",
       "mascot": "HOW",
@@ -147,9 +147,9 @@
     }
   },
   {
-    "datetime": "U 57 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "ORE -22.5, O/U 57.5",
+    "odds": "",
     "awayTeam": {
       "name": "Oregon",
       "mascot": "ORE",
@@ -168,9 +168,9 @@
     }
   },
   {
-    "datetime": "U 43 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "OU -5.5, O/U 43.5",
+    "odds": "",
     "awayTeam": {
       "name": "Oklahoma",
       "mascot": "",
@@ -189,9 +189,9 @@
     }
   },
   {
-    "datetime": "U 48 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "KSU -18.5, O/U 48.5",
+    "odds": "",
     "awayTeam": {
       "name": "Washington St.",
       "mascot": "WSU",
@@ -210,9 +210,9 @@
     }
   },
   {
-    "datetime": "U 49 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "WAKE -3, O/U 49.5",
+    "odds": "",
     "awayTeam": {
       "name": "Wake Forest",
       "mascot": "WAKE",
@@ -231,9 +231,9 @@
     }
   },
   {
-    "datetime": "U 46 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "KENT -11.5, O/U 46.5",
+    "odds": "",
     "awayTeam": {
       "name": "Wofford",
       "mascot": "WOF",
@@ -252,9 +252,9 @@
     }
   },
   {
-    "datetime": "U 49 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "VT -19.5, O/U 49.5",
+    "odds": "",
     "awayTeam": {
       "name": "Old Dominion",
       "mascot": "ODU",
@@ -273,9 +273,9 @@
     }
   },
   {
-    "datetime": "U 49 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "PSU -23.5, O/U 49.5",
+    "odds": "",
     "awayTeam": {
       "name": "Penn St.",
       "mascot": "PSU",
@@ -294,9 +294,9 @@
     }
   },
   {
-    "datetime": "U 50 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "TAMU -14.5, O/U 50.5",
+    "odds": "",
     "awayTeam": {
       "name": "Arizona St.",
       "mascot": "ASU",
@@ -315,9 +315,9 @@
     }
   },
   {
-    "datetime": "U 54 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "UNC -34.5, O/U 54.5",
+    "odds": "",
     "awayTeam": {
       "name": "E. Tennessee St.",
       "mascot": "ETSU",
@@ -336,9 +336,9 @@
     }
   },
   {
-    "datetime": "U 46 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "ARMY -3.5, O/U 46.5",
+    "odds": "",
     "awayTeam": {
       "name": "South Florida",
       "mascot": "S FLA",
@@ -357,9 +357,9 @@
     }
   },
   {
-    "datetime": "U 56 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "ECU -7.5, O/U 56.5",
+    "odds": "",
     "awayTeam": {
       "name": "Appalachian St.",
       "mascot": "APP",
@@ -378,9 +378,9 @@
     }
   },
   {
-    "datetime": "U 55 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "UGA -40.5, O/U 55.5",
+    "odds": "",
     "awayTeam": {
       "name": "W. Kentucky",
       "mascot": "WKU",
@@ -399,9 +399,9 @@
     }
   },
   {
-    "datetime": "U 49 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "M-OH -30.5, O/U 49.5",
+    "odds": "",
     "awayTeam": {
       "name": "Holy Cross",
       "mascot": "",
@@ -420,9 +420,9 @@
     }
   },
   {
-    "datetime": "U 55 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "WVU -40.5, O/U 55.5",
+    "odds": "",
     "awayTeam": {
       "name": "Tenn-Martin",
       "mascot": "UTM",
@@ -441,9 +441,9 @@
     }
   },
   {
-    "datetime": "U 49 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "CMU -24.5, O/U 49.5",
+    "odds": "",
     "awayTeam": {
       "name": "Colgate",
       "mascot": "COLG",
@@ -462,9 +462,9 @@
     }
   },
   {
-    "datetime": "U 56 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "BALL -15.5, O/U 56.5",
+    "odds": "",
     "awayTeam": {
       "name": "Stony Brook",
       "mascot": "STONY",
@@ -483,9 +483,9 @@
     }
   },
   {
-    "datetime": "U 51 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "ILL -5.5, O/U 51.5",
+    "odds": "",
     "awayTeam": {
       "name": "Duke",
       "mascot": "DUKE",
@@ -504,9 +504,9 @@
     }
   },
   {
-    "datetime": "U 47 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "BYU -7.5, O/U 47.5",
+    "odds": "",
     "awayTeam": {
       "name": "Arizona",
       "mascot": "ARIZ",
@@ -525,9 +525,9 @@
     }
   },
   {
-    "datetime": "U 56 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "PITT -7.5, O/U 56.5",
+    "odds": "",
     "awayTeam": {
       "name": "UCF",
       "mascot": "",
@@ -546,9 +546,9 @@
     }
   },
   {
-    "datetime": "U 55 CDT",
+    "datetime": "",
     "status": "LIVE",
-    "odds": "ND -44.5, O/U 55.5",
+    "odds": "",
     "awayTeam": {
       "name": "Rice",
       "mascot": "RICE",
@@ -567,9 +567,9 @@
     }
   },
   {
-    "datetime": "U 49 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "ALA -10.5, O/U 49.5",
+    "odds": "",
     "awayTeam": {
       "name": "Alabama",
       "mascot": "ALA",
@@ -588,9 +588,9 @@
     }
   },
   {
-    "datetime": "U 56 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "SYR -3.5, O/U 56.5",
+    "odds": "",
     "awayTeam": {
       "name": "California",
       "mascot": "CAL",
@@ -609,9 +609,9 @@
     }
   },
   {
-    "datetime": "U 55 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "UW -26.5, O/U 55.5",
+    "odds": "",
     "awayTeam": {
       "name": "Utah St.",
       "mascot": "USU",
@@ -630,9 +630,9 @@
     }
   },
   {
-    "datetime": "U 66 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "TXST -1.5, O/U 66.5",
+    "odds": "",
     "awayTeam": {
       "name": "UTSA",
       "mascot": "",
@@ -651,9 +651,9 @@
     }
   },
   {
-    "datetime": "U 55 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "JMU -45.5, O/U 55.5",
+    "odds": "",
     "awayTeam": {
       "name": "Wagner",
       "mascot": "WAG",
@@ -672,9 +672,9 @@
     }
   },
   {
-    "datetime": "U 55 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "TOL -34.5, O/U 55.5",
+    "odds": "",
     "awayTeam": {
       "name": "Central Conn. St.",
       "mascot": "CCSU",
@@ -693,9 +693,9 @@
     }
   },
   {
-    "datetime": "U 52 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "UMD -12.5, O/U 52.5",
+    "odds": "",
     "awayTeam": {
       "name": "Maryland",
       "mascot": "UMD",
@@ -714,9 +714,9 @@
     }
   },
   {
-    "datetime": "U 41 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "AKR -27.5, O/U 41.5",
+    "odds": "",
     "awayTeam": {
       "name": "Robert Morris",
       "mascot": "RMU",
@@ -735,9 +735,9 @@
     }
   },
   {
-    "datetime": "U 53 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "UMASS -23.5, O/U 53.5",
+    "odds": "",
     "awayTeam": {
       "name": "Sacred Heart",
       "mascot": "SHU",
@@ -756,9 +756,9 @@
     }
   },
   {
-    "datetime": "U 55 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "UAB -10, O/U 55.5",
+    "odds": "",
     "awayTeam": {
       "name": "LA Monroe",
       "mascot": "ULM",
@@ -777,9 +777,9 @@
     }
   },
   {
-    "datetime": "U 49 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "MSU -17.5, O/U 49.5",
+    "odds": "",
     "awayTeam": {
       "name": "East. Michigan",
       "mascot": "EMU",
@@ -798,9 +798,9 @@
     }
   },
   {
-    "datetime": "U 55 CDT",
+    "datetime": "",
     "status": "LIVE",
-    "odds": "MINN -1.5, O/U 55.5",
+    "odds": "",
     "awayTeam": {
       "name": "Mississippi St.",
       "mascot": "MSST",
@@ -819,9 +819,9 @@
     }
   },
   {
-    "datetime": "U 53 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "COLO -33.5, O/U 53.5",
+    "odds": "",
     "awayTeam": {
       "name": "Weber St.",
       "mascot": "WEB",
@@ -840,9 +840,9 @@
     }
   },
   {
-    "datetime": "U 56 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "UNLV -3, O/U 56.5",
+    "odds": "",
     "awayTeam": {
       "name": "UNLV",
       "mascot": "",
@@ -861,9 +861,9 @@
     }
   },
   {
-    "datetime": "U 52 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "UNM -40.5, O/U 52.5",
+    "odds": "",
     "awayTeam": {
       "name": "Mercyhurst",
       "mascot": "MRCY",
@@ -882,9 +882,9 @@
     }
   },
   {
-    "datetime": "U 47 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "WYO -23.5, O/U 47.5",
+    "odds": "",
     "awayTeam": {
       "name": "Northern Colorado",
       "mascot": "UNCO",
@@ -903,9 +903,9 @@
     }
   },
   {
-    "datetime": "U 58 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "SMU -25.5, O/U 58.5",
+    "odds": "",
     "awayTeam": {
       "name": "UC Davis",
       "mascot": "UCD",
@@ -924,9 +924,9 @@
     }
   },
   {
-    "datetime": "U 51 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "TROY -23, O/U 51.5",
+    "odds": "",
     "awayTeam": {
       "name": "Alabama St.",
       "mascot": "ALST",
@@ -945,9 +945,9 @@
     }
   },
   {
-    "datetime": "U 54 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "VAN -21, O/U 54.5",
+    "odds": "",
     "awayTeam": {
       "name": "Delaware",
       "mascot": "DEL",
@@ -966,9 +966,9 @@
     }
   },
   {
-    "datetime": "U 66 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "FLA -49.5, O/U 66.5",
+    "odds": "",
     "awayTeam": {
       "name": "Campbell",
       "mascot": "CAMP",
@@ -987,9 +987,9 @@
     }
   },
   {
-    "datetime": "U 54 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "BSU -8.5, O/U 54.5",
+    "odds": "",
     "awayTeam": {
       "name": "Memphis",
       "mascot": "MEM",
@@ -1008,9 +1008,9 @@
     }
   },
   {
-    "datetime": "U 54 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "LIB -26.5, O/U 54.5",
+    "odds": "",
     "awayTeam": {
       "name": "Gardner-Webb",
       "mascot": "WEBB",
@@ -1029,9 +1029,9 @@
     }
   },
   {
-    "datetime": "U 47 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "FIU -10.5, O/U 47.5",
+    "odds": "",
     "awayTeam": {
       "name": "Buffalo",
       "mascot": "BUFF",
@@ -1050,9 +1050,9 @@
     }
   },
   {
-    "datetime": "U 50 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "OHIO -2.5, O/U 50.5",
+    "odds": "",
     "awayTeam": {
       "name": "Jacksonville St.",
       "mascot": "JVST",
@@ -1071,9 +1071,9 @@
     }
   },
   {
-    "datetime": "U 53 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "WMU -26, O/U 53",
+    "odds": "",
     "awayTeam": {
       "name": "Monmouth",
       "mascot": "MONM",
@@ -1092,9 +1092,9 @@
     }
   },
   {
-    "datetime": "U 56 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "MRSH -13.5, O/U 56.5",
+    "odds": "",
     "awayTeam": {
       "name": "Middle Tenn. St.",
       "mascot": "MTSU",
@@ -1113,9 +1113,9 @@
     }
   },
   {
-    "datetime": "U 52 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "MOST -19.5, O/U 52.5",
+    "odds": "",
     "awayTeam": {
       "name": "Lindenwood",
       "mascot": "LIN",
@@ -1134,9 +1134,9 @@
     }
   },
   {
-    "datetime": "U 49 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "TULN -9.5, O/U 49.5",
+    "odds": "",
     "awayTeam": {
       "name": "South Alabama",
       "mascot": "S ALA",
@@ -1155,9 +1155,9 @@
     }
   },
   {
-    "datetime": "U 51 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "TLSA -13.5, O/U 51.5",
+    "odds": "",
     "awayTeam": {
       "name": "Tulsa",
       "mascot": "TLSA",
@@ -1176,9 +1176,9 @@
     }
   },
   {
-    "datetime": "U 60 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "CIN -36.5, O/U 60.5",
+    "odds": "",
     "awayTeam": {
       "name": "Western Carolina",
       "mascot": "WCU",
@@ -1197,9 +1197,9 @@
     }
   },
   {
-    "datetime": "U 55 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "TENN -12.5, O/U 55.5",
+    "odds": "",
     "awayTeam": {
       "name": "Tennessee",
       "mascot": "TENN",
@@ -1218,9 +1218,9 @@
     }
   },
   {
-    "datetime": "U 54 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "KENN -9.5, O/U 54.5",
+    "odds": "",
     "awayTeam": {
       "name": "Georgia St.",
       "mascot": "GA ST",
@@ -1239,9 +1239,9 @@
     }
   },
   {
-    "datetime": "U 57 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "CSU -20.5, O/U 57.5",
+    "odds": "",
     "awayTeam": {
       "name": "Southern Utah",
       "mascot": "SUU",
@@ -1260,9 +1260,9 @@
     }
   },
   {
-    "datetime": "U 51 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "NEB -29.5, O/U 51.5",
+    "odds": "",
     "awayTeam": {
       "name": "Bowling Green",
       "mascot": "BGSU",
@@ -1281,9 +1281,9 @@
     }
   },
   {
-    "datetime": "U 60 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "HOU -51.5, O/U 60.5",
+    "odds": "",
     "awayTeam": {
       "name": "Southern",
       "mascot": "SOU",
@@ -1302,9 +1302,9 @@
     }
   },
   {
-    "datetime": "U 56 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "ARST -28.5, O/U 56.5",
+    "odds": "",
     "awayTeam": {
       "name": "West Georgia",
       "mascot": "WGA",
@@ -1323,9 +1323,9 @@
     }
   },
   {
-    "datetime": "U 47 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "ILST -3.5, O/U 47.5",
+    "odds": "",
     "awayTeam": {
       "name": "Illinois St.",
       "mascot": "ILST",
@@ -1344,9 +1344,9 @@
     }
   },
   {
-    "datetime": "U 55 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "SC -43.5, O/U 55.5",
+    "odds": "",
     "awayTeam": {
       "name": "Towson",
       "mascot": "TOWS",
@@ -1365,9 +1365,9 @@
     }
   },
   {
-    "datetime": "U 48 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "WIS -38.5, O/U 48.5",
+    "odds": "",
     "awayTeam": {
       "name": "Western Ill.",
       "mascot": "WIU",
@@ -1386,9 +1386,9 @@
     }
   },
   {
-    "datetime": "U 55 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "UCLA -12.5, O/U 55.5",
+    "odds": "",
     "awayTeam": {
       "name": "SDSU",
       "mascot": "",
@@ -1407,9 +1407,9 @@
     }
   },
   {
-    "datetime": "U 40 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "IOWA -13.5, O/U 40.5",
+    "odds": "",
     "awayTeam": {
       "name": "Iowa St.",
       "mascot": "ISU",
@@ -1428,9 +1428,9 @@
     }
   },
   {
-    "datetime": "U 53 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "CCU -33.5, O/U 53.5",
+    "odds": "",
     "awayTeam": {
       "name": "Fordham",
       "mascot": "FOR",
@@ -1449,9 +1449,9 @@
     }
   },
   {
-    "datetime": "U 58 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "NAVY -5.5, O/U 58.5",
+    "odds": "",
     "awayTeam": {
       "name": "Navy",
       "mascot": "NAVY",
@@ -1470,9 +1470,9 @@
     }
   },
   {
-    "datetime": "U 49 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "TEX -1.5, O/U 49.5",
+    "odds": "",
     "awayTeam": {
       "name": "Ohio St.",
       "mascot": "OSU",
@@ -1491,9 +1491,9 @@
     }
   },
   {
-    "datetime": "U 55 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "CLEM -20.5, O/U 55.5",
+    "odds": "",
     "awayTeam": {
       "name": "Georgia Southern",
       "mascot": "GASO",
@@ -1512,9 +1512,9 @@
     }
   },
   {
-    "datetime": "U 55 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "LSU -35.5, O/U 55.5",
+    "odds": "",
     "awayTeam": {
       "name": "Louisiana Tech",
       "mascot": "",
@@ -1533,9 +1533,9 @@
     }
   },
   {
-    "datetime": "U 53 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "TTU -26.5, O/U 53.5",
+    "odds": "",
     "awayTeam": {
       "name": "Texas Tech",
       "mascot": "TTU",
@@ -1554,9 +1554,9 @@
     }
   },
   {
-    "datetime": "U 56 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "AUB -33.5, O/U 56.5",
+    "odds": "",
     "awayTeam": {
       "name": "Southern Miss",
       "mascot": "USM",
@@ -1575,9 +1575,9 @@
     }
   },
   {
-    "datetime": "U 60 CDT",
+    "datetime": "",
     "status": "LIVE",
-    "odds": "MISS -47.5, O/U 60.5",
+    "odds": "",
     "awayTeam": {
       "name": "Charlotte",
       "mascot": "CHAR",
@@ -1596,9 +1596,9 @@
     }
   },
   {
-    "datetime": "U 55 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "BAY -38.5, O/U 55.5",
+    "odds": "",
     "awayTeam": {
       "name": "Prairie View A&M",
       "mascot": "",
@@ -1617,9 +1617,9 @@
     }
   },
   {
-    "datetime": "U 54 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "TCU -43.5, O/U 54.5",
+    "odds": "",
     "awayTeam": {
       "name": "Grambling St.",
       "mascot": "GRAM",
@@ -1638,9 +1638,9 @@
     }
   },
   {
-    "datetime": "U 56 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "SJSU -20.5, O/U 56.5",
+    "odds": "",
     "awayTeam": {
       "name": "Cal Poly",
       "mascot": "",
@@ -1659,9 +1659,9 @@
     }
   },
   {
-    "datetime": "U 53 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "UTEP -26.5, O/U 53.5",
+    "odds": "",
     "awayTeam": {
       "name": "Texas Southern",
       "mascot": "TXSO",
@@ -1680,9 +1680,9 @@
     }
   },
   {
-    "datetime": "U 47 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "NDSU -2.5, O/U 47.5",
+    "odds": "",
     "awayTeam": {
       "name": "N. Dak. St.",
       "mascot": "NDSU",
@@ -1701,9 +1701,9 @@
     }
   },
   {
-    "datetime": "U 54 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "UTAH -12.5, O/U 54.5",
+    "odds": "",
     "awayTeam": {
       "name": "Arkansas",
       "mascot": "ARK",
@@ -1722,9 +1722,9 @@
     }
   },
   {
-    "datetime": "U 44 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "FRES -18.5, O/U 44.5",
+    "odds": "",
     "awayTeam": {
       "name": "Sacramento St.",
       "mascot": "SAC",
@@ -1743,9 +1743,9 @@
     }
   },
   {
-    "datetime": "U 49 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "MTST -3.5, O/U 49.5",
+    "odds": "",
     "awayTeam": {
       "name": "Montana St.",
       "mascot": "MTST",
@@ -1764,9 +1764,9 @@
     }
   },
   {
-    "datetime": "U 59 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "USC -30.5, O/U 59.5",
+    "odds": "",
     "awayTeam": {
       "name": "Louisiana",
       "mascot": "",
@@ -1785,9 +1785,9 @@
     }
   },
   {
-    "datetime": "U 49 CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "HAW -7.5, O/U 49.5",
+    "odds": "",
     "awayTeam": {
       "name": "N. Mex. St.",
       "mascot": "NMSU",

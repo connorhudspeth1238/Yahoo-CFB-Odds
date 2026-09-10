@@ -1,6 +1,6 @@
 [
   {
-    "datetime": "U 48 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "LAR -3.5, O/U 48.5",
     "awayTeam": {
@@ -21,7 +21,7 @@
     }
   },
   {
-    "datetime": "U 50 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "CIN -3.5, O/U 50.5",
     "awayTeam": {
@@ -42,7 +42,7 @@
     }
   },
   {
-    "datetime": "U 49 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "DET -7, O/U 49.5",
     "awayTeam": {
@@ -63,7 +63,7 @@
     }
   },
   {
-    "datetime": "U 38 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "TEN -1.5, O/U 38.5",
     "awayTeam": {
@@ -84,7 +84,7 @@
     }
   },
   {
-    "datetime": "U 47 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "BAL -3.5, O/U 47.5",
     "awayTeam": {
@@ -105,7 +105,7 @@
     }
   },
   {
-    "datetime": "U 42 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "PIT -3.5, O/U 42",
     "awayTeam": {
@@ -126,7 +126,7 @@
     }
   },
   {
-    "datetime": "U 47 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "CHI -3, O/U 47",
     "awayTeam": {
@@ -147,7 +147,7 @@
     }
   },
   {
-    "datetime": "U 40 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "JAX -8.5, O/U 40.5",
     "awayTeam": {
@@ -168,7 +168,7 @@
     }
   },
   {
-    "datetime": "U 44 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "BUF -1.5, O/U 44.5",
     "awayTeam": {
@@ -189,7 +189,7 @@
     }
   },
   {
-    "datetime": "U 40 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "LV -3.5, O/U 40.5",
     "awayTeam": {
@@ -210,7 +210,7 @@
     }
   },
   {
-    "datetime": "U 46 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "MIN -1.5, O/U 46.5",
     "awayTeam": {
@@ -231,7 +231,7 @@
     }
   },
   {
-    "datetime": "U 44 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "PHI -4.5, O/U 44.5",
     "awayTeam": {
@@ -252,7 +252,7 @@
     }
   },
   {
-    "datetime": "U 47 CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "LAC -9.5, O/U 47.5",
     "awayTeam": {
@@ -273,7 +273,7 @@
     }
   },
   {
-    "datetime": "U 48 CDT",
+    "datetime": "NBC/P CDT",
     "status": "UPCOMING",
     "odds": "DAL -2.5, O/U 48.5",
     "awayTeam": {
@@ -294,7 +294,7 @@
     }
   },
   {
-    "datetime": "U 43 CDT",
+    "datetime": "ABC/E CDT",
     "status": "UPCOMING",
     "odds": "KC -3, O/U 43.5",
     "awayTeam": {
@@ -315,7 +315,7 @@
     }
   },
   {
-    "datetime": "U 44 CDT",
+    "datetime": "",
     "status": "LIVE",
     "odds": "",
     "awayTeam": {
