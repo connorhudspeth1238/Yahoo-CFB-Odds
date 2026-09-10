@@ -36,21 +36,31 @@ async function scrapeNflScores() {
                 const teamContainers = card.querySelectorAll('div._ys_1gde6sj');
                 if (teamContainers.length < 2) return;
 
-                const metaElements = card.querySelectorAll('._ys_qoenog, ._ys_aug67i');
+                const allSpansOrDivs = card.querySelectorAll('div, span');
                 let rawTime = '';
                 let rawDate = '';
+                let odds = '';
 
-                metaElements.forEach(el => {
+                allSpansOrDivs.forEach(el => {
+                    if (el.children.length > 0) return; // Leaf nodes only
                     const text = el.innerText.trim();
                     const lower = text.toLowerCase();
 
-                    if (text.includes('O/U') || (text.includes('-') && (text.includes('.') || text.length > 5))) {
-                        return;
-                    }
+                    if (!text) return;
 
-                    if ((text.includes(':') || lower.includes('pm') || lower.includes('am')) && !lower.includes('thu') && !lower.includes('fri') && !lower.includes('sat') && !lower.includes('sun') && !lower.includes('mon')) {
+                    // Detect Odds (e.g., "-3.5", "+7", "O/U 45.5")
+                    if (text.includes('O/U') || /^[+-][0-9]+(\.[0-9]+)?$/.test(text) || text.includes('EVEN') || text.includes('PK')) {
+                        if (!odds) odds = text;
+                    }
+                    // Detect Time (e.g., "7:00 PM", "12:00pm")
+                    else if ((text.includes(':') || lower.includes('pm') || lower.includes('am')) && 
+                             !lower.includes('thu') && !lower.includes('fri') && !lower.includes('sat') && 
+                             !lower.includes('sun') && !lower.includes('mon') && !lower.includes('tue') && !lower.includes('wed') &&
+                             !text.includes('-') && !rawTime) {
                         rawTime = text;
-                    } else if (text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed')) {
+                    } 
+                    // Detect Date (e.g., "Thu, 9/10", "Sep 10")
+                    else if ((text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed') || text.includes('Sep') || text.includes('Oct') || text.includes('Nov')) && !rawDate && text.length < 15) {
                         rawDate = text;
                     }
                 });
@@ -111,6 +121,7 @@ async function scrapeNflScores() {
                 results.push({
                     datetime: dateTimeDisplay,
                     status: gameStatus,
+                    odds: odds,
                     awayTeam: { 
                         name: awayTeam.name, 
                         mascot: awayTeam.mascot, 
