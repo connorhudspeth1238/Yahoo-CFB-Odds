@@ -2,7 +2,7 @@
   {
     "datetime": "Thu, 9/10, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "MIA -59.5, O/U 65.5",
+    "odds": "MIA -59.5, O/U 66.5",
     "tv": "",
     "awayTeam": {
       "name": "Florida A&M",
@@ -46,7 +46,7 @@
   {
     "datetime": "Fri 9/11, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "UVA -44.5, O/U 54.5",
+    "odds": "UVA -45.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Norfolk St.",
@@ -178,7 +178,7 @@
   {
     "datetime": "Sat 9/12, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "OU -5.5, O/U 43.5",
+    "odds": "OU -4.5, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Oklahoma",
@@ -266,7 +266,7 @@
   {
     "datetime": "Sat 9/12, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "VT -19.5, O/U 50.5",
+    "odds": "VT -19.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Old Dominion",
@@ -376,7 +376,7 @@
   {
     "datetime": "Sat 9/12, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "ECU -7, O/U 56.5",
+    "odds": "ECU -6.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Appalachian St.",
@@ -860,7 +860,7 @@
   {
     "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "COLO -33.5, O/U 53.5",
+    "odds": "COLO -33.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Weber St.",
@@ -904,7 +904,7 @@
   {
     "datetime": "Sat 9/12, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "UNM -41.5, O/U 52.5",
+    "odds": "UNM -41.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Mercyhurst",
@@ -1036,7 +1036,7 @@
   {
     "datetime": "Sat 9/12, 5:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BSU -8.5, O/U 55.5",
+    "odds": "BSU -8.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Memphis",
@@ -1366,7 +1366,7 @@
   {
     "datetime": "Sat 9/12, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ARST -28.5, O/U 56.5",
+    "odds": "ARST -31.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "West Georgia",
@@ -1652,7 +1652,7 @@
   {
     "datetime": "Sat 9/12, 6:45 PM CDT",
     "status": "LIVE",
-    "odds": "MISS -47.5, O/U 60.5",
+    "odds": "MISS -45.5, O/U 60.5",
     "tv": "",
     "awayTeam": {
       "name": "Charlotte",
@@ -1762,7 +1762,7 @@
   {
     "datetime": "Sat 9/12, 9:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NDSU -2.5, O/U 47.5",
+    "odds": "NDSU -1.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "N. Dak. St.",
@@ -1784,7 +1784,7 @@
   {
     "datetime": "Sat 9/12, 9:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "UTAH -12.5, O/U 54.5",
+    "odds": "UTAH -12.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Arkansas",
@@ -1806,7 +1806,7 @@
   {
     "datetime": "Sat 9/12, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "FRES -18.5, O/U 44.5",
+    "odds": "FRES -17.5, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Sacramento St.",
@@ -1850,7 +1850,7 @@
   {
     "datetime": "Sat 9/12, 10:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "USC -30.5, O/U 59.5",
+    "odds": "USC -31.5, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "Louisiana",
