@@ -1,6 +1,6 @@
 [
   {
-    "datetime": "7:00 PM CDT",
+    "datetime": "Thu, 9/10, 7:00 PM CDT",
     "status": "UPCOMING",
     "odds": "MIA -57.5, O/U 62.5",
     "tv": "",
@@ -244,7 +244,7 @@
   {
     "datetime": "Sat 9/12, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "KENT -12.5, O/U 46.5",
+    "odds": "KENT -11.5, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Wofford",
@@ -332,7 +332,7 @@
   {
     "datetime": "Sat 9/12, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "UNC -35.5, O/U 54.5",
+    "odds": "UNC -34.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "E. Tennessee St.",
@@ -420,7 +420,7 @@
   {
     "datetime": "Sat 9/12, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "M-OH -30.5, O/U 50.5",
+    "odds": "M-OH -30.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Holy Cross",
@@ -706,7 +706,7 @@
   {
     "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TOL -34.5, O/U 56.5",
+    "odds": "TOL -34.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Central Conn. St.",
@@ -860,7 +860,7 @@
   {
     "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "COLO -34.5, O/U 53.5",
+    "odds": "COLO -33.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Weber St.",
@@ -904,7 +904,7 @@
   {
     "datetime": "Sat 9/12, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "UNM -41.5, O/U 52.5",
+    "odds": "UNM -40.5, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "Mercyhurst",
@@ -970,7 +970,7 @@
   {
     "datetime": "Sat 9/12, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TROY -23, O/U 52.5",
+    "odds": "TROY -23, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Alabama St.",
@@ -1014,7 +1014,7 @@
   {
     "datetime": "Sat 9/12, 4:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "FLA -49.5, O/U 67",
+    "odds": "FLA -49.5, O/U 66.5",
     "tv": "",
     "awayTeam": {
       "name": "Campbell",
@@ -1432,7 +1432,7 @@
   {
     "datetime": "Sat 9/12, 6:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "WIS -38.5, O/U 49.5",
+    "odds": "WIS -38.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Western Ill.",
@@ -1718,7 +1718,7 @@
   {
     "datetime": "Sat 9/12, 8:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "SJSU -20.5, O/U 57.5",
+    "odds": "SJSU -20.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Cal Poly",
@@ -1870,7 +1870,7 @@
     }
   },
   {
-    "datetime": "Sat 9/12, 11:00 PM CDT",
+    "datetime": "Sun 9/13, 11:00 PM CDT",
     "status": "UPCOMING",
     "odds": "HAW -7.5, O/U 49.5",
     "tv": "",
