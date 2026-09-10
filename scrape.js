@@ -18,7 +18,7 @@ async function scrapeYahooScores() {
 
         console.log("Navigating to Yahoo Sports Scoreboard...");
         await page.goto('https://sports.yahoo.com/college-football/scoreboard/?leagueFilter=divisionIds_1', { 
-            waitUntil: 'networkidle2',
+            waitUntil: 'domcontentloaded', // Changed from networkidle2 to prevent timeouts
             timeout: 60000 
         });
 
@@ -37,7 +37,6 @@ async function scrapeYahooScores() {
                 const teamContainers = card.querySelectorAll('div._ys_1gde6sj');
                 if (teamContainers.length < 2) return;
 
-                // Extract date, time, and broadcast channel from metadata elements
                 const metaElements = card.querySelectorAll('._ys_qoenog, ._ys_aug67i');
                 let rawTime = '';
                 let rawDate = '';
@@ -60,13 +59,11 @@ async function scrapeYahooScores() {
                     }
                 });
 
-                // Fallback: If rawDate is missing, grab today's date in Central Time
                 if (!rawDate && rawTime) {
                     const options = { timeZone: 'America/Chicago', weekday: 'short', month: 'numeric', day: 'numeric' };
                     rawDate = new Intl.DateTimeFormat('en-US', options).format(new Date());
                 }
 
-                // Format datetime string
                 let dateTimeDisplay = [rawDate, rawTime].filter(Boolean).join(', ');
                 if (dateTimeDisplay && !dateTimeDisplay.includes('CDT')) {
                     dateTimeDisplay += ' CDT';
@@ -83,7 +80,6 @@ async function scrapeYahooScores() {
                     const nameEl = container.querySelector('._ys_159h2dm');
                     const name = nameEl ? nameEl.innerText.trim() : '';
                     
-                    // Extract mascot / secondary name
                     const allSpans = Array.from(container.querySelectorAll('span'));
                     let mascot = '';
                     const textSpans = allSpans.map(s => s.innerText.trim());
@@ -94,7 +90,6 @@ async function scrapeYahooScores() {
                         }
                     }
 
-                    // Extract record or score
                     let record = '';
                     let score = '';
                     
@@ -110,7 +105,6 @@ async function scrapeYahooScores() {
                         score = scoreEl ? scoreEl.innerText.trim() : '';
                     }
 
-                    // Extract rank (1-25)
                     let rank = '';
                     allSpans.forEach(span => {
                         const txt = span.innerText.trim();
@@ -130,7 +124,6 @@ async function scrapeYahooScores() {
 
                 if (!awayTeam.name || !homeTeam.name) return;
 
-                // Logos
                 const logos = card.querySelectorAll('img._ys_14fh01c');
                 const awayLogo = logos[0] ? logos[0].src : '';
                 const homeLogo = logos[1] ? logos[1].src : '';
@@ -139,7 +132,6 @@ async function scrapeYahooScores() {
                 if (seenGames.has(uniqueKey)) return;
                 seenGames.add(uniqueKey);
 
-                // Betting Odds
                 const oddsElement = card.querySelector('._ys_ea8nnj');
                 let odds = '';
                 if (oddsElement) {
