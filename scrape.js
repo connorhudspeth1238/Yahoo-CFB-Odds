@@ -38,25 +38,43 @@ async function scrapeYahooScores() {
                 if (teamContainers.length < 2) return;
 
                 // Extract date, time, and broadcast channel from metadata elements
-                const metaElements = card.querySelectorAll('._ys_qoenog, ._ys_aug67i');
+                const metaElements = card.querySelectorAll('._ys_qoenog, ._ys_aug67i, span');
                 let rawTime = '';
                 let rawDate = '';
                 let broadcastChannel = '';
 
+                // Known network abbreviations to help spot channels if they appear as standalone text
+                const knownNetworks = ['ESPN', 'ESPN2', 'ESPNEWS', 'ESPNU', 'ABC', 'FOX', 'FS1', 'FS2', 'CBS', 'CBSSN', 'NBC', 'BTN', 'SECN', 'ACCN', 'PEACOCK', 'PRIME', 'TNT', 'TBS', 'TRUTV', 'ESPN+'];
+
                 metaElements.forEach(el => {
                     const text = el.innerText.trim();
+                    const upper = text.toUpperCase();
                     const lower = text.toLowerCase();
 
+                    // Skip betting odds text
                     if (text.includes('O/U') || (text.includes('-') && (text.includes('.') || text.length > 5))) {
                         return;
                     }
 
+                    // Check if this specific element matches a known TV network name
+                    if (knownNetworks.includes(upper)) {
+                        broadcastChannel = upper;
+                        return;
+                    }
+
+                    // Identify Time
                     if ((text.includes(':') || lower.includes('pm') || lower.includes('am')) && !lower.includes('thu') && !lower.includes('fri') && !lower.includes('sat') && !lower.includes('sun')) {
                         rawTime = text;
-                    } else if (text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed')) {
+                    } 
+                    // Identify Date
+                    else if (text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed')) {
                         rawDate = text;
-                    } else if (text.length > 0 && text.length <= 6 && text === text.toUpperCase() && !text.includes('-') && !text.includes('/')) {
-                        broadcastChannel = text;
+                    } 
+                    // Fallback short uppercase string for network if not matched above
+                    else if (text.length > 0 && text.length <= 8 && text === text.toUpperCase() && !text.includes('-') && !text.includes('/') && !text.includes('FINAL')) {
+                        if (!broadcastChannel) {
+                            broadcastChannel = text;
+                        }
                     }
                 });
 
@@ -83,7 +101,6 @@ async function scrapeYahooScores() {
                     const nameEl = container.querySelector('._ys_159h2dm');
                     const name = nameEl ? nameEl.innerText.trim() : '';
                     
-                    // Extract mascot / secondary name
                     const allSpans = Array.from(container.querySelectorAll('span'));
                     let mascot = '';
                     const textSpans = allSpans.map(s => s.innerText.trim());
@@ -94,7 +111,6 @@ async function scrapeYahooScores() {
                         }
                     }
 
-                    // Extract record (e.g., "1-2") or score
                     let record = '';
                     let score = '';
                     
@@ -110,7 +126,6 @@ async function scrapeYahooScores() {
                         score = scoreEl ? scoreEl.innerText.trim() : '';
                     }
 
-                    // Extract rank (1-25)
                     let rank = '';
                     allSpans.forEach(span => {
                         const txt = span.innerText.trim();
@@ -130,7 +145,6 @@ async function scrapeYahooScores() {
 
                 if (!awayTeam.name || !homeTeam.name) return;
 
-                // Logos
                 const logos = card.querySelectorAll('img._ys_14fh01c');
                 const awayLogo = logos[0] ? logos[0].src : '';
                 const homeLogo = logos[1] ? logos[1].src : '';
@@ -139,7 +153,6 @@ async function scrapeYahooScores() {
                 if (seenGames.has(uniqueKey)) return;
                 seenGames.add(uniqueKey);
 
-                // Betting Odds
                 const oddsElement = card.querySelector('._ys_ea8nnj');
                 let odds = '';
                 if (oddsElement) {
@@ -177,7 +190,7 @@ async function scrapeYahooScores() {
         });
 
         fs.writeFileSync('games.json', JSON.stringify(games, null, 2));
-        console.log(`Successfully scraped and saved ${games.length} games to games.json!`);
+        console.log(`Successfully scraped and saved ${games.length} games with TV data to games.json!`);
 
     } catch (error) {
         console.error("CRITICAL SCRAPE ERROR:", error);
