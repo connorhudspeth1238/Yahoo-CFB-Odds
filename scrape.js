@@ -18,7 +18,7 @@ async function scrapeYahooScores() {
 
         console.log("Navigating to Yahoo Sports Scoreboard...");
         await page.goto('https://sports.yahoo.com/college-football/scoreboard/?leagueFilter=divisionIds_1', { 
-            waitUntil: 'domcontentloaded', // Changed from networkidle2 to prevent timeouts
+            waitUntil: 'domcontentloaded',
             timeout: 60000 
         });
 
@@ -37,33 +37,36 @@ async function scrapeYahooScores() {
                 const teamContainers = card.querySelectorAll('div._ys_1gde6sj');
                 if (teamContainers.length < 2) return;
 
+                // Extract date and time from metadata elements (TV network logic removed)
                 const metaElements = card.querySelectorAll('._ys_qoenog, ._ys_aug67i');
                 let rawTime = '';
                 let rawDate = '';
-                let broadcastChannel = '';
 
                 metaElements.forEach(el => {
                     const text = el.innerText.trim();
                     const lower = text.toLowerCase();
 
-                    if (text.includes('O/U') || (text.includes('-') && (text.includes('.') || text.length > 5))) {
+                    if (!text || text.includes('O/U') || (text.includes('-') && (text.includes('.') || text.length > 5))) {
                         return;
                     }
 
-                    if ((text.includes(':') || lower.includes('pm') || lower.includes('am')) && !lower.includes('thu') && !lower.includes('fri') && !lower.includes('sat') && !lower.includes('sun')) {
+                    // Check if it's a time string (contains colon or AM/PM)
+                    if (text.includes(':') || lower.includes('pm') || lower.includes('am')) {
                         rawTime = text;
-                    } else if (text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed')) {
+                    } 
+                    // Otherwise treat as date if it contains date indicators
+                    else if (text.includes('/') || text.includes(',') || lower.includes('jan') || lower.includes('feb') || lower.includes('mar') || lower.includes('apr') || lower.includes('may') || lower.includes('jun') || lower.includes('jul') || lower.includes('aug') || lower.includes('sep') || lower.includes('oct') || lower.includes('nov') || lower.includes('dec') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed')) {
                         rawDate = text;
-                    } else if (text.length > 0 && text.length <= 6 && text === text.toUpperCase() && !text.includes('-') && !text.includes('/')) {
-                        broadcastChannel = text;
                     }
                 });
 
+                // Fallback: If rawDate is missing but we have a time, grab today's date in Central Time
                 if (!rawDate && rawTime) {
                     const options = { timeZone: 'America/Chicago', weekday: 'short', month: 'numeric', day: 'numeric' };
                     rawDate = new Intl.DateTimeFormat('en-US', options).format(new Date());
                 }
 
+                // Format datetime string
                 let dateTimeDisplay = [rawDate, rawTime].filter(Boolean).join(', ');
                 if (dateTimeDisplay && !dateTimeDisplay.includes('CDT')) {
                     dateTimeDisplay += ' CDT';
@@ -145,7 +148,6 @@ async function scrapeYahooScores() {
                     datetime: dateTimeDisplay,
                     status: gameStatus,
                     odds: odds,
-                    tv: broadcastChannel,
                     awayTeam: { 
                         name: awayTeam.name, 
                         mascot: awayTeam.mascot, 
