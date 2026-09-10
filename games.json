@@ -1,37 +1,37 @@
 [
   {
-    "datetime": "Thu, 9/10, FAMU CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "",
     "awayTeam": {
       "name": "Florida A&M",
-      "mascot": "",
+      "mascot": "FAMU",
       "record": "1-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Miami (FL)",
-      "mascot": "",
+      "mascot": "MIA",
       "record": "1-0",
       "score": "",
       "rank": "7"
     }
   },
   {
-    "datetime": "Richmond CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "",
     "awayTeam": {
       "name": "Richmond",
-      "mascot": "",
+      "mascot": "RICH",
       "record": "2-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "NC State",
-      "mascot": "",
+      "mascot": "NCST",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -43,14 +43,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Norfolk St.",
-      "mascot": "",
+      "mascot": "NORF",
       "record": "1-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Virginia",
-      "mascot": "",
+      "mascot": "UVA",
       "record": "1-0",
       "score": "",
       "rank": "25"
@@ -62,14 +62,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Villanova",
-      "mascot": "",
+      "mascot": "NOVA",
       "record": "1-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Louisville",
-      "mascot": "",
+      "mascot": "LOU",
       "record": "0-1",
       "score": "",
       "rank": "24"
@@ -81,7 +81,7 @@
     "odds": "",
     "awayTeam": {
       "name": "Rutgers",
-      "mascot": "",
+      "mascot": "RUTG",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -100,7 +100,7 @@
     "odds": "",
     "awayTeam": {
       "name": "Missouri",
-      "mascot": "",
+      "mascot": "MIZZ",
       "record": "1-0",
       "score": "",
       "rank": "23"
@@ -119,14 +119,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Howard",
-      "mascot": "",
+      "mascot": "HOW",
       "record": "1-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Indiana",
-      "mascot": "",
+      "mascot": "IND",
       "record": "1-0",
       "score": "",
       "rank": "5"
@@ -138,14 +138,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Oregon",
-      "mascot": "",
+      "mascot": "ORE",
       "record": "1-0",
       "score": "",
       "rank": "6"
     },
     "homeTeam": {
       "name": "Oklahoma St.",
-      "mascot": "",
+      "mascot": "OKST",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -164,26 +164,26 @@
     },
     "homeTeam": {
       "name": "Michigan",
-      "mascot": "",
+      "mascot": "MICH",
       "record": "1-0",
       "score": "",
       "rank": ""
     }
   },
   {
-    "datetime": "TNT/ CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "",
     "awayTeam": {
       "name": "Washington St.",
-      "mascot": "",
+      "mascot": "WSU",
       "record": "0-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Kansas St.",
-      "mascot": "",
+      "mascot": "KSU",
       "record": "1-0",
       "score": "",
       "rank": ""
@@ -195,14 +195,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Wake Forest",
-      "mascot": "",
+      "mascot": "WAKE",
       "record": "1-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Purdue",
-      "mascot": "",
+      "mascot": "PUR",
       "record": "1-0",
       "score": "",
       "rank": ""
@@ -214,14 +214,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Wofford",
-      "mascot": "",
+      "mascot": "WOF",
       "record": "2-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Kent St.",
-      "mascot": "",
+      "mascot": "KENT",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -233,7 +233,7 @@
     "odds": "",
     "awayTeam": {
       "name": "Old Dominion",
-      "mascot": "",
+      "mascot": "ODU",
       "record": "1-0",
       "score": "",
       "rank": ""
@@ -252,33 +252,33 @@
     "odds": "",
     "awayTeam": {
       "name": "Penn St.",
-      "mascot": "",
+      "mascot": "PSU",
       "record": "1-0",
       "score": "",
       "rank": "16"
     },
     "homeTeam": {
       "name": "Temple",
-      "mascot": "",
+      "mascot": "TEM",
       "record": "1-0",
       "score": "",
       "rank": ""
     }
   },
   {
-    "datetime": "Thu, 9/10, TAMU CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "",
     "awayTeam": {
       "name": "Arizona St.",
-      "mascot": "",
+      "mascot": "ASU",
       "record": "1-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Texas A&M",
-      "mascot": "",
+      "mascot": "TAMU",
       "record": "1-0",
       "score": "",
       "rank": "10"
@@ -290,14 +290,14 @@
     "odds": "",
     "awayTeam": {
       "name": "E. Tennessee St.",
-      "mascot": "",
+      "mascot": "ETSU",
       "record": "1-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "N. Carolina",
-      "mascot": "",
+      "mascot": "UNC",
       "record": "1-0",
       "score": "",
       "rank": ""
@@ -309,14 +309,14 @@
     "odds": "",
     "awayTeam": {
       "name": "South Florida",
-      "mascot": "",
+      "mascot": "S FLA",
       "record": "1-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Army",
-      "mascot": "",
+      "mascot": "ARMY",
       "record": "1-0",
       "score": "",
       "rank": ""
@@ -328,14 +328,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Appalachian St.",
-      "mascot": "",
+      "mascot": "APP",
       "record": "1-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "East Carolina",
-      "mascot": "",
+      "mascot": "ECU",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -347,21 +347,21 @@
     "odds": "",
     "awayTeam": {
       "name": "W. Kentucky",
-      "mascot": "",
+      "mascot": "WKU",
       "record": "0-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Georgia",
-      "mascot": "",
+      "mascot": "UGA",
       "record": "1-0",
       "score": "",
       "rank": "2"
     }
   },
   {
-    "datetime": "Thu, 9/10, Miami (OH) CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "",
     "awayTeam": {
@@ -385,14 +385,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Tenn-Martin",
-      "mascot": "",
+      "mascot": "UTM",
       "record": "1-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "West Virginia",
-      "mascot": "",
+      "mascot": "WVU",
       "record": "1-0",
       "score": "",
       "rank": ""
@@ -404,14 +404,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Colgate",
-      "mascot": "",
+      "mascot": "COLG",
       "record": "2-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Cent. Michigan",
-      "mascot": "",
+      "mascot": "CMU",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -423,14 +423,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Stony Brook",
-      "mascot": "",
+      "mascot": "STONY",
       "record": "1-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Ball St.",
-      "mascot": "",
+      "mascot": "BALL",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -442,14 +442,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Duke",
-      "mascot": "",
+      "mascot": "DUKE",
       "record": "1-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Illinois",
-      "mascot": "",
+      "mascot": "ILL",
       "record": "1-0",
       "score": "",
       "rank": ""
@@ -461,7 +461,7 @@
     "odds": "",
     "awayTeam": {
       "name": "Arizona",
-      "mascot": "",
+      "mascot": "ARIZ",
       "record": "1-0",
       "score": "",
       "rank": ""
@@ -487,21 +487,21 @@
     },
     "homeTeam": {
       "name": "Pittsburgh",
-      "mascot": "",
+      "mascot": "PITT",
       "record": "1-0",
       "score": "",
       "rank": ""
     }
   },
   {
-    "datetime": "Thu, 9/10, Notre Dame CDT",
+    "datetime": "",
     "status": "LIVE",
     "odds": "",
     "awayTeam": {
       "name": "Rice",
-      "mascot": "",
+      "mascot": "RICE",
       "record": "1-0",
-      "score": "1-0",
+      "score": "",
       "rank": ""
     },
     "homeTeam": {
@@ -513,12 +513,12 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, Alabama CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "",
     "awayTeam": {
       "name": "Alabama",
-      "mascot": "",
+      "mascot": "ALA",
       "record": "1-0",
       "score": "",
       "rank": "12"
@@ -537,14 +537,14 @@
     "odds": "",
     "awayTeam": {
       "name": "California",
-      "mascot": "",
+      "mascot": "CAL",
       "record": "0-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Syracuse",
-      "mascot": "",
+      "mascot": "SYR",
       "record": "1-0",
       "score": "",
       "rank": ""
@@ -556,7 +556,7 @@
     "odds": "",
     "awayTeam": {
       "name": "Utah St.",
-      "mascot": "",
+      "mascot": "USU",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -582,26 +582,26 @@
     },
     "homeTeam": {
       "name": "Texas St.",
-      "mascot": "",
+      "mascot": "TXST",
       "record": "0-1",
       "score": "",
       "rank": ""
     }
   },
   {
-    "datetime": "Thu, 9/10, James Madison CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "",
     "awayTeam": {
       "name": "Wagner",
-      "mascot": "",
+      "mascot": "WAG",
       "record": "1-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "James Madison",
-      "mascot": "",
+      "mascot": "JMU",
       "record": "1-0",
       "score": "",
       "rank": ""
@@ -613,14 +613,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Central Conn. St.",
-      "mascot": "",
+      "mascot": "CCSU",
       "record": "0-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Toledo",
-      "mascot": "",
+      "mascot": "TOL",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -632,14 +632,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Maryland",
-      "mascot": "",
+      "mascot": "UMD",
       "record": "1-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Connecticut",
-      "mascot": "",
+      "mascot": "CONN",
       "record": "1-0",
       "score": "",
       "rank": ""
@@ -651,14 +651,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Robert Morris",
-      "mascot": "",
+      "mascot": "RMU",
       "record": "2-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Akron",
-      "mascot": "",
+      "mascot": "AKR",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -670,26 +670,26 @@
     "odds": "",
     "awayTeam": {
       "name": "Sacred Heart",
-      "mascot": "",
+      "mascot": "SHU",
       "record": "0-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "UMass",
-      "mascot": "",
+      "mascot": "UMASS",
       "record": "1-0",
       "score": "",
       "rank": ""
     }
   },
   {
-    "datetime": "LA Monroe CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "",
     "awayTeam": {
       "name": "LA Monroe",
-      "mascot": "",
+      "mascot": "ULM",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -708,14 +708,14 @@
     "odds": "",
     "awayTeam": {
       "name": "East. Michigan",
-      "mascot": "",
+      "mascot": "EMU",
       "record": "1-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Michigan St.",
-      "mascot": "",
+      "mascot": "MSU",
       "record": "1-0",
       "score": "",
       "rank": ""
@@ -727,16 +727,16 @@
     "odds": "",
     "awayTeam": {
       "name": "Mississippi St.",
-      "mascot": "",
+      "mascot": "MSST",
       "record": "1-0",
-      "score": "1-0",
+      "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Minnesota",
-      "mascot": "",
+      "mascot": "MINN",
       "record": "1-0",
-      "score": "1-0",
+      "score": "",
       "rank": ""
     }
   },
@@ -746,14 +746,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Weber St.",
-      "mascot": "",
+      "mascot": "WEB",
       "record": "1-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Colorado",
-      "mascot": "",
+      "mascot": "COLO",
       "record": "1-0",
       "score": "",
       "rank": ""
@@ -772,7 +772,7 @@
     },
     "homeTeam": {
       "name": "North Texas",
-      "mascot": "",
+      "mascot": "UNT",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -784,14 +784,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Mercyhurst",
-      "mascot": "",
+      "mascot": "MRCY",
       "record": "0-2",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "New Mexico",
-      "mascot": "",
+      "mascot": "UNM",
       "record": "1-0",
       "score": "",
       "rank": ""
@@ -803,14 +803,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Northern Colorado",
-      "mascot": "",
+      "mascot": "UNCO",
       "record": "0-2",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Wyoming",
-      "mascot": "",
+      "mascot": "WYO",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -822,7 +822,7 @@
     "odds": "",
     "awayTeam": {
       "name": "UC Davis",
-      "mascot": "",
+      "mascot": "UCD",
       "record": "2-0",
       "score": "",
       "rank": ""
@@ -836,19 +836,19 @@
     }
   },
   {
-    "datetime": "Thu, 9/10, Alabama St. CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "",
     "awayTeam": {
       "name": "Alabama St.",
-      "mascot": "",
+      "mascot": "ALST",
       "record": "2-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Troy",
-      "mascot": "",
+      "mascot": "TROY",
       "record": "1-0",
       "score": "",
       "rank": ""
@@ -860,33 +860,33 @@
     "odds": "",
     "awayTeam": {
       "name": "Delaware",
-      "mascot": "",
+      "mascot": "DEL",
       "record": "1-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Vanderbilt",
-      "mascot": "",
+      "mascot": "VAN",
       "record": "1-0",
       "score": "",
       "rank": ""
     }
   },
   {
-    "datetime": "Thu, 9/10, Campbell CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "",
     "awayTeam": {
       "name": "Campbell",
-      "mascot": "",
+      "mascot": "CAMP",
       "record": "2-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Florida",
-      "mascot": "",
+      "mascot": "FLA",
       "record": "1-0",
       "score": "",
       "rank": ""
@@ -898,14 +898,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Memphis",
-      "mascot": "",
+      "mascot": "MEM",
       "record": "2-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Boise St.",
-      "mascot": "",
+      "mascot": "BSU",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -917,14 +917,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Gardner-Webb",
-      "mascot": "",
+      "mascot": "WEBB",
       "record": "0-2",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Liberty",
-      "mascot": "",
+      "mascot": "LIB",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -936,14 +936,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Buffalo",
-      "mascot": "",
+      "mascot": "BUFF",
       "record": "1-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Florida Intl.",
-      "mascot": "",
+      "mascot": "FIU",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -955,33 +955,33 @@
     "odds": "",
     "awayTeam": {
       "name": "Jacksonville St.",
-      "mascot": "",
+      "mascot": "JVST",
       "record": "1-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Ohio",
-      "mascot": "",
+      "mascot": "OHIO",
       "record": "0-1",
       "score": "",
       "rank": ""
     }
   },
   {
-    "datetime": "Monmouth CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "",
     "awayTeam": {
       "name": "Monmouth",
-      "mascot": "",
+      "mascot": "MONM",
       "record": "1-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "W. Michigan",
-      "mascot": "",
+      "mascot": "WMU",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -993,14 +993,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Middle Tenn. St.",
-      "mascot": "",
+      "mascot": "MTSU",
       "record": "1-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Marshall",
-      "mascot": "",
+      "mascot": "MRSH",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -1012,52 +1012,52 @@
     "odds": "",
     "awayTeam": {
       "name": "Lindenwood",
-      "mascot": "",
+      "mascot": "LIN",
       "record": "1-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Missouri St.",
-      "mascot": "",
+      "mascot": "MOST",
       "record": "0-1",
       "score": "",
       "rank": ""
     }
   },
   {
-    "datetime": "Thu, 9/10, South Alabama CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "",
     "awayTeam": {
       "name": "South Alabama",
-      "mascot": "",
+      "mascot": "S ALA",
       "record": "1-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Tulane",
-      "mascot": "",
+      "mascot": "TULN",
       "record": "0-1",
       "score": "",
       "rank": ""
     }
   },
   {
-    "datetime": "Thu, 9/10, Sam Houston State CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "",
     "awayTeam": {
       "name": "Tulsa",
-      "mascot": "",
+      "mascot": "TLSA",
       "record": "1-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Sam Houston State",
-      "mascot": "",
+      "mascot": "SHS",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -1069,14 +1069,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Western Carolina",
-      "mascot": "",
+      "mascot": "WCU",
       "record": "1-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Cincinnati",
-      "mascot": "",
+      "mascot": "CIN",
       "record": "1-0",
       "score": "",
       "rank": ""
@@ -1088,7 +1088,7 @@
     "odds": "",
     "awayTeam": {
       "name": "Tennessee",
-      "mascot": "",
+      "mascot": "TENN",
       "record": "1-0",
       "score": "",
       "rank": "18"
@@ -1107,14 +1107,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Georgia St.",
-      "mascot": "",
+      "mascot": "GA ST",
       "record": "1-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Kennesaw St.",
-      "mascot": "",
+      "mascot": "KENN",
       "record": "1-0",
       "score": "",
       "rank": ""
@@ -1126,14 +1126,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Southern Utah",
-      "mascot": "",
+      "mascot": "SUU",
       "record": "1-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Colorado St.",
-      "mascot": "",
+      "mascot": "CSU",
       "record": "1-0",
       "score": "",
       "rank": ""
@@ -1145,14 +1145,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Bowling Green",
-      "mascot": "",
+      "mascot": "BGSU",
       "record": "0-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Nebraska",
-      "mascot": "",
+      "mascot": "NEB",
       "record": "1-0",
       "score": "",
       "rank": ""
@@ -1164,14 +1164,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Southern",
-      "mascot": "",
+      "mascot": "SOU",
       "record": "1-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Houston",
-      "mascot": "",
+      "mascot": "HOU",
       "record": "1-0",
       "score": "",
       "rank": "22"
@@ -1183,14 +1183,14 @@
     "odds": "",
     "awayTeam": {
       "name": "West Georgia",
-      "mascot": "",
+      "mascot": "WGA",
       "record": "0-2",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Arkansas St.",
-      "mascot": "",
+      "mascot": "ARST",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -1202,14 +1202,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Illinois St.",
-      "mascot": "",
+      "mascot": "ILST",
       "record": "2-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Northern Illinois",
-      "mascot": "",
+      "mascot": "NIU",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -1221,7 +1221,7 @@
     "odds": "",
     "awayTeam": {
       "name": "Towson",
-      "mascot": "",
+      "mascot": "TOWS",
       "record": "0-2",
       "score": "",
       "rank": ""
@@ -1240,14 +1240,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Western Ill.",
-      "mascot": "",
+      "mascot": "WIU",
       "record": "1-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Wisconsin",
-      "mascot": "",
+      "mascot": "WIS",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -1278,33 +1278,33 @@
     "odds": "",
     "awayTeam": {
       "name": "Iowa St.",
-      "mascot": "",
+      "mascot": "ISU",
       "record": "1-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Iowa",
-      "mascot": "",
+      "mascot": "IOWA",
       "record": "1-0",
       "score": "",
       "rank": "21"
     }
   },
   {
-    "datetime": "Thu, 9/10, Fordham CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "",
     "awayTeam": {
       "name": "Fordham",
-      "mascot": "",
+      "mascot": "FOR",
       "record": "0-2",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Coastal Car.",
-      "mascot": "",
+      "mascot": "CCU",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -1316,14 +1316,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Navy",
-      "mascot": "",
+      "mascot": "NAVY",
       "record": "1-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Florida Atlantic",
-      "mascot": "",
+      "mascot": "FAU",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -1335,14 +1335,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Ohio St.",
-      "mascot": "",
+      "mascot": "OSU",
       "record": "1-0",
       "score": "",
       "rank": "1"
     },
     "homeTeam": {
       "name": "Texas",
-      "mascot": "",
+      "mascot": "TEX",
       "record": "1-0",
       "score": "",
       "rank": "4"
@@ -1354,14 +1354,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Georgia Southern",
-      "mascot": "",
+      "mascot": "GASO",
       "record": "1-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Clemson",
-      "mascot": "",
+      "mascot": "CLEM",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -1387,19 +1387,19 @@
     }
   },
   {
-    "datetime": "CBS/ CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "",
     "awayTeam": {
       "name": "Texas Tech",
-      "mascot": "",
+      "mascot": "TTU",
       "record": "1-0",
       "score": "",
       "rank": "13"
     },
     "homeTeam": {
       "name": "Oregon St.",
-      "mascot": "",
+      "mascot": "ORST",
       "record": "0-1",
       "score": "",
       "rank": ""
@@ -1411,14 +1411,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Southern Miss",
-      "mascot": "",
+      "mascot": "USM",
       "record": "1-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Auburn",
-      "mascot": "",
+      "mascot": "AUB",
       "record": "1-0",
       "score": "",
       "rank": ""
@@ -1430,14 +1430,14 @@
     "odds": "",
     "awayTeam": {
       "name": "Charlotte",
-      "mascot": "",
+      "mascot": "CHAR",
       "record": "0-1",
-      "score": "0-1",
+      "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Mississippi",
-      "mascot": "",
+      "mascot": "MISS",
       "record": "1-0",
       "score": "9",
       "rank": "9"
@@ -1456,19 +1456,19 @@
     },
     "homeTeam": {
       "name": "Baylor",
-      "mascot": "",
+      "mascot": "BAY",
       "record": "0-1",
       "score": "",
       "rank": ""
     }
   },
   {
-    "datetime": "Thu, 9/10, Grambling St. CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "",
     "awayTeam": {
       "name": "Grambling St.",
-      "mascot": "",
+      "mascot": "GRAM",
       "record": "2-0",
       "score": "",
       "rank": ""
@@ -1494,7 +1494,7 @@
     },
     "homeTeam": {
       "name": "San Jose St.",
-      "mascot": "",
+      "mascot": "SJSU",
       "record": "1-1",
       "score": "",
       "rank": ""
@@ -1506,7 +1506,7 @@
     "odds": "",
     "awayTeam": {
       "name": "Texas Southern",
-      "mascot": "",
+      "mascot": "TXSO",
       "record": "1-1",
       "score": "",
       "rank": ""
@@ -1525,14 +1525,14 @@
     "odds": "",
     "awayTeam": {
       "name": "N. Dak. St.",
-      "mascot": "",
+      "mascot": "NDSU",
       "record": "2-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Air Force",
-      "mascot": "",
+      "mascot": "AFA",
       "record": "1-0",
       "score": "",
       "rank": ""
@@ -1544,52 +1544,52 @@
     "odds": "",
     "awayTeam": {
       "name": "Arkansas",
-      "mascot": "",
+      "mascot": "ARK",
       "record": "1-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Utah",
-      "mascot": "",
+      "mascot": "UTAH",
       "record": "1-0",
       "score": "",
       "rank": "20"
     }
   },
   {
-    "datetime": "Thu, 9/10, Sacramento St. CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "",
     "awayTeam": {
       "name": "Sacramento St.",
-      "mascot": "",
+      "mascot": "SAC",
       "record": "1-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Fresno St.",
-      "mascot": "",
+      "mascot": "FRES",
       "record": "0-1",
       "score": "",
       "rank": ""
     }
   },
   {
-    "datetime": "Montana St. CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "",
     "awayTeam": {
       "name": "Montana St.",
-      "mascot": "",
+      "mascot": "MTST",
       "record": "2-0",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Nevada",
-      "mascot": "",
+      "mascot": "NEV",
       "record": "1-0",
       "score": "",
       "rank": ""
@@ -1620,14 +1620,14 @@
     "odds": "",
     "awayTeam": {
       "name": "N. Mex. St.",
-      "mascot": "",
+      "mascot": "NMSU",
       "record": "1-1",
       "score": "",
       "rank": ""
     },
     "homeTeam": {
       "name": "Hawaii",
-      "mascot": "",
+      "mascot": "HAW",
       "record": "0-2",
       "score": "",
       "rank": ""
