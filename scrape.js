@@ -34,11 +34,9 @@ async function scrapeYahooScores() {
                 const teamContainers = card.querySelectorAll('div._ys_1gde6sj');
                 if (teamContainers.length < 2) return;
 
-                // Grab all text pieces inside the card to safely extract time, date, and TV
                 const allElements = card.querySelectorAll('div, span');
                 let rawTime = '';
                 let rawDate = '';
-                let broadcastChannel = '';
 
                 allElements.forEach(el => {
                     if (el.children.length > 0) return; // Leaf nodes only
@@ -57,10 +55,6 @@ async function scrapeYahooScores() {
                     // Match date strings or days
                     else if ((text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed') || text.includes('Sep') || text.includes('Oct') || text.includes('Nov')) && !rawDate && text.length < 15) {
                         rawDate = text;
-                    } 
-                    // Match standard TV networks
-                    else if (['ESPN', 'ESPN2', 'ABC', 'FOX', 'FS1', 'FS2', 'CBS', 'SEC_N', 'ACCN', 'NBC', 'PEACOCK'].includes(text) && !broadcastChannel) {
-                        broadcastChannel = text;
                     }
                 });
 
@@ -123,7 +117,6 @@ async function scrapeYahooScores() {
                     datetime: dateTimeDisplay,
                     status: gameStatus,
                     odds: '',
-                    tv: broadcastChannel,
                     awayTeam,
                     homeTeam
                 });
