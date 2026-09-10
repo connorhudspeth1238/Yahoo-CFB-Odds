@@ -37,25 +37,16 @@ async function scrapeYahooScores() {
                 const teamContainers = card.querySelectorAll('div._ys_1gde6sj');
                 if (teamContainers.length < 2) return;
 
-                // Extract date, time, and broadcast channel from metadata elements
-                const metaElements = card.querySelectorAll('._ys_qoenog, ._ys_aug67i, span');
+                // Extract date and time from metadata elements
+                const metaElements = card.querySelectorAll('._ys_qoenog, ._ys_aug67i');
                 let rawTime = '';
                 let rawDate = '';
-                let broadcastChannel = '';
-
-                const knownNetworks = ['ESPN', 'ESPN2', 'ESPNEWS', 'ESPNU', 'ABC', 'FOX', 'FS1', 'FS2', 'CBS', 'CBSSN', 'NBC', 'BTN', 'SECN', 'ACCN', 'PEACOCK', 'PRIME', 'TNT', 'TBS', 'TRUTV', 'ESPN+'];
 
                 metaElements.forEach(el => {
                     const text = el.innerText.trim();
-                    const upper = text.toUpperCase();
                     const lower = text.toLowerCase();
 
                     if (text.includes('O/U') || (text.includes('-') && (text.includes('.') || text.length > 5))) {
-                        return;
-                    }
-
-                    if (knownNetworks.includes(upper)) {
-                        broadcastChannel = upper;
                         return;
                     }
 
@@ -63,18 +54,16 @@ async function scrapeYahooScores() {
                         rawTime = text;
                     } else if (text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed')) {
                         rawDate = text;
-                    } else if (text.length > 0 && text.length <= 8 && text === text.toUpperCase() && !text.includes('-') && !text.includes('/') && !text.includes('FINAL')) {
-                        if (!broadcastChannel) {
-                            broadcastChannel = text;
-                        }
                     }
                 });
 
+                // Fallback: If rawDate is missing, grab today's date in Central Time
                 if (!rawDate && rawTime) {
                     const options = { timeZone: 'America/Chicago', weekday: 'short', month: 'numeric', day: 'numeric' };
                     rawDate = new Intl.DateTimeFormat('en-US', options).format(new Date());
                 }
 
+                // Format datetime string (e.g. "Thu, 9/10, 7:00 PM CDT")
                 let dateTimeDisplay = [rawDate, rawTime].filter(Boolean).join(', ');
                 if (dateTimeDisplay && !dateTimeDisplay.includes('CDT')) {
                     dateTimeDisplay += ' CDT';
@@ -156,7 +145,6 @@ async function scrapeYahooScores() {
                     datetime: dateTimeDisplay,
                     status: gameStatus,
                     odds: odds,
-                    tv: broadcastChannel,
                     awayTeam: { 
                         name: awayTeam.name, 
                         mascot: awayTeam.mascot, 
