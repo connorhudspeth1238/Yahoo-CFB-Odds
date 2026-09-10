@@ -12,12 +12,13 @@ async function scrapeNflScores() {
         
         const page = await browser.newPage();
         
+        // Force Central Time zone emulation
         await page.emulateTimezone('America/Chicago');
         await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
 
         console.log("Navigating to Yahoo NFL Scoreboard...");
         await page.goto('https://sports.yahoo.com/nfl/scoreboard/', { 
-            waitUntil: 'domcontentloaded',
+            waitUntil: 'networkidle2',
             timeout: 60000 
         });
 
@@ -36,36 +37,36 @@ async function scrapeNflScores() {
                 const teamContainers = card.querySelectorAll('div._ys_1gde6sj');
                 if (teamContainers.length < 2) return;
 
+                // Extract date, time, and broadcast channel from metadata elements
                 const metaElements = card.querySelectorAll('._ys_qoenog, ._ys_aug67i');
                 let rawTime = '';
                 let rawDate = '';
-                let odds = '';
+                let broadcastChannel = '';
 
                 metaElements.forEach(el => {
                     const text = el.innerText.trim();
                     const lower = text.toLowerCase();
 
-                    if (!text) return;
-
-                    if (text.includes('O/U') || /^[+-][0-9]+(\.[0-9]+)?$/.test(text) || text.includes('EVEN') || text.includes('PK')) {
-                        if (!odds) odds = text;
+                    if (text.includes('O/U') || (text.includes('-') && (text.includes('.') || text.length > 5))) {
                         return;
                     }
 
-                    if ((text.includes(':') || lower.includes('pm') || lower.includes('am')) && 
-                        !lower.includes('thu') && !lower.includes('fri') && !lower.includes('sat') && 
-                        !lower.includes('sun') && !lower.includes('mon') && !lower.includes('tue') && !lower.includes('wed')) {
+                    if ((text.includes(':') || lower.includes('pm') || lower.includes('am')) && !lower.includes('thu') && !lower.includes('fri') && !lower.includes('sat') && !lower.includes('sun')) {
                         rawTime = text;
-                    } else if (text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed') || text.includes('Sep') || text.includes('Oct') || text.includes('Nov')) {
+                    } else if (text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed')) {
                         rawDate = text;
+                    } else if (text.length > 0 && text.length <= 6 && text === text.toUpperCase() && !text.includes('-') && !text.includes('/')) {
+                        broadcastChannel = text;
                     }
                 });
 
+                // Fallback: If rawDate is missing, grab today's date in Central Time
                 if (!rawDate && rawTime) {
                     const options = { timeZone: 'America/Chicago', weekday: 'short', month: 'numeric', day: 'numeric' };
                     rawDate = new Intl.DateTimeFormat('en-US', options).format(new Date());
                 }
 
+                // Format datetime string
                 let dateTimeDisplay = [rawDate, rawTime].filter(Boolean).join(', ');
                 if (dateTimeDisplay && !dateTimeDisplay.includes('CDT')) {
                     dateTimeDisplay += ' CDT';
@@ -106,6 +107,7 @@ async function scrapeNflScores() {
 
                 if (!awayTeam.name || !homeTeam.name) return;
 
+                // Logos
                 const logos = card.querySelectorAll('img._ys_14fh01c');
                 const awayLogo = logos[0] ? logos[0].src : '';
                 const homeLogo = logos[1] ? logos[1].src : '';
@@ -114,10 +116,21 @@ async function scrapeNflScores() {
                 if (seenGames.has(uniqueKey)) return;
                 seenGames.add(uniqueKey);
 
+                // Betting Odds
+                const oddsElement = card.querySelector('._ys_ea8nnj');
+                let odds = '';
+                if (oddsElement) {
+                    const text = oddsElement.innerText.trim();
+                    if (text.length > 0) {
+                        odds = text;
+                    }
+                }
+
                 results.push({
                     datetime: dateTimeDisplay,
                     status: gameStatus,
                     odds: odds,
+                    tv: broadcastChannel,
                     awayTeam: { 
                         name: awayTeam.name, 
                         mascot: awayTeam.mascot, 
