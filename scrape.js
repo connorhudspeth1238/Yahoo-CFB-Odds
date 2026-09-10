@@ -60,7 +60,13 @@ async function scrapeYahooScores() {
                     }
                 });
 
-                // Format datetime string (e.g. "Thu, 9/25, 6:30 PM CDT")
+                // Fallback: If rawDate is missing (common for today's games on Yahoo), grab today's date in Central Time
+                if (!rawDate && rawTime) {
+                    const options = { timeZone: 'America/Chicago', weekday: 'short', month: 'numeric', day: 'numeric' };
+                    rawDate = new Intl.DateTimeFormat('en-US', options).format(new Date());
+                }
+
+                // Format datetime string (e.g. "Thu, 9/10, 7:00 PM CDT")
                 let dateTimeDisplay = [rawDate, rawTime].filter(Boolean).join(', ');
                 if (dateTimeDisplay && !dateTimeDisplay.includes('CDT')) {
                     dateTimeDisplay += ' CDT';
@@ -77,18 +83,9 @@ async function scrapeYahooScores() {
                     const nameEl = container.querySelector('._ys_159h2dm');
                     const name = nameEl ? nameEl.innerText.trim() : '';
                     
-                    // Extract mascot / secondary name (e.g., "Black Knights", "Seminoles")
+                    // Extract mascot / secondary name
                     const allSpans = Array.from(container.querySelectorAll('span'));
                     let mascot = '';
-                    for (let span of allSpans) {
-                        const txt = span.innerText.trim();
-                        // Look for the short abbreviation or secondary identifier class _ys_1gzfv8j or a sub-text block
-                        if (span.className.includes('_ys_1gzfv8j')) {
-                            // usually abbreviation, we want full mascot if available, let's check text length
-                        }
-                    }
-                    
-                    // Grab secondary text row (mascot) if present in container text nodes
                     const textSpans = allSpans.map(s => s.innerText.trim());
                     for (let t of textSpans) {
                         if (t && t !== name && !/^[0-9]+$/.test(t) && !t.includes('-') && t.length > 2 && !/^(?:#)?[0-9]+$/.test(t)) {
