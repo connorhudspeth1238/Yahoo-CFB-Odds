@@ -37,7 +37,6 @@ async function scrapeNflScores() {
                 const allElements = card.querySelectorAll('div, span');
                 let rawTime = '';
                 let rawDate = '';
-                let broadcastChannel = '';
 
                 allElements.forEach(el => {
                     if (el.children.length > 0) return;
@@ -54,9 +53,6 @@ async function scrapeNflScores() {
                     } 
                     else if ((text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed') || text.includes('Sep') || text.includes('Oct') || text.includes('Nov') || text.includes('Dec')) && !rawDate && text.length < 15) {
                         rawDate = text;
-                    } 
-                    else if (['FOX', 'CBS', 'NBC', 'ESPN', 'PRIME VIDEO', 'NFLN', 'ABC', 'ESPN+'].includes(text) && !broadcastChannel) {
-                        broadcastChannel = text;
                     }
                 });
 
@@ -115,7 +111,6 @@ async function scrapeNflScores() {
                     datetime: dateTimeDisplay,
                     status: gameStatus,
                     odds: '',
-                    tv: broadcastChannel,
                     awayTeam,
                     homeTeam
                 });
