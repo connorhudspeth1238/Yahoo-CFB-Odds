@@ -12,7 +12,6 @@ async function scrapeNflScores() {
         
         const page = await browser.newPage();
         
-        // Force Central Time zone emulation
         await page.emulateTimezone('America/Chicago');
         await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
 
@@ -33,40 +32,35 @@ async function scrapeNflScores() {
 
             gameCards.forEach(card => {
                 const cardId = card.id || '';
-
                 const teamContainers = card.querySelectorAll('div._ys_1gde6sj');
                 if (teamContainers.length < 2) return;
 
-                // Extract date and time from metadata elements (TV network logic removed)
-                const metaElements = card.querySelectorAll('._ys_qoenog, ._ys_aug67i');
-                let rawTime = '';
-                let rawDate = '';
+                const dateEl = card.querySelector('._ys_qoenog');
+                const timeEl = card.querySelector('._ys_aug67i');
 
-                metaElements.forEach(el => {
-                    const text = el.innerText.trim();
-                    const lower = text.toLowerCase();
+                let rawDate = dateEl ? dateEl.innerText.trim() : '';
+                let rawTime = timeEl ? timeEl.innerText.trim() : '';
 
-                    if (!text || text.includes('O/U') || (text.includes('-') && (text.includes('.') || text.length > 5))) {
-                        return;
+                if (!rawDate || !rawTime) {
+                    const allTextElements = Array.from(card.querySelectorAll('div, span')).map(el => el.innerText.trim()).filter(Boolean);
+                    for (let text of allTextElements) {
+                        const lower = text.toLowerCase();
+                        if (!rawDate && (text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed') || lower.includes('sep') || lower.includes('oct') || lower.includes('nov') || lower.includes('dec') || lower.includes('jan') || lower.includes('feb') || lower.includes('mar'))) {
+                            if (text.length < 25 && !text.includes('O/U') && !text.includes('Odds')) {
+                                rawDate = text;
+                            }
+                        }
+                        if (!rawTime && (text.includes(':') || lower.includes('pm') || lower.includes('am')) && !lower.includes('th') && text.length < 15 && !text.includes('O/U')) {
+                            rawTime = text;
+                        }
                     }
+                }
 
-                    // Check if it's a time string (contains colon or AM/PM)
-                    if (text.includes(':') || lower.includes('pm') || lower.includes('am')) {
-                        rawTime = text;
-                    } 
-                    // Otherwise treat as date if it contains date indicators
-                    else if (text.includes('/') || text.includes(',') || lower.includes('jan') || lower.includes('feb') || lower.includes('mar') || lower.includes('apr') || lower.includes('may') || lower.includes('jun') || lower.includes('jul') || lower.includes('aug') || lower.includes('sep') || lower.includes('oct') || lower.includes('nov') || lower.includes('dec') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed')) {
-                        rawDate = text;
-                    }
-                });
-
-                // Fallback: If rawDate is missing but we have a time, grab today's date in Central Time
                 if (!rawDate && rawTime) {
                     const options = { timeZone: 'America/Chicago', weekday: 'short', month: 'numeric', day: 'numeric' };
                     rawDate = new Intl.DateTimeFormat('en-US', options).format(new Date());
                 }
 
-                // Format datetime string
                 let dateTimeDisplay = [rawDate, rawTime].filter(Boolean).join(', ');
                 if (dateTimeDisplay && !dateTimeDisplay.includes('CDT')) {
                     dateTimeDisplay += ' CDT';
@@ -99,7 +93,7 @@ async function scrapeNflScores() {
                         score = scoreEl ? scoreEl.innerText.trim() : '';
                     }
 
-                    return { name, mascot: '', record, score, rank: '' };
+                    return { name, record, score };
                 };
 
                 const awayTeam = extractTeamData(teamContainers[0]);
@@ -116,13 +110,7 @@ async function scrapeNflScores() {
                 seenGames.add(uniqueKey);
 
                 const oddsElement = card.querySelector('._ys_ea8nnj');
-                let odds = '';
-                if (oddsElement) {
-                    const text = oddsElement.innerText.trim();
-                    if (text.length > 0) {
-                        odds = text;
-                    }
-                }
+                let odds = oddsElement ? oddsElement.innerText.trim() : '';
 
                 results.push({
                     datetime: dateTimeDisplay,
@@ -130,16 +118,12 @@ async function scrapeNflScores() {
                     odds: odds,
                     awayTeam: { 
                         name: awayTeam.name, 
-                        mascot: awayTeam.mascot, 
-                        rank: awayTeam.rank, 
                         record: awayTeam.record, 
                         score: awayTeam.score, 
                         logo: awayLogo 
                     },
                     homeTeam: { 
                         name: homeTeam.name, 
-                        mascot: homeTeam.mascot, 
-                        rank: homeTeam.rank, 
                         record: homeTeam.record, 
                         score: homeTeam.score, 
                         logo: homeLogo 
