@@ -3,7 +3,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "MIA -57.5, O/U 62.5",
-    "tv": "",
     "awayTeam": {
       "name": "Florida A&M",
       "mascot": "FAMU",
@@ -25,7 +24,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "NCST -30.5, O/U 48.5",
-    "tv": "",
     "awayTeam": {
       "name": "Richmond",
       "mascot": "RICH",
@@ -47,7 +45,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "UVA -44.5, O/U 54.5",
-    "tv": "",
     "awayTeam": {
       "name": "Norfolk St.",
       "mascot": "NORF",
@@ -69,7 +66,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "LOU -36.5, O/U 56.5",
-    "tv": "",
     "awayTeam": {
       "name": "Villanova",
       "mascot": "NOVA",
@@ -91,7 +87,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "BC -3.5, O/U 54.5",
-    "tv": "",
     "awayTeam": {
       "name": "Rutgers",
       "mascot": "RUTG",
@@ -113,7 +108,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "MIZZ -5.5, O/U 50.5",
-    "tv": "",
     "awayTeam": {
       "name": "Missouri",
       "mascot": "MIZZ",
@@ -135,7 +129,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "IND -56.5, O/U 65.5",
-    "tv": "",
     "awayTeam": {
       "name": "Howard",
       "mascot": "HOW",
@@ -157,7 +150,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "ORE -22.5, O/U 57.5",
-    "tv": "",
     "awayTeam": {
       "name": "Oregon",
       "mascot": "ORE",
@@ -179,7 +171,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "OU -5.5, O/U 43.5",
-    "tv": "",
     "awayTeam": {
       "name": "Oklahoma",
       "mascot": "",
@@ -201,7 +192,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "KSU -18.5, O/U 48.5",
-    "tv": "",
     "awayTeam": {
       "name": "Washington St.",
       "mascot": "WSU",
@@ -223,7 +213,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "WAKE -3, O/U 49.5",
-    "tv": "",
     "awayTeam": {
       "name": "Wake Forest",
       "mascot": "WAKE",
@@ -245,7 +234,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "KENT -11.5, O/U 46.5",
-    "tv": "",
     "awayTeam": {
       "name": "Wofford",
       "mascot": "WOF",
@@ -267,7 +255,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "VT -19.5, O/U 49.5",
-    "tv": "",
     "awayTeam": {
       "name": "Old Dominion",
       "mascot": "ODU",
@@ -289,7 +276,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "PSU -23.5, O/U 49.5",
-    "tv": "",
     "awayTeam": {
       "name": "Penn St.",
       "mascot": "PSU",
@@ -311,7 +297,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "TAMU -14.5, O/U 50.5",
-    "tv": "",
     "awayTeam": {
       "name": "Arizona St.",
       "mascot": "ASU",
@@ -333,7 +318,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "UNC -34.5, O/U 54.5",
-    "tv": "",
     "awayTeam": {
       "name": "E. Tennessee St.",
       "mascot": "ETSU",
@@ -355,7 +339,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "ARMY -3.5, O/U 46.5",
-    "tv": "",
     "awayTeam": {
       "name": "South Florida",
       "mascot": "S FLA",
@@ -377,7 +360,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "ECU -7.5, O/U 56.5",
-    "tv": "",
     "awayTeam": {
       "name": "Appalachian St.",
       "mascot": "APP",
@@ -399,7 +381,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "UGA -40.5, O/U 55.5",
-    "tv": "",
     "awayTeam": {
       "name": "W. Kentucky",
       "mascot": "WKU",
@@ -421,7 +402,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "M-OH -30.5, O/U 49.5",
-    "tv": "",
     "awayTeam": {
       "name": "Holy Cross",
       "mascot": "",
@@ -443,7 +423,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "WVU -40.5, O/U 55.5",
-    "tv": "",
     "awayTeam": {
       "name": "Tenn-Martin",
       "mascot": "UTM",
@@ -465,7 +444,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "CMU -24.5, O/U 49.5",
-    "tv": "",
     "awayTeam": {
       "name": "Colgate",
       "mascot": "COLG",
@@ -487,7 +465,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "BALL -15.5, O/U 56.5",
-    "tv": "",
     "awayTeam": {
       "name": "Stony Brook",
       "mascot": "STONY",
@@ -509,7 +486,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "ILL -5.5, O/U 51.5",
-    "tv": "",
     "awayTeam": {
       "name": "Duke",
       "mascot": "DUKE",
@@ -531,7 +507,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "BYU -7.5, O/U 47.5",
-    "tv": "",
     "awayTeam": {
       "name": "Arizona",
       "mascot": "ARIZ",
@@ -553,7 +528,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "PITT -7.5, O/U 56.5",
-    "tv": "",
     "awayTeam": {
       "name": "UCF",
       "mascot": "",
@@ -575,7 +549,6 @@
     "datetime": "",
     "status": "LIVE",
     "odds": "ND -44.5, O/U 55.5",
-    "tv": "",
     "awayTeam": {
       "name": "Rice",
       "mascot": "RICE",
@@ -597,7 +570,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "ALA -10.5, O/U 49.5",
-    "tv": "",
     "awayTeam": {
       "name": "Alabama",
       "mascot": "ALA",
@@ -619,7 +591,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "SYR -3.5, O/U 56.5",
-    "tv": "",
     "awayTeam": {
       "name": "California",
       "mascot": "CAL",
@@ -641,7 +612,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "UW -26.5, O/U 55.5",
-    "tv": "",
     "awayTeam": {
       "name": "Utah St.",
       "mascot": "USU",
@@ -663,7 +633,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "TXST -1.5, O/U 66.5",
-    "tv": "",
     "awayTeam": {
       "name": "UTSA",
       "mascot": "",
@@ -685,7 +654,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "JMU -45.5, O/U 55.5",
-    "tv": "",
     "awayTeam": {
       "name": "Wagner",
       "mascot": "WAG",
@@ -707,7 +675,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "TOL -34.5, O/U 55.5",
-    "tv": "",
     "awayTeam": {
       "name": "Central Conn. St.",
       "mascot": "CCSU",
@@ -729,7 +696,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "UMD -12.5, O/U 52.5",
-    "tv": "",
     "awayTeam": {
       "name": "Maryland",
       "mascot": "UMD",
@@ -751,7 +717,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "AKR -27.5, O/U 41.5",
-    "tv": "",
     "awayTeam": {
       "name": "Robert Morris",
       "mascot": "RMU",
@@ -773,7 +738,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "UMASS -23.5, O/U 53.5",
-    "tv": "",
     "awayTeam": {
       "name": "Sacred Heart",
       "mascot": "SHU",
@@ -795,7 +759,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "UAB -10, O/U 55.5",
-    "tv": "",
     "awayTeam": {
       "name": "LA Monroe",
       "mascot": "ULM",
@@ -817,7 +780,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "MSU -17.5, O/U 49.5",
-    "tv": "",
     "awayTeam": {
       "name": "East. Michigan",
       "mascot": "EMU",
@@ -839,7 +801,6 @@
     "datetime": "",
     "status": "LIVE",
     "odds": "MINN -1.5, O/U 55.5",
-    "tv": "",
     "awayTeam": {
       "name": "Mississippi St.",
       "mascot": "MSST",
@@ -861,7 +822,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "COLO -33.5, O/U 53.5",
-    "tv": "",
     "awayTeam": {
       "name": "Weber St.",
       "mascot": "WEB",
@@ -883,7 +843,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "UNLV -3, O/U 56.5",
-    "tv": "",
     "awayTeam": {
       "name": "UNLV",
       "mascot": "",
@@ -905,7 +864,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "UNM -40.5, O/U 52.5",
-    "tv": "",
     "awayTeam": {
       "name": "Mercyhurst",
       "mascot": "MRCY",
@@ -927,7 +885,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "WYO -23.5, O/U 47.5",
-    "tv": "",
     "awayTeam": {
       "name": "Northern Colorado",
       "mascot": "UNCO",
@@ -949,7 +906,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "SMU -25.5, O/U 58.5",
-    "tv": "",
     "awayTeam": {
       "name": "UC Davis",
       "mascot": "UCD",
@@ -971,7 +927,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "TROY -23, O/U 51.5",
-    "tv": "",
     "awayTeam": {
       "name": "Alabama St.",
       "mascot": "ALST",
@@ -993,7 +948,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "VAN -21, O/U 54.5",
-    "tv": "",
     "awayTeam": {
       "name": "Delaware",
       "mascot": "DEL",
@@ -1015,7 +969,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "FLA -49.5, O/U 66.5",
-    "tv": "",
     "awayTeam": {
       "name": "Campbell",
       "mascot": "CAMP",
@@ -1037,7 +990,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "BSU -8.5, O/U 54.5",
-    "tv": "",
     "awayTeam": {
       "name": "Memphis",
       "mascot": "MEM",
@@ -1059,7 +1011,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "LIB -26.5, O/U 54.5",
-    "tv": "",
     "awayTeam": {
       "name": "Gardner-Webb",
       "mascot": "WEBB",
@@ -1081,7 +1032,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "FIU -10.5, O/U 47.5",
-    "tv": "",
     "awayTeam": {
       "name": "Buffalo",
       "mascot": "BUFF",
@@ -1103,7 +1053,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "OHIO -2.5, O/U 50.5",
-    "tv": "",
     "awayTeam": {
       "name": "Jacksonville St.",
       "mascot": "JVST",
@@ -1125,7 +1074,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "WMU -26, O/U 53",
-    "tv": "",
     "awayTeam": {
       "name": "Monmouth",
       "mascot": "MONM",
@@ -1147,7 +1095,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "MRSH -13.5, O/U 56.5",
-    "tv": "",
     "awayTeam": {
       "name": "Middle Tenn. St.",
       "mascot": "MTSU",
@@ -1169,7 +1116,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "MOST -19.5, O/U 52.5",
-    "tv": "",
     "awayTeam": {
       "name": "Lindenwood",
       "mascot": "LIN",
@@ -1191,7 +1137,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "TULN -9.5, O/U 49.5",
-    "tv": "",
     "awayTeam": {
       "name": "South Alabama",
       "mascot": "S ALA",
@@ -1213,7 +1158,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "TLSA -13.5, O/U 51.5",
-    "tv": "",
     "awayTeam": {
       "name": "Tulsa",
       "mascot": "TLSA",
@@ -1235,7 +1179,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "CIN -36.5, O/U 60.5",
-    "tv": "",
     "awayTeam": {
       "name": "Western Carolina",
       "mascot": "WCU",
@@ -1257,7 +1200,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "TENN -12.5, O/U 55.5",
-    "tv": "",
     "awayTeam": {
       "name": "Tennessee",
       "mascot": "TENN",
@@ -1279,7 +1221,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "KENN -9.5, O/U 54.5",
-    "tv": "",
     "awayTeam": {
       "name": "Georgia St.",
       "mascot": "GA ST",
@@ -1301,7 +1242,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "CSU -20.5, O/U 57.5",
-    "tv": "",
     "awayTeam": {
       "name": "Southern Utah",
       "mascot": "SUU",
@@ -1323,7 +1263,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "NEB -29.5, O/U 51.5",
-    "tv": "",
     "awayTeam": {
       "name": "Bowling Green",
       "mascot": "BGSU",
@@ -1345,7 +1284,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "HOU -51.5, O/U 60.5",
-    "tv": "",
     "awayTeam": {
       "name": "Southern",
       "mascot": "SOU",
@@ -1367,7 +1305,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "ARST -28.5, O/U 56.5",
-    "tv": "",
     "awayTeam": {
       "name": "West Georgia",
       "mascot": "WGA",
@@ -1389,7 +1326,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "ILST -3.5, O/U 47.5",
-    "tv": "",
     "awayTeam": {
       "name": "Illinois St.",
       "mascot": "ILST",
@@ -1411,7 +1347,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "SC -43.5, O/U 55.5",
-    "tv": "",
     "awayTeam": {
       "name": "Towson",
       "mascot": "TOWS",
@@ -1433,7 +1368,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "WIS -38.5, O/U 48.5",
-    "tv": "",
     "awayTeam": {
       "name": "Western Ill.",
       "mascot": "WIU",
@@ -1455,7 +1389,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "UCLA -12.5, O/U 55.5",
-    "tv": "",
     "awayTeam": {
       "name": "SDSU",
       "mascot": "",
@@ -1477,7 +1410,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "IOWA -13.5, O/U 40.5",
-    "tv": "",
     "awayTeam": {
       "name": "Iowa St.",
       "mascot": "ISU",
@@ -1499,7 +1431,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "CCU -33.5, O/U 53.5",
-    "tv": "",
     "awayTeam": {
       "name": "Fordham",
       "mascot": "FOR",
@@ -1521,7 +1452,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "NAVY -5.5, O/U 58.5",
-    "tv": "",
     "awayTeam": {
       "name": "Navy",
       "mascot": "NAVY",
@@ -1543,7 +1473,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "TEX -1.5, O/U 49.5",
-    "tv": "",
     "awayTeam": {
       "name": "Ohio St.",
       "mascot": "OSU",
@@ -1565,7 +1494,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "CLEM -20.5, O/U 55.5",
-    "tv": "",
     "awayTeam": {
       "name": "Georgia Southern",
       "mascot": "GASO",
@@ -1587,7 +1515,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "LSU -35.5, O/U 55.5",
-    "tv": "",
     "awayTeam": {
       "name": "Louisiana Tech",
       "mascot": "",
@@ -1609,7 +1536,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "TTU -26.5, O/U 53.5",
-    "tv": "",
     "awayTeam": {
       "name": "Texas Tech",
       "mascot": "TTU",
@@ -1631,7 +1557,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "AUB -33.5, O/U 56.5",
-    "tv": "",
     "awayTeam": {
       "name": "Southern Miss",
       "mascot": "USM",
@@ -1653,7 +1578,6 @@
     "datetime": "",
     "status": "LIVE",
     "odds": "MISS -47.5, O/U 60.5",
-    "tv": "",
     "awayTeam": {
       "name": "Charlotte",
       "mascot": "CHAR",
@@ -1675,7 +1599,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "BAY -38.5, O/U 55.5",
-    "tv": "",
     "awayTeam": {
       "name": "Prairie View A&M",
       "mascot": "",
@@ -1697,7 +1620,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "TCU -43.5, O/U 54.5",
-    "tv": "",
     "awayTeam": {
       "name": "Grambling St.",
       "mascot": "GRAM",
@@ -1719,7 +1641,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "SJSU -20.5, O/U 56.5",
-    "tv": "",
     "awayTeam": {
       "name": "Cal Poly",
       "mascot": "",
@@ -1741,7 +1662,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "UTEP -26.5, O/U 53.5",
-    "tv": "",
     "awayTeam": {
       "name": "Texas Southern",
       "mascot": "TXSO",
@@ -1763,7 +1683,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "NDSU -2.5, O/U 47.5",
-    "tv": "",
     "awayTeam": {
       "name": "N. Dak. St.",
       "mascot": "NDSU",
@@ -1785,7 +1704,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "UTAH -12.5, O/U 54.5",
-    "tv": "",
     "awayTeam": {
       "name": "Arkansas",
       "mascot": "ARK",
@@ -1807,7 +1725,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "FRES -18.5, O/U 44.5",
-    "tv": "",
     "awayTeam": {
       "name": "Sacramento St.",
       "mascot": "SAC",
@@ -1829,7 +1746,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "MTST -3.5, O/U 49.5",
-    "tv": "",
     "awayTeam": {
       "name": "Montana St.",
       "mascot": "MTST",
@@ -1851,7 +1767,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "USC -30.5, O/U 59.5",
-    "tv": "",
     "awayTeam": {
       "name": "Louisiana",
       "mascot": "",
@@ -1873,7 +1788,6 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "HAW -7.5, O/U 49.5",
-    "tv": "",
     "awayTeam": {
       "name": "N. Mex. St.",
       "mascot": "NMSU",
