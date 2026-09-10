@@ -1,8 +1,9 @@
 [
   {
-    "datetime": "",
+    "datetime": "Thu, 9/10, 7:00 PM CDT",
     "status": "UPCOMING",
     "odds": "MIA -57.5, O/U 62.5",
+    "tv": "",
     "awayTeam": {
       "name": "Florida A&M",
       "mascot": "FAMU",
@@ -21,9 +22,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Fri 9/11, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "NCST -30.5, O/U 48.5",
+    "tv": "",
     "awayTeam": {
       "name": "Richmond",
       "mascot": "RICH",
@@ -42,9 +44,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Fri 9/11, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "UVA -44.5, O/U 54.5",
+    "tv": "",
     "awayTeam": {
       "name": "Norfolk St.",
       "mascot": "NORF",
@@ -63,9 +66,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Fri 9/11, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "LOU -36.5, O/U 56.5",
+    "tv": "",
     "awayTeam": {
       "name": "Villanova",
       "mascot": "NOVA",
@@ -84,9 +88,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Fri 9/11, 6:30 PM CDT",
     "status": "UPCOMING",
     "odds": "BC -3.5, O/U 54.5",
+    "tv": "",
     "awayTeam": {
       "name": "Rutgers",
       "mascot": "RUTG",
@@ -105,9 +110,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Fri 9/11, 7:00 PM CDT",
     "status": "UPCOMING",
     "odds": "MIZZ -5.5, O/U 50.5",
+    "tv": "",
     "awayTeam": {
       "name": "Missouri",
       "mascot": "MIZZ",
@@ -126,9 +132,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 11:00 AM CDT",
     "status": "UPCOMING",
     "odds": "IND -56.5, O/U 65.5",
+    "tv": "",
     "awayTeam": {
       "name": "Howard",
       "mascot": "HOW",
@@ -147,9 +154,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 11:00 AM CDT",
     "status": "UPCOMING",
     "odds": "ORE -22.5, O/U 57.5",
+    "tv": "",
     "awayTeam": {
       "name": "Oregon",
       "mascot": "ORE",
@@ -168,9 +176,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 11:00 AM CDT",
     "status": "UPCOMING",
     "odds": "OU -5.5, O/U 43.5",
+    "tv": "",
     "awayTeam": {
       "name": "Oklahoma",
       "mascot": "",
@@ -189,9 +198,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 11:00 AM CDT",
     "status": "UPCOMING",
     "odds": "KSU -18.5, O/U 48.5",
+    "tv": "",
     "awayTeam": {
       "name": "Washington St.",
       "mascot": "WSU",
@@ -210,9 +220,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 11:00 AM CDT",
     "status": "UPCOMING",
     "odds": "WAKE -3, O/U 49.5",
+    "tv": "",
     "awayTeam": {
       "name": "Wake Forest",
       "mascot": "WAKE",
@@ -231,9 +242,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 11:00 AM CDT",
     "status": "UPCOMING",
     "odds": "KENT -11.5, O/U 46.5",
+    "tv": "",
     "awayTeam": {
       "name": "Wofford",
       "mascot": "WOF",
@@ -252,9 +264,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 11:00 AM CDT",
     "status": "UPCOMING",
     "odds": "VT -19.5, O/U 49.5",
+    "tv": "",
     "awayTeam": {
       "name": "Old Dominion",
       "mascot": "ODU",
@@ -273,9 +286,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 11:00 AM CDT",
     "status": "UPCOMING",
     "odds": "PSU -23.5, O/U 49.5",
+    "tv": "",
     "awayTeam": {
       "name": "Penn St.",
       "mascot": "PSU",
@@ -294,9 +308,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 11:00 AM CDT",
     "status": "UPCOMING",
     "odds": "TAMU -14.5, O/U 50.5",
+    "tv": "",
     "awayTeam": {
       "name": "Arizona St.",
       "mascot": "ASU",
@@ -315,9 +330,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 11:00 AM CDT",
     "status": "UPCOMING",
     "odds": "UNC -34.5, O/U 54.5",
+    "tv": "",
     "awayTeam": {
       "name": "E. Tennessee St.",
       "mascot": "ETSU",
@@ -336,9 +352,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 11:00 AM CDT",
     "status": "UPCOMING",
     "odds": "ARMY -3.5, O/U 46.5",
+    "tv": "",
     "awayTeam": {
       "name": "South Florida",
       "mascot": "S FLA",
@@ -357,9 +374,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 11:00 AM CDT",
     "status": "UPCOMING",
     "odds": "ECU -7.5, O/U 56.5",
+    "tv": "",
     "awayTeam": {
       "name": "Appalachian St.",
       "mascot": "APP",
@@ -378,9 +396,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 11:45 AM CDT",
     "status": "UPCOMING",
     "odds": "UGA -40.5, O/U 55.5",
+    "tv": "",
     "awayTeam": {
       "name": "W. Kentucky",
       "mascot": "WKU",
@@ -399,9 +418,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 12:00 PM CDT",
     "status": "UPCOMING",
     "odds": "M-OH -30.5, O/U 49.5",
+    "tv": "",
     "awayTeam": {
       "name": "Holy Cross",
       "mascot": "",
@@ -420,9 +440,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 12:00 PM CDT",
     "status": "UPCOMING",
     "odds": "WVU -40.5, O/U 56.5",
+    "tv": "",
     "awayTeam": {
       "name": "Tenn-Martin",
       "mascot": "UTM",
@@ -441,9 +462,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 12:00 PM CDT",
     "status": "UPCOMING",
     "odds": "CMU -24.5, O/U 49.5",
+    "tv": "",
     "awayTeam": {
       "name": "Colgate",
       "mascot": "COLG",
@@ -462,9 +484,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 1:00 PM CDT",
     "status": "UPCOMING",
     "odds": "BALL -15.5, O/U 56.5",
+    "tv": "",
     "awayTeam": {
       "name": "Stony Brook",
       "mascot": "STONY",
@@ -483,9 +506,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "ILL -5.5, O/U 51.5",
+    "tv": "",
     "awayTeam": {
       "name": "Duke",
       "mascot": "DUKE",
@@ -504,9 +528,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "BYU -7.5, O/U 47.5",
+    "tv": "",
     "awayTeam": {
       "name": "Arizona",
       "mascot": "ARIZ",
@@ -525,9 +550,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "PITT -7.5, O/U 56.5",
+    "tv": "",
     "awayTeam": {
       "name": "UCF",
       "mascot": "",
@@ -546,9 +572,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "LIVE",
     "odds": "ND -44.5, O/U 55.5",
+    "tv": "",
     "awayTeam": {
       "name": "Rice",
       "mascot": "RICE",
@@ -567,9 +594,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "ALA -10.5, O/U 49.5",
+    "tv": "",
     "awayTeam": {
       "name": "Alabama",
       "mascot": "ALA",
@@ -588,9 +616,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "SYR -3.5, O/U 56.5",
+    "tv": "",
     "awayTeam": {
       "name": "California",
       "mascot": "CAL",
@@ -609,9 +638,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "UW -26.5, O/U 55.5",
+    "tv": "",
     "awayTeam": {
       "name": "Utah St.",
       "mascot": "USU",
@@ -630,9 +660,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "TXST -1.5, O/U 66.5",
+    "tv": "",
     "awayTeam": {
       "name": "UTSA",
       "mascot": "",
@@ -651,9 +682,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "JMU -45.5, O/U 55.5",
+    "tv": "",
     "awayTeam": {
       "name": "Wagner",
       "mascot": "WAG",
@@ -672,9 +704,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "TOL -34.5, O/U 55.5",
+    "tv": "",
     "awayTeam": {
       "name": "Central Conn. St.",
       "mascot": "CCSU",
@@ -693,9 +726,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "UMD -12.5, O/U 52.5",
+    "tv": "",
     "awayTeam": {
       "name": "Maryland",
       "mascot": "UMD",
@@ -714,9 +748,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "AKR -27.5, O/U 41.5",
+    "tv": "",
     "awayTeam": {
       "name": "Robert Morris",
       "mascot": "RMU",
@@ -735,9 +770,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "UMASS -23.5, O/U 53.5",
+    "tv": "",
     "awayTeam": {
       "name": "Sacred Heart",
       "mascot": "SHU",
@@ -756,9 +792,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "UAB -10, O/U 55.5",
+    "tv": "",
     "awayTeam": {
       "name": "LA Monroe",
       "mascot": "ULM",
@@ -777,9 +814,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "MSU -17.5, O/U 49.5",
+    "tv": "",
     "awayTeam": {
       "name": "East. Michigan",
       "mascot": "EMU",
@@ -798,9 +836,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "LIVE",
     "odds": "MINN -1.5, O/U 55.5",
+    "tv": "",
     "awayTeam": {
       "name": "Mississippi St.",
       "mascot": "MSST",
@@ -819,9 +858,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "COLO -33.5, O/U 53.5",
+    "tv": "",
     "awayTeam": {
       "name": "Weber St.",
       "mascot": "WEB",
@@ -840,9 +880,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 2:45 PM CDT",
     "status": "UPCOMING",
     "odds": "UNLV -3, O/U 56.5",
+    "tv": "",
     "awayTeam": {
       "name": "UNLV",
       "mascot": "",
@@ -861,9 +902,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 3:00 PM CDT",
     "status": "UPCOMING",
     "odds": "UNM -40.5, O/U 52.5",
+    "tv": "",
     "awayTeam": {
       "name": "Mercyhurst",
       "mascot": "MRCY",
@@ -882,9 +924,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 3:00 PM CDT",
     "status": "UPCOMING",
     "odds": "WYO -23.5, O/U 48.5",
+    "tv": "",
     "awayTeam": {
       "name": "Northern Colorado",
       "mascot": "UNCO",
@@ -903,9 +946,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 3:00 PM CDT",
     "status": "UPCOMING",
     "odds": "SMU -25.5, O/U 58.5",
+    "tv": "",
     "awayTeam": {
       "name": "UC Davis",
       "mascot": "UCD",
@@ -924,9 +968,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 3:00 PM CDT",
     "status": "UPCOMING",
     "odds": "TROY -23, O/U 51.5",
+    "tv": "",
     "awayTeam": {
       "name": "Alabama St.",
       "mascot": "ALST",
@@ -945,9 +990,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 3:15 PM CDT",
     "status": "UPCOMING",
     "odds": "VAN -21, O/U 54.5",
+    "tv": "",
     "awayTeam": {
       "name": "Delaware",
       "mascot": "DEL",
@@ -966,9 +1012,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 4:30 PM CDT",
     "status": "UPCOMING",
     "odds": "FLA -49.5, O/U 66.5",
+    "tv": "",
     "awayTeam": {
       "name": "Campbell",
       "mascot": "CAMP",
@@ -987,9 +1034,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 5:00 PM CDT",
     "status": "UPCOMING",
     "odds": "BSU -8.5, O/U 54.5",
+    "tv": "",
     "awayTeam": {
       "name": "Memphis",
       "mascot": "MEM",
@@ -1008,9 +1056,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 5:00 PM CDT",
     "status": "UPCOMING",
     "odds": "LIB -26.5, O/U 54.5",
+    "tv": "",
     "awayTeam": {
       "name": "Gardner-Webb",
       "mascot": "WEBB",
@@ -1029,9 +1078,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 5:00 PM CDT",
     "status": "UPCOMING",
     "odds": "FIU -10.5, O/U 47.5",
+    "tv": "",
     "awayTeam": {
       "name": "Buffalo",
       "mascot": "BUFF",
@@ -1050,9 +1100,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 5:00 PM CDT",
     "status": "UPCOMING",
     "odds": "OHIO -2.5, O/U 50.5",
+    "tv": "",
     "awayTeam": {
       "name": "Jacksonville St.",
       "mascot": "JVST",
@@ -1071,9 +1122,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 5:30 PM CDT",
     "status": "UPCOMING",
     "odds": "WMU -26.5, O/U 53",
+    "tv": "",
     "awayTeam": {
       "name": "Monmouth",
       "mascot": "MONM",
@@ -1092,9 +1144,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "MRSH -13.5, O/U 56.5",
+    "tv": "",
     "awayTeam": {
       "name": "Middle Tenn. St.",
       "mascot": "MTSU",
@@ -1113,9 +1166,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "MOST -19.5, O/U 52.5",
+    "tv": "",
     "awayTeam": {
       "name": "Lindenwood",
       "mascot": "LIN",
@@ -1134,9 +1188,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "TULN -9.5, O/U 49.5",
+    "tv": "",
     "awayTeam": {
       "name": "South Alabama",
       "mascot": "S ALA",
@@ -1155,9 +1210,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "TLSA -13.5, O/U 51.5",
+    "tv": "",
     "awayTeam": {
       "name": "Tulsa",
       "mascot": "TLSA",
@@ -1176,9 +1232,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "CIN -36.5, O/U 60.5",
+    "tv": "",
     "awayTeam": {
       "name": "Western Carolina",
       "mascot": "WCU",
@@ -1197,9 +1254,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "TENN -12.5, O/U 55.5",
+    "tv": "",
     "awayTeam": {
       "name": "Tennessee",
       "mascot": "TENN",
@@ -1218,9 +1276,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "KENN -9.5, O/U 54.5",
+    "tv": "",
     "awayTeam": {
       "name": "Georgia St.",
       "mascot": "GA ST",
@@ -1239,9 +1298,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "CSU -20.5, O/U 57.5",
+    "tv": "",
     "awayTeam": {
       "name": "Southern Utah",
       "mascot": "SUU",
@@ -1260,9 +1320,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "NEB -29.5, O/U 51.5",
+    "tv": "",
     "awayTeam": {
       "name": "Bowling Green",
       "mascot": "BGSU",
@@ -1281,9 +1342,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "HOU -51.5, O/U 60.5",
+    "tv": "",
     "awayTeam": {
       "name": "Southern",
       "mascot": "SOU",
@@ -1302,9 +1364,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "ARST -28.5, O/U 56.5",
+    "tv": "",
     "awayTeam": {
       "name": "West Georgia",
       "mascot": "WGA",
@@ -1323,9 +1386,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "ILST -3.5, O/U 47.5",
+    "tv": "",
     "awayTeam": {
       "name": "Illinois St.",
       "mascot": "ILST",
@@ -1344,9 +1408,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "SC -43.5, O/U 55.5",
+    "tv": "",
     "awayTeam": {
       "name": "Towson",
       "mascot": "TOWS",
@@ -1365,9 +1430,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:15 PM CDT",
     "status": "UPCOMING",
     "odds": "WIS -38.5, O/U 48.5",
+    "tv": "",
     "awayTeam": {
       "name": "Western Ill.",
       "mascot": "WIU",
@@ -1386,9 +1452,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:15 PM CDT",
     "status": "UPCOMING",
     "odds": "UCLA -12.5, O/U 55.5",
+    "tv": "",
     "awayTeam": {
       "name": "SDSU",
       "mascot": "",
@@ -1407,9 +1474,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:30 PM CDT",
     "status": "UPCOMING",
     "odds": "IOWA -13.5, O/U 40.5",
+    "tv": "",
     "awayTeam": {
       "name": "Iowa St.",
       "mascot": "ISU",
@@ -1428,9 +1496,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:30 PM CDT",
     "status": "UPCOMING",
     "odds": "CCU -33.5, O/U 53.5",
+    "tv": "",
     "awayTeam": {
       "name": "Fordham",
       "mascot": "FOR",
@@ -1449,9 +1518,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:30 PM CDT",
     "status": "UPCOMING",
     "odds": "NAVY -5.5, O/U 58.5",
+    "tv": "",
     "awayTeam": {
       "name": "Navy",
       "mascot": "NAVY",
@@ -1470,9 +1540,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:30 PM CDT",
     "status": "UPCOMING",
     "odds": "TEX -1.5, O/U 49.5",
+    "tv": "",
     "awayTeam": {
       "name": "Ohio St.",
       "mascot": "OSU",
@@ -1491,9 +1562,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:30 PM CDT",
     "status": "UPCOMING",
     "odds": "CLEM -20.5, O/U 55.5",
+    "tv": "",
     "awayTeam": {
       "name": "Georgia Southern",
       "mascot": "GASO",
@@ -1512,9 +1584,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:30 PM CDT",
     "status": "UPCOMING",
     "odds": "LSU -35.5, O/U 55.5",
+    "tv": "",
     "awayTeam": {
       "name": "Louisiana Tech",
       "mascot": "",
@@ -1533,9 +1606,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:30 PM CDT",
     "status": "UPCOMING",
     "odds": "TTU -26.5, O/U 53.5",
+    "tv": "",
     "awayTeam": {
       "name": "Texas Tech",
       "mascot": "TTU",
@@ -1554,9 +1628,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:45 PM CDT",
     "status": "UPCOMING",
     "odds": "AUB -33.5, O/U 56.5",
+    "tv": "",
     "awayTeam": {
       "name": "Southern Miss",
       "mascot": "USM",
@@ -1575,9 +1650,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 6:45 PM CDT",
     "status": "LIVE",
     "odds": "MISS -47.5, O/U 60.5",
+    "tv": "",
     "awayTeam": {
       "name": "Charlotte",
       "mascot": "CHAR",
@@ -1596,9 +1672,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 7:00 PM CDT",
     "status": "UPCOMING",
     "odds": "BAY -38.5, O/U 55.5",
+    "tv": "",
     "awayTeam": {
       "name": "Prairie View A&M",
       "mascot": "",
@@ -1617,9 +1694,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 7:00 PM CDT",
     "status": "UPCOMING",
     "odds": "TCU -43.5, O/U 54.5",
+    "tv": "",
     "awayTeam": {
       "name": "Grambling St.",
       "mascot": "GRAM",
@@ -1638,9 +1716,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 8:00 PM CDT",
     "status": "UPCOMING",
     "odds": "SJSU -20.5, O/U 56.5",
+    "tv": "",
     "awayTeam": {
       "name": "Cal Poly",
       "mascot": "",
@@ -1659,9 +1738,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 8:00 PM CDT",
     "status": "UPCOMING",
     "odds": "UTEP -26.5, O/U 53.5",
+    "tv": "",
     "awayTeam": {
       "name": "Texas Southern",
       "mascot": "TXSO",
@@ -1680,9 +1760,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 9:00 PM CDT",
     "status": "UPCOMING",
     "odds": "NDSU -2.5, O/U 47.5",
+    "tv": "",
     "awayTeam": {
       "name": "N. Dak. St.",
       "mascot": "NDSU",
@@ -1701,9 +1782,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 9:15 PM CDT",
     "status": "UPCOMING",
     "odds": "UTAH -12.5, O/U 54.5",
+    "tv": "",
     "awayTeam": {
       "name": "Arkansas",
       "mascot": "ARK",
@@ -1722,9 +1804,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 9:30 PM CDT",
     "status": "UPCOMING",
     "odds": "FRES -18.5, O/U 45.5",
+    "tv": "",
     "awayTeam": {
       "name": "Sacramento St.",
       "mascot": "SAC",
@@ -1743,9 +1826,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 9:30 PM CDT",
     "status": "UPCOMING",
     "odds": "MTST -3.5, O/U 49.5",
+    "tv": "",
     "awayTeam": {
       "name": "Montana St.",
       "mascot": "MTST",
@@ -1764,9 +1848,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sat 9/12, 10:00 PM CDT",
     "status": "UPCOMING",
     "odds": "USC -30.5, O/U 59.5",
+    "tv": "",
     "awayTeam": {
       "name": "Louisiana",
       "mascot": "",
@@ -1785,9 +1870,10 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun 9/13, 11:00 PM CDT",
     "status": "UPCOMING",
     "odds": "HAW -7.5, O/U 49.5",
+    "tv": "",
     "awayTeam": {
       "name": "N. Mex. St.",
       "mascot": "NMSU",
