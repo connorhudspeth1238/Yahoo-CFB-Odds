@@ -63,10 +63,10 @@
                             </div>
                         </div>
 
-                        <!-- Footer Details (Odds on left, TV on right) -->
+                        <!-- Footer Details (Odds & TV) -->
                         <div class="border-t border-slate-100 pt-2.5 mt-1 flex justify-between items-center text-[11px] font-medium text-slate-600">
-                            <span class="truncate mr-2">${game.odds || ''}</span>
-                            <span class="shrink-0 font-semibold text-slate-700">${game.tv ? `TV: ${game.tv}` : ''}</span>
+                            <span class="truncate mr-1">${game.odds ? `Odds: ${game.odds}` : ''}</span>
+                            <span class="shrink-0">${game.tv ? `TV: ${game.tv}` : ''}</span>
                         </div>
                     `;
                     grid.appendChild(card);
