@@ -3,6 +3,7 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "LAR -3.5, O/U 48.5",
+    "tv": "",
     "awayTeam": {
       "name": "49ers",
       "mascot": "",
@@ -24,6 +25,7 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "CIN -3.5, O/U 50.5",
+    "tv": "",
     "awayTeam": {
       "name": "Buccaneers",
       "mascot": "",
@@ -45,6 +47,7 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "DET -7, O/U 49.5",
+    "tv": "",
     "awayTeam": {
       "name": "Saints",
       "mascot": "",
@@ -66,6 +69,7 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "TEN -1.5, O/U 38.5",
+    "tv": "",
     "awayTeam": {
       "name": "Jets",
       "mascot": "",
@@ -87,6 +91,7 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "BAL -3.5, O/U 47.5",
+    "tv": "",
     "awayTeam": {
       "name": "Ravens",
       "mascot": "",
@@ -108,6 +113,7 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "PIT -3.5, O/U 42",
+    "tv": "",
     "awayTeam": {
       "name": "Falcons",
       "mascot": "",
@@ -128,7 +134,8 @@
   {
     "datetime": "",
     "status": "UPCOMING",
-    "odds": "CHI -3, O/U 47",
+    "odds": "CHI -3, O/U 47.5",
+    "tv": "",
     "awayTeam": {
       "name": "Bears",
       "mascot": "",
@@ -150,6 +157,7 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "JAX -8.5, O/U 40.5",
+    "tv": "",
     "awayTeam": {
       "name": "Browns",
       "mascot": "",
@@ -171,6 +179,7 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "BUF -1.5, O/U 44.5",
+    "tv": "",
     "awayTeam": {
       "name": "Bills",
       "mascot": "",
@@ -192,6 +201,7 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "LV -3.5, O/U 40.5",
+    "tv": "",
     "awayTeam": {
       "name": "Dolphins",
       "mascot": "",
@@ -213,6 +223,7 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "MIN -1.5, O/U 46.5",
+    "tv": "",
     "awayTeam": {
       "name": "Packers",
       "mascot": "",
@@ -234,6 +245,7 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "PHI -4.5, O/U 44.5",
+    "tv": "",
     "awayTeam": {
       "name": "Commanders",
       "mascot": "",
@@ -255,6 +267,7 @@
     "datetime": "",
     "status": "UPCOMING",
     "odds": "LAC -9.5, O/U 47.5",
+    "tv": "",
     "awayTeam": {
       "name": "Cardinals",
       "mascot": "",
@@ -273,9 +286,10 @@
     }
   },
   {
-    "datetime": "NBC/P CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "DAL -2.5, O/U 48.5",
+    "tv": "",
     "awayTeam": {
       "name": "Cowboys",
       "mascot": "",
@@ -294,9 +308,10 @@
     }
   },
   {
-    "datetime": "ABC/E CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "KC -3, O/U 43.5",
+    "odds": "KC -2.5, O/U 43.5",
+    "tv": "",
     "awayTeam": {
       "name": "Broncos",
       "mascot": "",
@@ -317,7 +332,8 @@
   {
     "datetime": "",
     "status": "LIVE",
-    "odds": "",
+    "odds": "NE +3.5, U 44.5",
+    "tv": "",
     "awayTeam": {
       "name": "Patriots",
       "mascot": "",
