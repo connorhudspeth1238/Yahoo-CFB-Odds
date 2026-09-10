@@ -18,7 +18,7 @@ async function scrapeYahooScores() {
 
         console.log("Navigating to Yahoo Sports Scoreboard...");
         await page.goto('https://sports.yahoo.com/college-football/scoreboard/?leagueFilter=divisionIds_1', { 
-            waitUntil: 'domcontentloaded',
+            waitUntil: 'networkidle2',
             timeout: 60000 
         });
 
@@ -37,10 +37,11 @@ async function scrapeYahooScores() {
                 const teamContainers = card.querySelectorAll('div._ys_1gde6sj');
                 if (teamContainers.length < 2) return;
 
-                // Extract date and time from metadata elements
+                // Extract date, time, and broadcast channel from metadata elements
                 const metaElements = card.querySelectorAll('._ys_qoenog, ._ys_aug67i');
                 let rawTime = '';
                 let rawDate = '';
+                let broadcastChannel = '';
 
                 metaElements.forEach(el => {
                     const text = el.innerText.trim();
@@ -54,10 +55,12 @@ async function scrapeYahooScores() {
                         rawTime = text;
                     } else if (text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed')) {
                         rawDate = text;
+                    } else if (text.length > 0 && text.length <= 6 && text === text.toUpperCase() && !text.includes('-') && !text.includes('/')) {
+                        broadcastChannel = text;
                     }
                 });
 
-                // Fallback: If rawDate is missing, grab today's date in Central Time
+                // Fallback: If rawDate is missing (common for today's games on Yahoo), grab today's date in Central Time
                 if (!rawDate && rawTime) {
                     const options = { timeZone: 'America/Chicago', weekday: 'short', month: 'numeric', day: 'numeric' };
                     rawDate = new Intl.DateTimeFormat('en-US', options).format(new Date());
@@ -80,6 +83,7 @@ async function scrapeYahooScores() {
                     const nameEl = container.querySelector('._ys_159h2dm');
                     const name = nameEl ? nameEl.innerText.trim() : '';
                     
+                    // Extract mascot / secondary name
                     const allSpans = Array.from(container.querySelectorAll('span'));
                     let mascot = '';
                     const textSpans = allSpans.map(s => s.innerText.trim());
@@ -90,6 +94,7 @@ async function scrapeYahooScores() {
                         }
                     }
 
+                    // Extract record (e.g., "1-2") or score
                     let record = '';
                     let score = '';
                     
@@ -105,6 +110,7 @@ async function scrapeYahooScores() {
                         score = scoreEl ? scoreEl.innerText.trim() : '';
                     }
 
+                    // Extract rank (1-25)
                     let rank = '';
                     allSpans.forEach(span => {
                         const txt = span.innerText.trim();
@@ -124,6 +130,7 @@ async function scrapeYahooScores() {
 
                 if (!awayTeam.name || !homeTeam.name) return;
 
+                // Logos
                 const logos = card.querySelectorAll('img._ys_14fh01c');
                 const awayLogo = logos[0] ? logos[0].src : '';
                 const homeLogo = logos[1] ? logos[1].src : '';
@@ -132,6 +139,7 @@ async function scrapeYahooScores() {
                 if (seenGames.has(uniqueKey)) return;
                 seenGames.add(uniqueKey);
 
+                // Betting Odds
                 const oddsElement = card.querySelector('._ys_ea8nnj');
                 let odds = '';
                 if (oddsElement) {
@@ -145,6 +153,7 @@ async function scrapeYahooScores() {
                     datetime: dateTimeDisplay,
                     status: gameStatus,
                     odds: odds,
+                    tv: broadcastChannel,
                     awayTeam: { 
                         name: awayTeam.name, 
                         mascot: awayTeam.mascot, 
