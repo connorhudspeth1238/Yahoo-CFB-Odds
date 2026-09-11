@@ -200,7 +200,7 @@
   {
     "datetime": "Sat 9/12, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "WAKE -3, O/U 49.5",
+    "odds": "WAKE -2.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Wake Forest",
@@ -772,7 +772,7 @@
   {
     "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "LIVE",
-    "odds": "MSST -1.5, O/U 55.5",
+    "odds": "MSST -1.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Mississippi St.",
@@ -816,7 +816,7 @@
   {
     "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UAB -10.5, O/U 54.5",
+    "odds": "UAB -10, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "LA Monroe",
@@ -860,7 +860,7 @@
   {
     "datetime": "Sat 9/12, 2:45 PM CDT",
     "status": "UPCOMING",
-    "odds": "UNLV -3.5, O/U 57.5",
+    "odds": "UNLV -3.5, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "UNLV",
@@ -1168,7 +1168,7 @@
   {
     "datetime": "Sat 9/12, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TENN -12.5, O/U 55.5",
+    "odds": "TENN -11.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Tennessee",
@@ -1300,7 +1300,7 @@
   {
     "datetime": "Sat 9/12, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NEB -30.5, O/U 51.5",
+    "odds": "NEB -30.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Bowling Green",
@@ -1498,7 +1498,7 @@
   {
     "datetime": "Sat 9/12, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "IOWA -13.5, O/U 40.5",
+    "odds": "IOWA -13.5, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Iowa St.",
@@ -1718,7 +1718,7 @@
   {
     "datetime": "Sat 9/12, 8:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "UTEP -26.5, O/U 53.5",
+    "odds": "UTEP -25.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Texas Southern",
@@ -1848,7 +1848,7 @@
     }
   },
   {
-    "datetime": "Sun 9/13, 11:00 PM CDT",
+    "datetime": "Sat 9/12, 11:00 PM CDT",
     "status": "UPCOMING",
     "odds": "HAW -7.5, O/U 49.5",
     "tv": "",
