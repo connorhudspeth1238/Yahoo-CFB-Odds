@@ -46,7 +46,7 @@
   {
     "datetime": "Fri, 9/11, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "LOU -37.5, O/U 57.5",
+    "odds": "LOU -37.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Villanova",
@@ -222,7 +222,7 @@
   {
     "datetime": "Sat 9/12, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "KENT -11.5, O/U 47.5",
+    "odds": "KENT -10.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Wofford",
@@ -464,7 +464,7 @@
   {
     "datetime": "Sat 9/12, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "M-OH -30.5, O/U 49.5",
+    "odds": "M-OH -30.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Holy Cross",
@@ -486,7 +486,7 @@
   {
     "datetime": "Sat 9/12, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "CMU -24.5, O/U 49.5",
+    "odds": "CMU -22.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Colgate",
@@ -508,7 +508,7 @@
   {
     "datetime": "Sat 9/12, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BALL -15.5, O/U 56.5",
+    "odds": "BALL -14.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Stony Brook",
@@ -706,7 +706,7 @@
   {
     "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TOL -35.5, O/U 55.5",
+    "odds": "TOL -35.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Central Conn. St.",
@@ -728,7 +728,7 @@
   {
     "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "AKR -27.5, O/U 42.5",
+    "odds": "AKR -27.5, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Robert Morris",
@@ -750,7 +750,7 @@
   {
     "datetime": "Sat 9/12, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "COLO -33.5, O/U 54.5",
+    "odds": "COLO -34.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Weber St.",
@@ -904,7 +904,7 @@
   {
     "datetime": "Sat 9/12, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "SMU -25.5, O/U 58.5",
+    "odds": "SMU -28.5, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "UC Davis",
@@ -1102,7 +1102,7 @@
   {
     "datetime": "Sat 9/12, 5:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "WMU -26, O/U 53",
+    "odds": "WMU -27, O/U 53",
     "tv": "",
     "awayTeam": {
       "name": "Monmouth",
@@ -1168,7 +1168,7 @@
   {
     "datetime": "Sat 9/12, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TULN -9.5, O/U 49.5",
+    "odds": "TULN -10, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "South Alabama",
@@ -1190,7 +1190,7 @@
   {
     "datetime": "Sat 9/12, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "MOST -16.5, O/U 52.5",
+    "odds": "MOST -16.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Lindenwood",
@@ -1366,7 +1366,7 @@
   {
     "datetime": "Sat 9/12, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "SC -43.5, O/U 54.5",
+    "odds": "SC -43.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Towson",
@@ -1410,7 +1410,7 @@
   {
     "datetime": "Sat 9/12, 6:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "WIS -38.5, O/U 48.5",
+    "odds": "WIS -38.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Western Ill.",
@@ -1586,7 +1586,7 @@
   {
     "datetime": "Sat 9/12, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "CLEM -20, O/U 54.5",
+    "odds": "CLEM -19.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Georgia Southern",
@@ -1784,7 +1784,7 @@
   {
     "datetime": "Sat 9/12, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "FRES -18, O/U 44.5",
+    "odds": "FRES -18.5, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Sacramento St.",
