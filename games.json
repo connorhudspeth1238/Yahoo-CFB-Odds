@@ -222,7 +222,7 @@
   {
     "datetime": "Sat 9/19, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "ASU -6, O/U 51.5",
+    "odds": "ASU -6.0, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Arizona St.",
@@ -266,7 +266,7 @@
   {
     "datetime": "Sat 9/19, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "UGA -25.5, O/U 54.5",
+    "odds": "UGA -25, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Georgia",
@@ -354,7 +354,7 @@
   {
     "datetime": "Sat 9/19, 11:45 AM CDT",
     "status": "UPCOMING",
-    "odds": "VAN -3.5, O/U 51.5",
+    "odds": "VAN -3.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "NC State",
@@ -684,7 +684,7 @@
   {
     "datetime": "Sat 9/19, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BAY -18.5, O/U 53.5",
+    "odds": "BAY -19, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Louisiana Tech",
@@ -1168,7 +1168,7 @@
   {
     "datetime": "Sat 9/19, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "S ALA -4.5, O/U 51.5",
+    "odds": "S ALA -5.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Ohio",
@@ -1322,7 +1322,7 @@
   {
     "datetime": "Sat 9/19, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "NW -3.5, O/U 49.5",
+    "odds": "NW -3.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Colorado",
@@ -1542,7 +1542,7 @@
   {
     "datetime": "Sat 9/19, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "NDSU -27.5, O/U 51.5",
+    "odds": "NDSU -27.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "N. Dak. St.",
@@ -1608,7 +1608,7 @@
   {
     "datetime": "Sat 9/19, 10:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORST -15.5, O/U 53.5",
+    "odds": "ORST -16, O/U 53",
     "tv": "",
     "awayTeam": {
       "name": "Montana",
