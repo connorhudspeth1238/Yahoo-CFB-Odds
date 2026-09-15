@@ -18,7 +18,7 @@ async function scrapeYahooScores() {
 
         console.log("Navigating to Yahoo Sports Scoreboard...");
         await page.goto('https://sports.yahoo.com/college-football/scoreboard/?leagueFilter=divisionIds_1', { 
-            waitUntil: 'networkidle2',
+            waitUntil: 'domcontentloaded',
             timeout: 60000 
         });
 
