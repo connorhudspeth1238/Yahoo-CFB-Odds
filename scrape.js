@@ -22,6 +22,10 @@ async function scrapeYahooScores() {
             timeout: 60000 
         });
 
+        // Give dynamic elements a brief moment to render after DOM load
+        console.log("Waiting for dynamic content to render...");
+        await new Promise(r => setTimeout(r, 3000));
+
         console.log("Waiting for game cards to load...");
         await page.waitForSelector('div[id^="ncaaf.g."]', { timeout: 15000 });
 
