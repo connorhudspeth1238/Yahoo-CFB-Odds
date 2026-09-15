@@ -68,7 +68,7 @@
   {
     "datetime": "Fri 9/18, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORE -57.5, O/U 68.5",
+    "odds": "ORE -57.5, O/U 67.5",
     "tv": "",
     "awayTeam": {
       "name": "Portland St.",
@@ -464,7 +464,7 @@
   {
     "datetime": "Sat 9/19, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "WSU -38.5, O/U 52.5",
+    "odds": "WSU -38.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Duquesne",
@@ -596,7 +596,7 @@
   {
     "datetime": "Sat 9/19, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TAMU -17, O/U 49.5",
+    "odds": "TAMU -16.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Kentucky",
@@ -618,7 +618,7 @@
   {
     "datetime": "Sat 9/19, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UMASS -33.5, O/U 48.5",
+    "odds": "UMASS -33.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Stonehill",
@@ -838,7 +838,7 @@
   {
     "datetime": "Sat 9/19, 5:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ODU -3, O/U 49.5",
+    "odds": "ODU -3, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "East Carolina",
@@ -904,7 +904,7 @@
   {
     "datetime": "Sat 9/19, 5:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "MRSH -3.5, O/U 51.5",
+    "odds": "MRSH -3.5, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "Marshall",
@@ -1168,7 +1168,7 @@
   {
     "datetime": "Sat 9/19, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "S ALA -5.5, O/U 51.5",
+    "odds": "S ALA -6.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Ohio",
@@ -1190,7 +1190,7 @@
   {
     "datetime": "Sat 9/19, 6:15 PM CDT",
     "status": "LIVE",
-    "odds": "NEB -24.5, O/U 50.5",
+    "odds": "NEB -24.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "North Dakota",
@@ -1278,7 +1278,7 @@
   {
     "datetime": "Sat 9/19, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "VT -3, O/U 54.5",
+    "odds": "VT -3, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Virginia Tech",
@@ -1366,7 +1366,7 @@
   {
     "datetime": "Sat 9/19, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "LSU -3, O/U 59.5",
+    "odds": "LSU -3, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "LSU",
@@ -1410,7 +1410,7 @@
   {
     "datetime": "Sat 9/19, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TLSA -41.5, O/U 57",
+    "odds": "TLSA -42.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "East Texas A&M",
@@ -1630,7 +1630,7 @@
   {
     "datetime": "Sat 9/19, 10:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "UCLA -14, O/U 52.5",
+    "odds": "UCLA -14, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Purdue",
