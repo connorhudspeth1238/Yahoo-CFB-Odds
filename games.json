@@ -2,7 +2,7 @@
   {
     "datetime": "Thu 9/17, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "PITT -10.5, O/U 51.5",
+    "odds": "PITT -10, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Syracuse",
@@ -68,7 +68,7 @@
   {
     "datetime": "Fri 9/18, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORE -56.5, O/U 67.5",
+    "odds": "ORE -57.5, O/U 68.5",
     "tv": "",
     "awayTeam": {
       "name": "Portland St.",
@@ -112,7 +112,7 @@
   {
     "datetime": "Sat 9/19, 11:00 AM CDT",
     "status": "LIVE",
-    "odds": "MINN -24, O/U 49.5",
+    "odds": "MINN -23.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Akron",
@@ -398,7 +398,7 @@
   {
     "datetime": "Sat 9/19, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ILL -39.5, O/U 54",
+    "odds": "ILL -39.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Southern Ill.",
@@ -420,7 +420,7 @@
   {
     "datetime": "Sat 9/19, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BC -37.5, O/U 52.5",
+    "odds": "BC -37.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Maine",
@@ -574,7 +574,7 @@
   {
     "datetime": "Sat 9/19, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "USC -23.5, O/U 59.5",
+    "odds": "USC -24, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "USC",
@@ -596,7 +596,7 @@
   {
     "datetime": "Sat 9/19, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TAMU -16.5, O/U 50.5",
+    "odds": "TAMU -17, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Kentucky",
@@ -794,7 +794,7 @@
   {
     "datetime": "Sat 9/19, 3:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "SC -4, O/U 58.5",
+    "odds": "SC -3.5, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "Mississippi St.",
@@ -1014,7 +1014,7 @@
   {
     "datetime": "Sat 9/19, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "OKST -55.5, O/U 70",
+    "odds": "OKST -55.5, O/U 70.5",
     "tv": "",
     "awayTeam": {
       "name": "Murray St.",
@@ -1190,7 +1190,7 @@
   {
     "datetime": "Sat 9/19, 6:15 PM CDT",
     "status": "LIVE",
-    "odds": "NEB -24.5, O/U 50",
+    "odds": "NEB -24.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "North Dakota",
@@ -1212,7 +1212,7 @@
   {
     "datetime": "Sat 9/19, 6:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "UW -42.5, O/U 57",
+    "odds": "UW -42.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Eastern Wash.",
@@ -1278,7 +1278,7 @@
   {
     "datetime": "Sat 9/19, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "VT -3.0, O/U 53.5",
+    "odds": "VT -3, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Virginia Tech",
@@ -1432,7 +1432,7 @@
   {
     "datetime": "Sat 9/19, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TCU -20.5, O/U 56.5",
+    "odds": "TCU -20, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Arkansas St.",
@@ -1630,7 +1630,7 @@
   {
     "datetime": "Sat 9/19, 10:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "UCLA -14.5, O/U 52.5",
+    "odds": "UCLA -14, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "Purdue",
