@@ -68,7 +68,7 @@
   {
     "datetime": "Fri 9/18, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORE -57.5, O/U 67.5",
+    "odds": "ORE -57.5, O/U 68.5",
     "tv": "",
     "awayTeam": {
       "name": "Portland St.",
@@ -222,7 +222,7 @@
   {
     "datetime": "Sat 9/19, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "ASU -6.0, O/U 50.5",
+    "odds": "ASU -5.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Arizona St.",
@@ -266,7 +266,7 @@
   {
     "datetime": "Sat 9/19, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "UGA -25, O/U 54.5",
+    "odds": "UGA -24.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Georgia",
@@ -508,7 +508,7 @@
   {
     "datetime": "Sat 9/19, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UTAH -28, O/U 56.5",
+    "odds": "UTAH -27.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Utah St.",
@@ -574,7 +574,7 @@
   {
     "datetime": "Sat 9/19, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "USC -24, O/U 59.5",
+    "odds": "USC -23.5, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "USC",
@@ -772,7 +772,7 @@
   {
     "datetime": "Sat 9/19, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "IOWA -39.5, O/U 48.5",
+    "odds": "IOWA -38.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Northern Iowa",
@@ -904,7 +904,7 @@
   {
     "datetime": "Sat 9/19, 5:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "MRSH -3.5, O/U 52.5",
+    "odds": "MRSH -4, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "Marshall",
@@ -970,7 +970,7 @@
   {
     "datetime": "Sat 9/19, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "MEM -34.5, O/U 56.5",
+    "odds": "MEM -35.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Tenn-Martin",
@@ -1168,7 +1168,7 @@
   {
     "datetime": "Sat 9/19, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "S ALA -7, O/U 50.5",
+    "odds": "S ALA -7, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Ohio",
@@ -1190,7 +1190,7 @@
   {
     "datetime": "Sat 9/19, 6:15 PM CDT",
     "status": "LIVE",
-    "odds": "NEB -24.5, O/U 51.5",
+    "odds": "NEB -24.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "North Dakota",
@@ -1212,7 +1212,7 @@
   {
     "datetime": "Sat 9/19, 6:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "UW -42.5, O/U 56.5",
+    "odds": "UW -42.5, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Eastern Wash.",
