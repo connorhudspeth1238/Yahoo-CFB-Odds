@@ -24,7 +24,7 @@
   {
     "datetime": "Fri 9/18, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "MIA -20.5, O/U 56.5",
+    "odds": "MIA -20.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Miami (FL)",
@@ -266,7 +266,7 @@
   {
     "datetime": "Sat 9/19, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "UGA -25.5, O/U 54.5",
+    "odds": "UGA -25, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Georgia",
@@ -442,7 +442,7 @@
   {
     "datetime": "Sat 9/19, 2:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TOL -5.5, O/U 50.5",
+    "odds": "TOL -6, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Temple",
@@ -926,7 +926,7 @@
   {
     "datetime": "Sat 9/19, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "MIZZ -26.5, O/U 50.5",
+    "odds": "MIZZ -27, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Troy",
@@ -1146,7 +1146,7 @@
   {
     "datetime": "Sat 9/19, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "S FLA -37.5, O/U 62.5",
+    "odds": "S FLA -37.5, O/U 61.5",
     "tv": "",
     "awayTeam": {
       "name": "Delaware St.",
@@ -1432,7 +1432,7 @@
   {
     "datetime": "Sat 9/19, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TCU -20, O/U 56.5",
+    "odds": "TCU -19.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Arkansas St.",
