@@ -46,7 +46,7 @@
   {
     "datetime": "Fri 9/18, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TTU -7.5, O/U 53.5",
+    "odds": "TTU -7.5, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "Houston",
@@ -266,7 +266,7 @@
   {
     "datetime": "Sat 9/19, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "UGA -25, O/U 54.5",
+    "odds": "UGA -25.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Georgia",
@@ -1168,7 +1168,7 @@
   {
     "datetime": "Sat 9/19, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "S ALA -6.5, O/U 50.5",
+    "odds": "S ALA -7, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Ohio",
