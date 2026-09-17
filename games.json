@@ -2,7 +2,7 @@
   {
     "datetime": "Thu 9/17, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "PITT -10, O/U 51.5",
+    "odds": "PITT -10.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Syracuse",
@@ -24,7 +24,7 @@
   {
     "datetime": "Fri 9/18, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "MIA -21, O/U 56.5",
+    "odds": "MIA -20.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Miami (FL)",
@@ -266,7 +266,7 @@
   {
     "datetime": "Sat 9/19, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "UGA -24.5, O/U 54.5",
+    "odds": "UGA -25, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Georgia",
@@ -288,7 +288,7 @@
   {
     "datetime": "Sat 9/19, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "GT -39.5, O/U 60.5",
+    "odds": "GT -39.5, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "Mercer",
@@ -354,7 +354,7 @@
   {
     "datetime": "Sat 9/19, 11:45 AM CDT",
     "status": "UPCOMING",
-    "odds": "VAN -3.5, O/U 50.5",
+    "odds": "VAN -3, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "NC State",
@@ -574,7 +574,7 @@
   {
     "datetime": "Sat 9/19, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "USC -23.5, O/U 59.5",
+    "odds": "USC -23.5, O/U 60.5",
     "tv": "",
     "awayTeam": {
       "name": "USC",
@@ -1630,7 +1630,7 @@
   {
     "datetime": "Sat 9/19, 10:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "UCLA -14, O/U 53.5",
+    "odds": "UCLA -14, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "Purdue",
