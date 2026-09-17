@@ -2,7 +2,7 @@
   {
     "datetime": "Thu, 9/17, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "PITT -10.5, O/U 51.5",
+    "odds": "PITT -10, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Syracuse",
@@ -90,7 +90,7 @@
   {
     "datetime": "Sat 9/19, 10:30 AM CDT",
     "status": "UPCOMING",
-    "odds": "DEL -4.5, O/U 56.5",
+    "odds": "DEL -4, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Coastal Car.",
@@ -156,7 +156,7 @@
   {
     "datetime": "Sat 9/19, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "PSU -41.5, O/U 50.5",
+    "odds": "PSU -41, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Buffalo",
@@ -332,7 +332,7 @@
   {
     "datetime": "Sat 9/19, 11:30 AM CDT",
     "status": "UPCOMING",
-    "odds": "WIS -23.5, O/U 45.5",
+    "odds": "WIS -23.5, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "East. Michigan",
@@ -354,7 +354,7 @@
   {
     "datetime": "Sat 9/19, 11:45 AM CDT",
     "status": "UPCOMING",
-    "odds": "VAN -3, O/U 50.5",
+    "odds": "VAN -3.0, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "NC State",
@@ -552,7 +552,7 @@
   {
     "datetime": "Sat 9/19, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "LOU -1.5, O/U 59.5",
+    "odds": "LOU -1.5, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "SMU",
@@ -596,7 +596,7 @@
   {
     "datetime": "Sat 9/19, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TAMU -17, O/U 49.5",
+    "odds": "TAMU -17, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Kentucky",
@@ -684,7 +684,7 @@
   {
     "datetime": "Sat 9/19, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BAY -19.5, O/U 49.5",
+    "odds": "BAY -20, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Louisiana Tech",
@@ -728,7 +728,7 @@
   {
     "datetime": "Sat 9/19, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "LIB -14, O/U 49.5",
+    "odds": "LIB -14.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Ball St.",
@@ -904,7 +904,7 @@
   {
     "datetime": "Sat 9/19, 5:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "MRSH -4, O/U 52.5",
+    "odds": "MRSH -4, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Marshall",
@@ -926,7 +926,7 @@
   {
     "datetime": "Sat 9/19, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "MIZZ -27, O/U 50.5",
+    "odds": "MIZZ -27.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Troy",
@@ -1036,7 +1036,7 @@
   {
     "datetime": "Sat 9/19, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "SHS -18.5, O/U 50.5",
+    "odds": "SHS -18.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Nicholls",
@@ -1168,7 +1168,7 @@
   {
     "datetime": "Sat 9/19, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "S ALA -7, O/U 49.5",
+    "odds": "S ALA -7, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Ohio",
@@ -1300,7 +1300,7 @@
   {
     "datetime": "Sat 9/19, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "OU -21.5, O/U 46.5",
+    "odds": "OU -21.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "New Mexico",
@@ -1322,7 +1322,7 @@
   {
     "datetime": "Sat 9/19, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "NW -3.5, O/U 47.5",
+    "odds": "NW -3.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Colorado",
@@ -1388,7 +1388,7 @@
   {
     "datetime": "Sat 9/19, 6:45 PM CDT",
     "status": "UPCOMING",
-    "odds": "TENN -35.5, O/U 59.5",
+    "odds": "TENN -35, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "Kennesaw St.",
@@ -1432,7 +1432,7 @@
   {
     "datetime": "Sat 9/19, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TCU -19.5, O/U 56.5",
+    "odds": "TCU -19, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Arkansas St.",
@@ -1454,7 +1454,7 @@
   {
     "datetime": "Sat 9/19, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TEX -29.5, O/U 58.5",
+    "odds": "TEX -30, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "UTSA",
@@ -1564,7 +1564,7 @@
   {
     "datetime": "Sat 9/19, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ARIZ -33.5, O/U 50.5",
+    "odds": "ARIZ -33.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Northern Illinois",
@@ -1586,7 +1586,7 @@
   {
     "datetime": "Sat 9/19, 10:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "FRES -6.5, O/U 49.5",
+    "odds": "FRES -6.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Fresno St.",
