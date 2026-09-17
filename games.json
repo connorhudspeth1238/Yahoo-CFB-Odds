@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Thu, 9/17, 6:30 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "PITT -10, O/U 51.5",
+    "odds": "ESPN",
     "tv": "",
     "awayTeam": {
       "name": "Syracuse",
       "mascot": "SYR",
       "rank": "",
-      "record": "1-1",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/3Oj9I6jknqYqtC0PG7W28A--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20190410/500x500/syracuse_s.png.cf.webp"
     },
@@ -16,7 +16,7 @@
       "name": "Pittsburgh",
       "mascot": "PITT",
       "rank": "",
-      "record": "2-0",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/bHfsCE_b5kpST_nEMngqdg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20200226/500x500/pittsburgh.png.cf.webp"
     }
@@ -68,7 +68,7 @@
   {
     "datetime": "Fri 9/18, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORE -57.5, O/U 68.5",
+    "odds": "ORE -56.5, O/U 67.5",
     "tv": "",
     "awayTeam": {
       "name": "Portland St.",
@@ -134,7 +134,7 @@
   {
     "datetime": "Sat 9/19, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "OSU -52.5, O/U 58.5",
+    "odds": "OSU -52.5, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "Kent St.",
@@ -156,7 +156,7 @@
   {
     "datetime": "Sat 9/19, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "PSU -41, O/U 49.5",
+    "odds": "PSU -40.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Buffalo",
@@ -244,7 +244,7 @@
   {
     "datetime": "Sat 9/19, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "ISU -23.5, O/U 43.5",
+    "odds": "ISU -24, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Bowling Green",
@@ -288,7 +288,7 @@
   {
     "datetime": "Sat 9/19, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "GT -39.5, O/U 59.5",
+    "odds": "GT -39, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "Mercer",
@@ -354,7 +354,7 @@
   {
     "datetime": "Sat 9/19, 11:45 AM CDT",
     "status": "UPCOMING",
-    "odds": "VAN -3.0, O/U 50.5",
+    "odds": "VAN -3.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "NC State",
@@ -398,7 +398,7 @@
   {
     "datetime": "Sat 9/19, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ILL -39.5, O/U 54.5",
+    "odds": "ILL -39, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Southern Ill.",
@@ -464,7 +464,7 @@
   {
     "datetime": "Sat 9/19, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "WSU -38.5, O/U 53.5",
+    "odds": "WSU -37.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Duquesne",
@@ -574,7 +574,7 @@
   {
     "datetime": "Sat 9/19, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "USC -22, O/U 59.5",
+    "odds": "USC -22.5, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "USC",
@@ -816,7 +816,7 @@
   {
     "datetime": "Sat 9/19, 3:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ULM -11.5, O/U 47.5",
+    "odds": "ULM -11, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "SE Louisiana",
@@ -926,7 +926,7 @@
   {
     "datetime": "Sat 9/19, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "MIZZ -27.5, O/U 49.5",
+    "odds": "MIZZ -27.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Troy",
@@ -970,7 +970,7 @@
   {
     "datetime": "Sat 9/19, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "MEM -34.5, O/U 57.5",
+    "odds": "MEM -34.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Tenn-Martin",
@@ -1014,7 +1014,7 @@
   {
     "datetime": "Sat 9/19, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "OKST -55.5, O/U 70.5",
+    "odds": "OKST -56.5, O/U 70.5",
     "tv": "",
     "awayTeam": {
       "name": "Murray St.",
@@ -1036,7 +1036,7 @@
   {
     "datetime": "Sat 9/19, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "SHS -18.5, O/U 49.5",
+    "odds": "SHS -18, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Nicholls",
@@ -1432,7 +1432,7 @@
   {
     "datetime": "Sat 9/19, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TCU -19, O/U 56.5",
+    "odds": "TCU -19.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Arkansas St.",
@@ -1454,7 +1454,7 @@
   {
     "datetime": "Sat 9/19, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TEX -30, O/U 58.5",
+    "odds": "TEX -30.5, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "UTSA",
@@ -1476,7 +1476,7 @@
   {
     "datetime": "Sat 9/19, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "LA -7.5, O/U 56.5",
+    "odds": "LA -7.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "UAB",
@@ -1498,7 +1498,7 @@
   {
     "datetime": "Sat 9/19, 9:00 PM CDT",
     "status": "LIVE",
-    "odds": "BSU -24.5, O/U 56.5",
+    "odds": "BSU -24, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "South Dakota",
