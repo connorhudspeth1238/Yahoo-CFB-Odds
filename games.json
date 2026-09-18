@@ -46,7 +46,7 @@
   {
     "datetime": "Fri, 9/18, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORE -58.5, O/U 70.5",
+    "odds": "ORE -58.5, O/U 71.5",
     "tv": "",
     "awayTeam": {
       "name": "Portland St.",
@@ -68,7 +68,7 @@
   {
     "datetime": "Fri, 9/18, 10:30 AM CDT",
     "status": "UPCOMING",
-    "odds": "DEL -5.5, O/U 57.5",
+    "odds": "DEL -5, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Coastal Car.",
@@ -288,7 +288,7 @@
   {
     "datetime": "Fri, 9/18, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "CLEM -3.0, O/U 43.5",
+    "odds": "CLEM -3, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "N. Carolina",
@@ -332,7 +332,7 @@
   {
     "datetime": "Fri, 9/18, 11:45 AM CDT",
     "status": "UPCOMING",
-    "odds": "VAN -3.5, O/U 50.5",
+    "odds": "VAN -3, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "NC State",
@@ -376,7 +376,7 @@
   {
     "datetime": "Fri, 9/18, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ILL -39, O/U 54.5",
+    "odds": "ILL -38.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Southern Ill.",
@@ -530,7 +530,7 @@
   {
     "datetime": "Fri, 9/18, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UMASS -33, O/U 49.5",
+    "odds": "UMASS -31.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Stonehill",
@@ -640,7 +640,7 @@
   {
     "datetime": "Fri, 9/18, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "MICH -35.5, O/U 48.5",
+    "odds": "MICH -34.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "UTEP",
@@ -816,7 +816,7 @@
   {
     "datetime": "Fri, 9/18, 5:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ODU -3, O/U 48.5",
+    "odds": "ODU -2.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "East Carolina",
@@ -970,7 +970,7 @@
   {
     "datetime": "Fri, 9/18, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "UCF -17.5, O/U 50.5",
+    "odds": "UCF -17.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Georgia St.",
@@ -1014,7 +1014,7 @@
   {
     "datetime": "Fri, 9/18, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "SHS -18, O/U 49.5",
+    "odds": "SHS -18.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Nicholls",
@@ -1146,7 +1146,7 @@
   {
     "datetime": "Fri, 9/18, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "WMU -9.5, O/U 43.5",
+    "odds": "WMU -9, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "W. Michigan",
@@ -1190,7 +1190,7 @@
   {
     "datetime": "Fri, 9/18, 6:15 PM CDT",
     "status": "LIVE",
-    "odds": "NEB -24.5, O/U 52.5",
+    "odds": "NEB -25, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "North Dakota",
@@ -1432,7 +1432,7 @@
   {
     "datetime": "Fri, 9/18, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TLSA -42.5, O/U 56.5",
+    "odds": "TLSA -42.5, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "East Texas A&M",
@@ -1476,7 +1476,7 @@
   {
     "datetime": "Fri, 9/18, 9:00 PM CDT",
     "status": "LIVE",
-    "odds": "BSU -24.5, O/U 56.5",
+    "odds": "BSU -25.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "South Dakota",
