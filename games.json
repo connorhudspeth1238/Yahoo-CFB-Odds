@@ -310,7 +310,7 @@
   {
     "datetime": "Sat 9/19, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "CLEM -3, O/U 43.5",
+    "odds": "CLEM -3.5, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "N. Carolina",
@@ -574,7 +574,7 @@
   {
     "datetime": "Sat 9/19, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "USC -22.5, O/U 59.5",
+    "odds": "USC -22, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "USC",
@@ -750,7 +750,7 @@
   {
     "datetime": "Sat 9/19, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "IND -44.5, O/U 60.5",
+    "odds": "IND -44.5, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "W. Kentucky",
@@ -1366,7 +1366,7 @@
   {
     "datetime": "Sat 9/19, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "LSU -2.5, O/U 57.5",
+    "odds": "LSU -3, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "LSU",
