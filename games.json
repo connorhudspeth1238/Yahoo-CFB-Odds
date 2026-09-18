@@ -90,7 +90,7 @@
   {
     "datetime": "Sat 9/19, 11:00 AM CDT",
     "status": "LIVE",
-    "odds": "MINN -23.5, O/U 49.5",
+    "odds": "MINN -23.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Akron",
@@ -112,7 +112,7 @@
   {
     "datetime": "Sat 9/19, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "OSU -52.5, O/U 58.5",
+    "odds": "OSU -52.5, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "Kent St.",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sat 9/19, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "ISU -24, O/U 43.5",
+    "odds": "ISU -23.5, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Bowling Green",
@@ -464,7 +464,7 @@
   {
     "datetime": "Sat 9/19, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "WSU -37.5, O/U 53.5",
+    "odds": "WSU -38.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Duquesne",
@@ -706,7 +706,7 @@
   {
     "datetime": "Sat 9/19, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "IOWA -39, O/U 48.5",
+    "odds": "IOWA -39, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Northern Iowa",
@@ -728,7 +728,7 @@
   {
     "datetime": "Sat 9/19, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "DUKE -10.5, O/U 50.5",
+    "odds": "DUKE -10, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Stanford",
@@ -1014,7 +1014,7 @@
   {
     "datetime": "Sat 9/19, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "SHS -18, O/U 49.5",
+    "odds": "SHS -17.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Nicholls",
@@ -1212,7 +1212,7 @@
   {
     "datetime": "Sat 9/19, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "OU -21.5, O/U 44.5",
+    "odds": "OU -21.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "New Mexico",
@@ -1564,7 +1564,7 @@
   {
     "datetime": "Sat 9/19, 10:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "FRES -6.5, O/U 50.5",
+    "odds": "FRES -6.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Fresno St.",
