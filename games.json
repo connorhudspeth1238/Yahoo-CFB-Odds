@@ -1,36 +1,36 @@
 [
   {
-    "datetime": "Fri, 9/18, 6:30 PM CDT",
-    "status": "UPCOMING",
-    "odds": "MIA -20.5, O/U 55.5",
+    "datetime": "",
+    "status": "LIVE",
+    "odds": "ESPN",
     "tv": "",
     "awayTeam": {
       "name": "Miami (FL)",
       "mascot": "MIA",
       "rank": "5",
-      "record": "2-0",
-      "score": "",
+      "record": "",
+      "score": "5",
       "logo": "https://s.yimg.com/iu/api/res/1.2/DRdOTbhUxL8J95PvPxS6HQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181127/500X500/miami_fl.png.cf.webp"
     },
     "homeTeam": {
       "name": "Wake Forest",
       "mascot": "WAKE",
       "rank": "",
-      "record": "2-0",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/czh44PRv7cssqrQm4aasHQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181204/500x500/wake_forest.png.cf.webp"
     }
   },
   {
-    "datetime": "Fri, 9/18, 7:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "TTU -7.5, O/U 52.5",
+    "odds": "FOX",
     "tv": "",
     "awayTeam": {
       "name": "Houston",
       "mascot": "HOU",
       "rank": "22",
-      "record": "2-0",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/7i8yBNk_AbCpzeYvaaz7Jg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181129/500X500/houston.png.cf.webp"
     },
@@ -38,7 +38,7 @@
       "name": "Texas Tech",
       "mascot": "TTU",
       "rank": "13",
-      "record": "2-0",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/J35zOhgqgEbgsQ.R8k3Hiw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260721/500px/texastech_dbg.png.cf.webp"
     }
@@ -68,7 +68,7 @@
   {
     "datetime": "Fri, 9/18, 10:30 AM CDT",
     "status": "UPCOMING",
-    "odds": "DEL -5, O/U 57.5",
+    "odds": "DEL -5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Coastal Car.",
@@ -134,7 +134,7 @@
   {
     "datetime": "Fri, 9/18, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "TXST -2.5, O/U 62.5",
+    "odds": "TXST -3, O/U 62.5",
     "tv": "",
     "awayTeam": {
       "name": "North Texas",
@@ -288,7 +288,7 @@
   {
     "datetime": "Fri, 9/18, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "CLEM -3, O/U 43.5",
+    "odds": "CLEM -3, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "N. Carolina",
@@ -816,7 +816,7 @@
   {
     "datetime": "Fri, 9/18, 5:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ODU -2.5, O/U 48.5",
+    "odds": "ODU -3, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "East Carolina",
@@ -1080,7 +1080,7 @@
   {
     "datetime": "Fri, 9/18, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "MEM -34.5, O/U 56.5",
+    "odds": "MEM -34.5, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Tenn-Martin",
