@@ -2,7 +2,7 @@
   {
     "datetime": "Sat, 9/19, 10:30 AM CDT",
     "status": "UPCOMING",
-    "odds": "DEL -4.5, O/U 56.5",
+    "odds": "DEL -5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Coastal Car.",
@@ -90,7 +90,7 @@
   {
     "datetime": "Sat, 9/19, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "TXST -3, O/U 62.5",
+    "odds": "TXST -2.5, O/U 62.5",
     "tv": "",
     "awayTeam": {
       "name": "North Texas",
@@ -112,7 +112,7 @@
   {
     "datetime": "Sat, 9/19, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "PSU -40.5, O/U 49.5",
+    "odds": "PSU -41.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Buffalo",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sat, 9/19, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "GT -39.5, O/U 59.5",
+    "odds": "GT -38.5, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "Mercer",
@@ -332,7 +332,7 @@
   {
     "datetime": "Sat, 9/19, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ILL -38, O/U 55.5",
+    "odds": "ILL -37.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Southern Ill.",
@@ -684,7 +684,7 @@
   {
     "datetime": "Sat, 9/19, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BAY -20, O/U 49.5",
+    "odds": "BAY -20, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Louisiana Tech",
@@ -750,7 +750,7 @@
   {
     "datetime": "Sat, 9/19, 5:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ODU -2.5, O/U 48.5",
+    "odds": "ODU -3, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "East Carolina",
@@ -926,7 +926,7 @@
   {
     "datetime": "Sat, 9/19, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "UCF -17.5, O/U 49.5",
+    "odds": "UCF -17.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Georgia St.",
@@ -1520,7 +1520,7 @@
   {
     "datetime": "Sat, 9/19, 10:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORST -17.5, O/U 54.5",
+    "odds": "ORST -16.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Montana",
