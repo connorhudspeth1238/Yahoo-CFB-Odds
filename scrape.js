@@ -55,19 +55,21 @@ async function scrapeYahooScores() {
                     node = node.parentElement;
                 }
 
-                // Convert "Thu, September 24, 2026" into "9/24" format
+                // Convert "Thu, September 24, 2026" into "Thu, 9/24" format
                 let formattedDate = '';
                 if (rawDate) {
                     try {
-                        // Remove day name and year, leaving "September 24"
-                        const cleanDateStr = rawDate.replace(/^[A-Z]+,\s*/i, '').replace(/,\s*\d{4}/, '');
-                        const parsedDate = new Date(cleanDateStr + ' 2026'); // dummy year for JS parsing
+                        const parts = rawDate.split(',');
+                        const dayOfWeek = parts[0].trim(); // e.g. "Thu"
+                        const cleanDateStr = parts.slice(1).join(',').replace(/,\s*\d{4}/, '').trim(); // e.g. "September 24"
+                        
+                        const parsedDate = new Date(cleanDateStr + ' 2026');
                         if (!isNaN(parsedDate)) {
                             const month = parsedDate.getMonth() + 1;
                             const day = parsedDate.getDate();
-                            formattedDate = `${month}/${day}`;
+                            formattedDate = `${dayOfWeek}, ${month}/${day}`;
                         } else {
-                            formattedDate = cleanDateStr; // fallback
+                            formattedDate = rawDate;
                         }
                     } catch (e) {
                         formattedDate = rawDate;
@@ -97,10 +99,10 @@ async function scrapeYahooScores() {
                 // Fallback: If formattedDate is missing, grab today's date
                 if (!formattedDate && rawTime) {
                     const now = new Date();
-                    formattedDate = `${now.getMonth() + 1}/${now.getDate()}`;
+                    formattedDate = `${now.toLocaleDateString('en-US', { weekday: 'short' })}, ${now.getMonth() + 1}/${now.getDate()}`;
                 }
 
-                // Combine into clean display string (e.g., "9/24, 6:30 PM CDT")
+                // Combine into clean display string (e.g., "Thu, 9/24, 6:30 PM CDT")
                 let dateTimeDisplay = [formattedDate, rawTime].filter(Boolean).join(', ');
                 if (dateTimeDisplay && !dateTimeDisplay.includes('CDT') && !dateTimeDisplay.includes('CST')) {
                     dateTimeDisplay += ' CDT';
