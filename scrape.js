@@ -40,7 +40,7 @@ async function scrapeYahooScores() {
                 const teamContainers = card.querySelectorAll('div._ys_1gde6sj');
                 if (teamContainers.length < 2) return;
 
-                // Extract date safely: strictly require day of week + month/year to prevent grabbing team names
+                // Extract date string from grouped section headers safely
                 let rawDate = '';
                 let node = card;
                 while (node && !rawDate) {
@@ -53,6 +53,25 @@ async function scrapeYahooScores() {
                         prev = prev.previousElementSibling;
                     }
                     node = node.parentElement;
+                }
+
+                // Convert "Thu, September 24, 2026" into "9/24" format
+                let formattedDate = '';
+                if (rawDate) {
+                    try {
+                        // Remove day name and year, leaving "September 24"
+                        const cleanDateStr = rawDate.replace(/^[A-Z]+,\s*/i, '').replace(/,\s*\d{4}/, '');
+                        const parsedDate = new Date(cleanDateStr + ' 2026'); // dummy year for JS parsing
+                        if (!isNaN(parsedDate)) {
+                            const month = parsedDate.getMonth() + 1;
+                            const day = parsedDate.getDate();
+                            formattedDate = `${month}/${day}`;
+                        } else {
+                            formattedDate = cleanDateStr; // fallback
+                        }
+                    } catch (e) {
+                        formattedDate = rawDate;
+                    }
                 }
 
                 // Extract time and broadcast channel from metadata elements
@@ -75,14 +94,14 @@ async function scrapeYahooScores() {
                     }
                 });
 
-                // Fallback: If rawDate is missing, grab today's date in Central Time
-                if (!rawDate && rawTime) {
-                    const options = { timeZone: 'America/Chicago', weekday: 'short', month: 'numeric', day: 'numeric' };
-                    rawDate = new Intl.DateTimeFormat('en-US', options).format(new Date());
+                // Fallback: If formattedDate is missing, grab today's date
+                if (!formattedDate && rawTime) {
+                    const now = new Date();
+                    formattedDate = `${now.getMonth() + 1}/${now.getDate()}`;
                 }
 
-                // Format datetime string
-                let dateTimeDisplay = [rawDate, rawTime].filter(Boolean).join(', ');
+                // Combine into clean display string (e.g., "9/24, 6:30 PM CDT")
+                let dateTimeDisplay = [formattedDate, rawTime].filter(Boolean).join(', ');
                 if (dateTimeDisplay && !dateTimeDisplay.includes('CDT') && !dateTimeDisplay.includes('CST')) {
                     dateTimeDisplay += ' CDT';
                 }
