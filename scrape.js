@@ -40,14 +40,14 @@ async function scrapeYahooScores() {
                 const teamContainers = card.querySelectorAll('div._ys_1gde6sj');
                 if (teamContainers.length < 2) return;
 
-                // Extract date from grouped section headers by walking up/back in the DOM
+                // Extract date safely: strictly require day of week + month/year to prevent grabbing team names
                 let rawDate = '';
                 let node = card;
                 while (node && !rawDate) {
                     let prev = node.previousElementSibling;
                     while (prev && !rawDate) {
                         const text = prev.innerText.trim();
-                        if (text && (/^(MON|TUE|WED|THU|FRI|SAT|SUN)/i.test(text) || text.includes(','))) {
+                        if (text && /^(MON|TUE|WED|THU|FRI|SAT|SUN)/i.test(text) && /\d{4}|JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC/i.test(text)) {
                             rawDate = text.split('\n')[0].trim();
                         }
                         prev = prev.previousElementSibling;
