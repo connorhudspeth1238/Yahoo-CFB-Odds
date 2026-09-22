@@ -2,7 +2,7 @@
   {
     "datetime": "Thu, 9/24, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "LIB -2.5, O/U 52.5",
+    "odds": "LIB -2.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Liberty",
@@ -244,7 +244,7 @@
   {
     "datetime": "Sat, 9/26, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "KENT -3.5, O/U 50.5",
+    "odds": "KENT -3.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Ball St.",
@@ -310,7 +310,7 @@
   {
     "datetime": "Sat, 9/26, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "VT -13.5, O/U 48.5",
+    "odds": "VT -14, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Virginia Tech",
@@ -420,7 +420,7 @@
   {
     "datetime": "Sat, 9/26, 12:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UCLA -1.5, O/U 57.5",
+    "odds": "UCLA -1.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "UCLA",
@@ -486,7 +486,7 @@
   {
     "datetime": "Sat, 9/26, 2:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "FSU -43.5, O/U 58.5",
+    "odds": "FSU -44.5, O/U 60.5",
     "tv": "",
     "awayTeam": {
       "name": "Central Arkansas",
@@ -530,7 +530,7 @@
   {
     "datetime": "Sat, 9/26, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UGA -14, O/U 43.5",
+    "odds": "UGA -14, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Oklahoma",
@@ -552,7 +552,7 @@
   {
     "datetime": "Sat, 9/26, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "FLA -3.5, O/U 60.5",
+    "odds": "FLA -3.5, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "Mississippi",
@@ -574,7 +574,7 @@
   {
     "datetime": "Sat, 9/26, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "MRSH -25.5, O/U 51.5",
+    "odds": "MRSH -22.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Gardner-Webb",
@@ -662,7 +662,7 @@
   {
     "datetime": "Sat, 9/26, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "BSU -7.5, O/U 48.5",
+    "odds": "BSU -7.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Boise St.",
@@ -684,7 +684,7 @@
   {
     "datetime": "Sat, 9/26, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "OHIO -35.5, O/U 51.5",
+    "odds": "OHIO -32.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Stonehill",
@@ -772,7 +772,7 @@
   {
     "datetime": "Sat, 9/26, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "MICH -5.5, O/U 37.5",
+    "odds": "MICH -5.5, O/U 38.5",
     "tv": "",
     "awayTeam": {
       "name": "Iowa",
@@ -838,7 +838,7 @@
   {
     "datetime": "Sat, 9/26, 3:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "AUB -9.5, O/U 55.5",
+    "odds": "AUB -9.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Vanderbilt",
@@ -882,7 +882,7 @@
   {
     "datetime": "Sat, 9/26, 4:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "PSU -9.5, O/U 44.5",
+    "odds": "PSU -10.0, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Wisconsin",
@@ -948,7 +948,7 @@
   {
     "datetime": "Sat, 9/26, 5:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TXST -30.5, O/U 60.5",
+    "odds": "TXST -30.5, O/U 61.5",
     "tv": "",
     "awayTeam": {
       "name": "Incarnate Word",
@@ -1014,7 +1014,7 @@
   {
     "datetime": "Sat, 9/26, 5:30 PM CDT",
     "status": "LIVE",
-    "odds": "LA -10, O/U 49.5",
+    "odds": "LA -10, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Louisiana",
@@ -1058,7 +1058,7 @@
   {
     "datetime": "Sat, 9/26, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "WVU -1.5, O/U 60.5",
+    "odds": "WVU -1.5, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "Oklahoma St.",
@@ -1124,7 +1124,7 @@
   {
     "datetime": "Sat, 9/26, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ALA -12, O/U 54.5",
+    "odds": "ALA -12, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "South Carolina",
@@ -1168,7 +1168,7 @@
   {
     "datetime": "Sat, 9/26, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TULN -18.5, O/U 51.5",
+    "odds": "TULN -18.5, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "Southern Miss",
@@ -1234,7 +1234,7 @@
   {
     "datetime": "Sat, 9/26, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "LSU -9, O/U 52.5",
+    "odds": "LSU -8.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Texas A&M",
@@ -1300,7 +1300,7 @@
   {
     "datetime": "Sat, 9/26, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UNT -38.5, O/U 58.5",
+    "odds": "UNT -38.5, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "Houston Christian",
@@ -1322,7 +1322,7 @@
   {
     "datetime": "Sat, 9/26, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORE -3, O/U 61.5",
+    "odds": "ORE -3, O/U 62.5",
     "tv": "",
     "awayTeam": {
       "name": "Oregon",
@@ -1344,7 +1344,7 @@
   {
     "datetime": "Sat, 9/26, 6:45 PM CDT",
     "status": "UPCOMING",
-    "odds": "MSST -6.5, O/U 58.5",
+    "odds": "MSST -6, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "Missouri",
@@ -1388,7 +1388,7 @@
   {
     "datetime": "Sat, 9/26, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ARK -7, O/U 51.5",
+    "odds": "ARK -7, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Tulsa",
@@ -1432,7 +1432,7 @@
   {
     "datetime": "Sat, 9/26, 8:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORST -10.5, O/U 54.5",
+    "odds": "ORST -10.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Oregon St.",
