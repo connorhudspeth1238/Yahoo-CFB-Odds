@@ -332,7 +332,7 @@
   {
     "datetime": "Sat, 9/26, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "UTSA -13, O/U 58.5",
+    "odds": "UTSA -13.5, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "Colorado St.",
@@ -442,7 +442,7 @@
   {
     "datetime": "Sat, 9/26, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "GA ST -10, O/U 56.5",
+    "odds": "GA ST -10, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Northern Illinois",
@@ -464,7 +464,7 @@
   {
     "datetime": "Sat, 9/26, 1:00 PM CDT",
     "status": "LIVE",
-    "odds": "ND -27.5, O/U 57.5",
+    "odds": "ND -27.5, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "Notre Dame",
@@ -618,7 +618,7 @@
   {
     "datetime": "Sat, 9/26, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UTAH -8, O/U 48.5",
+    "odds": "UTAH -7.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Utah",
@@ -662,7 +662,7 @@
   {
     "datetime": "Sat, 9/26, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "BSU -7.5, O/U 49.5",
+    "odds": "BSU -7, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Boise St.",
@@ -816,7 +816,7 @@
   {
     "datetime": "Sat, 9/26, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ECU -34.5, O/U 53.5",
+    "odds": "ECU -34.5, O/U 54",
     "tv": "",
     "awayTeam": {
       "name": "N.C. Central",
@@ -882,7 +882,7 @@
   {
     "datetime": "Sat, 9/26, 4:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "PSU -10.0, O/U 44.5",
+    "odds": "PSU -10, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Wisconsin",
@@ -1102,7 +1102,7 @@
   {
     "datetime": "Sat, 9/26, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ARST -6.5, O/U 52.5",
+    "odds": "ARST -5.5, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "Kennesaw St.",
@@ -1322,7 +1322,7 @@
   {
     "datetime": "Sat, 9/26, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORE -3, O/U 62.5",
+    "odds": "ORE -3, O/U 61.5",
     "tv": "",
     "awayTeam": {
       "name": "Oregon",
@@ -1388,7 +1388,7 @@
   {
     "datetime": "Sat, 9/26, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ARK -7, O/U 50.5",
+    "odds": "ARK -7.0, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Tulsa",
@@ -1542,7 +1542,7 @@
   {
     "datetime": "Sat, 9/26, 10:00 PM CDT",
     "status": "LIVE",
-    "odds": "UW -10, O/U 46.5",
+    "odds": "UW -10, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Minnesota",
