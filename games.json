@@ -1,6 +1,6 @@
 [
   {
-    "datetime": "Tue, 9/22, 6:30 PM CDT",
+    "datetime": "Thu, September 24, 2026, 6:30 PM CDT",
     "status": "UPCOMING",
     "odds": "LIB -2.5, O/U 52.5",
     "tv": "",
@@ -22,7 +22,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 3:00 PM CDT",
+    "datetime": "Fri, September 25, 2026, 3:00 PM CDT",
     "status": "UPCOMING",
     "odds": "ARMY -3, O/U 48.5",
     "tv": "",
@@ -44,7 +44,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 6:00 PM CDT",
+    "datetime": "Fri, September 25, 2026, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "RUTG -42.5, O/U 54.5",
     "tv": "",
@@ -66,7 +66,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 6:00 PM CDT",
+    "datetime": "Fri, September 25, 2026, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "NAVY -7, O/U 51.5",
     "tv": "",
@@ -88,7 +88,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 7:00 PM CDT",
+    "datetime": "Fri, September 25, 2026, 7:00 PM CDT",
     "status": "UPCOMING",
     "odds": "IND -21, O/U 49.5",
     "tv": "",
@@ -110,7 +110,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 9:30 PM CDT",
+    "datetime": "Northwestern, 9:30 PM CDT",
     "status": "UPCOMING",
     "odds": "CLEM -1.5, O/U 50.5",
     "tv": "",
@@ -132,7 +132,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 11:00 AM CDT",
+    "datetime": "Sat, September 26, 2026, 11:00 AM CDT",
     "status": "UPCOMING",
     "odds": "BAY -10, O/U 55.5",
     "tv": "",
@@ -154,9 +154,9 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 11:00 AM CDT",
+    "datetime": "Sat, September 26, 2026, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "TTU -34, O/U 54.5",
+    "odds": "TTU -34.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Sam Houston State",
@@ -176,7 +176,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 11:00 AM CDT",
+    "datetime": "Sat, September 26, 2026, 11:00 AM CDT",
     "status": "UPCOMING",
     "odds": "LOU -12.5, O/U 58.5",
     "tv": "",
@@ -198,7 +198,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 11:00 AM CDT",
+    "datetime": "Sat, September 26, 2026, 11:00 AM CDT",
     "status": "UPCOMING",
     "odds": "TEX -5.5, O/U 55.5",
     "tv": "",
@@ -220,7 +220,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 11:00 AM CDT",
+    "datetime": "Sat, September 26, 2026, 11:00 AM CDT",
     "status": "UPCOMING",
     "odds": "TOL -3, O/U 50.5",
     "tv": "",
@@ -242,7 +242,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 11:00 AM CDT",
+    "datetime": "Sat, September 26, 2026, 11:00 AM CDT",
     "status": "UPCOMING",
     "odds": "KENT -3.5, O/U 50.5",
     "tv": "",
@@ -264,7 +264,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 11:00 AM CDT",
+    "datetime": "Sat, September 26, 2026, 11:00 AM CDT",
     "status": "UPCOMING",
     "odds": "UNLV -13.5, O/U 52.5",
     "tv": "",
@@ -286,7 +286,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 11:00 AM CDT",
+    "datetime": "Sat, September 26, 2026, 11:00 AM CDT",
     "status": "UPCOMING",
     "odds": "OSU -27.5, O/U 53.5",
     "tv": "",
@@ -308,9 +308,9 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 11:00 AM CDT",
+    "datetime": "Sat, September 26, 2026, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "VT -14, O/U 48.5",
+    "odds": "VT -13.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Virginia Tech",
@@ -330,7 +330,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 11:00 AM CDT",
+    "datetime": "Virginia Tech, 11:00 AM CDT",
     "status": "UPCOMING",
     "odds": "UTSA -13, O/U 57.5",
     "tv": "",
@@ -352,7 +352,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 11:00 AM CDT",
+    "datetime": "Virginia Tech, 11:00 AM CDT",
     "status": "UPCOMING",
     "odds": "PITT -49.5, O/U 58.5",
     "tv": "",
@@ -374,7 +374,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 11:45 AM CDT",
+    "datetime": "Virginia Tech, 11:45 AM CDT",
     "status": "UPCOMING",
     "odds": "UK -20.5, O/U 54.5",
     "tv": "",
@@ -396,7 +396,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 12:00 PM CDT",
+    "datetime": "Virginia Tech, 12:00 PM CDT",
     "status": "UPCOMING",
     "odds": "EMU -26.5, O/U 50.5",
     "tv": "",
@@ -418,7 +418,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 12:30 PM CDT",
+    "datetime": "Virginia Tech, 12:30 PM CDT",
     "status": "UPCOMING",
     "odds": "UCLA -1.5, O/U 57.5",
     "tv": "",
@@ -440,7 +440,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 1:00 PM CDT",
+    "datetime": "Virginia Tech, 1:00 PM CDT",
     "status": "UPCOMING",
     "odds": "GA ST -10, O/U 56.5",
     "tv": "",
@@ -462,7 +462,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 1:00 PM CDT",
+    "datetime": "Virginia Tech, 1:00 PM CDT",
     "status": "LIVE",
     "odds": "ND -27.5, O/U 57.5",
     "tv": "",
@@ -484,7 +484,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 2:00 PM CDT",
+    "datetime": "Virginia Tech, 2:00 PM CDT",
     "status": "UPCOMING",
     "odds": "FSU -43.5, O/U 58.5",
     "tv": "",
@@ -506,7 +506,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 2:00 PM CDT",
+    "datetime": "Virginia Tech, 2:00 PM CDT",
     "status": "UPCOMING",
     "odds": "HAW -3, O/U 44.5",
     "tv": "",
@@ -528,7 +528,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 2:30 PM CDT",
+    "datetime": "Virginia Tech, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "UGA -14, O/U 43.5",
     "tv": "",
@@ -550,7 +550,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 2:30 PM CDT",
+    "datetime": "Virginia Tech, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "FLA -3, O/U 60.5",
     "tv": "",
@@ -572,7 +572,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 2:30 PM CDT",
+    "datetime": "Virginia Tech, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "MRSH -26.5, O/U 51.5",
     "tv": "",
@@ -594,7 +594,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 2:30 PM CDT",
+    "datetime": "Virginia Tech, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "DUKE -43.5, O/U 62.5",
     "tv": "",
@@ -616,9 +616,9 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 2:30 PM CDT",
+    "datetime": "Virginia Tech, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UTAH -7.5, O/U 48.5",
+    "odds": "UTAH -8, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Utah",
@@ -638,7 +638,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 2:30 PM CDT",
+    "datetime": "Virginia Tech, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "BUFF -28.5, O/U 44.5",
     "tv": "",
@@ -660,7 +660,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 2:30 PM CDT",
+    "datetime": "Virginia Tech, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "BSU -7.5, O/U 48.5",
     "tv": "",
@@ -682,7 +682,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 2:30 PM CDT",
+    "datetime": "Virginia Tech, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "OHIO -37.5, O/U 51.5",
     "tv": "",
@@ -704,7 +704,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 2:30 PM CDT",
+    "datetime": "Virginia Tech, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "M-OH -3.5, O/U 51.5",
     "tv": "",
@@ -726,7 +726,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 2:30 PM CDT",
+    "datetime": "Virginia Tech, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "TCU -3, O/U 48.5",
     "tv": "",
@@ -748,9 +748,9 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 2:30 PM CDT",
+    "datetime": "Virginia Tech, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UNM -11, O/U 48.5",
+    "odds": "UNM -11.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "New Mexico",
@@ -770,7 +770,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 2:30 PM CDT",
+    "datetime": "Virginia Tech, 2:30 PM CDT",
     "status": "UPCOMING",
     "odds": "MICH -5.5, O/U 37.5",
     "tv": "",
@@ -792,7 +792,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 3:00 PM CDT",
+    "datetime": "Virginia Tech, 3:00 PM CDT",
     "status": "UPCOMING",
     "odds": "HOU -18.5, O/U 56.5",
     "tv": "",
@@ -814,7 +814,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 3:00 PM CDT",
+    "datetime": "Virginia Tech, 3:00 PM CDT",
     "status": "UPCOMING",
     "odds": "ECU -31.5, O/U 52.5",
     "tv": "",
@@ -836,7 +836,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 3:15 PM CDT",
+    "datetime": "Virginia Tech, 3:15 PM CDT",
     "status": "UPCOMING",
     "odds": "AUB -9.5, O/U 55.5",
     "tv": "",
@@ -858,7 +858,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 4:00 PM CDT",
+    "datetime": "Virginia Tech, 4:00 PM CDT",
     "status": "UPCOMING",
     "odds": "S FLA -17.5, O/U 48.5",
     "tv": "",
@@ -880,7 +880,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 4:00 PM CDT",
+    "datetime": "Virginia Tech, 4:00 PM CDT",
     "status": "UPCOMING",
     "odds": "PSU -9.5, O/U 44.5",
     "tv": "",
@@ -902,7 +902,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 4:00 PM CDT",
+    "datetime": "Virginia Tech, 4:00 PM CDT",
     "status": "UPCOMING",
     "odds": "NEB -5.5, O/U 48.5",
     "tv": "",
@@ -924,7 +924,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 5:00 PM CDT",
+    "datetime": "Virginia Tech, 5:00 PM CDT",
     "status": "UPCOMING",
     "odds": "UVA -19.5, O/U 52.5",
     "tv": "",
@@ -946,7 +946,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 5:00 PM CDT",
+    "datetime": "Virginia Tech, 5:00 PM CDT",
     "status": "UPCOMING",
     "odds": "TXST -30.5, O/U 60.5",
     "tv": "",
@@ -968,7 +968,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 5:00 PM CDT",
+    "datetime": "Virginia Tech, 5:00 PM CDT",
     "status": "UPCOMING",
     "odds": "FIU -34.5, O/U 50.5",
     "tv": "",
@@ -990,7 +990,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 5:00 PM CDT",
+    "datetime": "Virginia Tech, 5:00 PM CDT",
     "status": "UPCOMING",
     "odds": "JMU -6, O/U 44.5",
     "tv": "",
@@ -1012,7 +1012,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 5:30 PM CDT",
+    "datetime": "Virginia Tech, 5:30 PM CDT",
     "status": "LIVE",
     "odds": "LA -10, O/U 48.5",
     "tv": "",
@@ -1034,7 +1034,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 5:30 PM CDT",
+    "datetime": "Virginia Tech, 5:30 PM CDT",
     "status": "UPCOMING",
     "odds": "MIA -41.5, O/U 53.5",
     "tv": "",
@@ -1056,7 +1056,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 6:00 PM CDT",
+    "datetime": "Virginia Tech, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "WVU -1.5, O/U 59.5",
     "tv": "",
@@ -1078,7 +1078,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 6:00 PM CDT",
+    "datetime": "Virginia Tech, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "KSU -6.5, O/U 55.5",
     "tv": "",
@@ -1100,7 +1100,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 6:00 PM CDT",
+    "datetime": "Virginia Tech, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "ARST -5.5, O/U 52.5",
     "tv": "",
@@ -1122,7 +1122,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 6:00 PM CDT",
+    "datetime": "Virginia Tech, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "ALA -12, O/U 54.5",
     "tv": "",
@@ -1144,7 +1144,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 6:00 PM CDT",
+    "datetime": "Virginia Tech, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "JVST -7, O/U 51.5",
     "tv": "",
@@ -1166,7 +1166,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 6:00 PM CDT",
+    "datetime": "Virginia Tech, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "TULN -18.5, O/U 51.5",
     "tv": "",
@@ -1188,7 +1188,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 6:00 PM CDT",
+    "datetime": "Virginia Tech, 6:00 PM CDT",
     "status": "UPCOMING",
     "odds": "WKU -37.5, O/U 54.5",
     "tv": "",
@@ -1210,7 +1210,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 6:30 PM CDT",
+    "datetime": "Virginia Tech, 6:30 PM CDT",
     "status": "UPCOMING",
     "odds": "NCST -14, O/U 55.5",
     "tv": "",
@@ -1232,7 +1232,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 6:30 PM CDT",
+    "datetime": "Virginia Tech, 6:30 PM CDT",
     "status": "UPCOMING",
     "odds": "LSU -9, O/U 52.5",
     "tv": "",
@@ -1254,7 +1254,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 6:30 PM CDT",
+    "datetime": "Virginia Tech, 6:30 PM CDT",
     "status": "UPCOMING",
     "odds": "ARIZ -10.5, O/U 48.5",
     "tv": "",
@@ -1276,7 +1276,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 6:30 PM CDT",
+    "datetime": "Virginia Tech, 6:30 PM CDT",
     "status": "UPCOMING",
     "odds": "USU -3, O/U 48.5",
     "tv": "",
@@ -1298,7 +1298,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 6:30 PM CDT",
+    "datetime": "Virginia Tech, 6:30 PM CDT",
     "status": "UPCOMING",
     "odds": "UNT -38.5, O/U 58.5",
     "tv": "",
@@ -1320,7 +1320,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 6:30 PM CDT",
+    "datetime": "Virginia Tech, 6:30 PM CDT",
     "status": "UPCOMING",
     "odds": "ORE -3, O/U 62.5",
     "tv": "",
@@ -1342,7 +1342,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 6:45 PM CDT",
+    "datetime": "Virginia Tech, 6:45 PM CDT",
     "status": "UPCOMING",
     "odds": "MSST -6, O/U 58.5",
     "tv": "",
@@ -1364,7 +1364,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 7:00 PM CDT",
+    "datetime": "Virginia Tech, 7:00 PM CDT",
     "status": "UPCOMING",
     "odds": "FAU -13.5, O/U 57.5",
     "tv": "",
@@ -1386,7 +1386,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 7:00 PM CDT",
+    "datetime": "Virginia Tech, 7:00 PM CDT",
     "status": "UPCOMING",
     "odds": "ARK -7, O/U 51.5",
     "tv": "",
@@ -1408,7 +1408,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 8:00 PM CDT",
+    "datetime": "Virginia Tech, 8:00 PM CDT",
     "status": "UPCOMING",
     "odds": "UMASS -4.5, O/U 48.5",
     "tv": "",
@@ -1430,7 +1430,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 8:00 PM CDT",
+    "datetime": "Virginia Tech, 8:00 PM CDT",
     "status": "UPCOMING",
     "odds": "ORST -10.5, O/U 54.5",
     "tv": "",
@@ -1452,7 +1452,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 8:00 PM CDT",
+    "datetime": "Virginia Tech, 8:00 PM CDT",
     "status": "UPCOMING",
     "odds": "SMU -34.5, O/U 59.5",
     "tv": "",
@@ -1474,7 +1474,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 9:00 PM CDT",
+    "datetime": "Virginia Tech, 9:00 PM CDT",
     "status": "UPCOMING",
     "odds": "FRES -13.5, O/U 44.5",
     "tv": "",
@@ -1496,7 +1496,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 9:30 PM CDT",
+    "datetime": "Virginia Tech, 9:30 PM CDT",
     "status": "UPCOMING",
     "odds": "GT -3.5, O/U 48.5",
     "tv": "",
@@ -1518,7 +1518,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 9:30 PM CDT",
+    "datetime": "Virginia Tech, 9:30 PM CDT",
     "status": "UPCOMING",
     "odds": "AFA -5.5, O/U 50.5",
     "tv": "",
@@ -1540,7 +1540,7 @@
     }
   },
   {
-    "datetime": "Tue, 9/22, 10:00 PM CDT",
+    "datetime": "Virginia Tech, 10:00 PM CDT",
     "status": "LIVE",
     "odds": "UW -10, O/U 46.5",
     "tv": "",
