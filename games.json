@@ -46,7 +46,7 @@
   {
     "datetime": "Fri, 9/25, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "RUTG -42.5, O/U 54.5",
+    "odds": "RUTG -42.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Howard",
@@ -112,7 +112,7 @@
   {
     "datetime": "Fri, 9/25, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "CLEM -1.5, O/U 50.5",
+    "odds": "CLEM -1, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Clemson",
@@ -156,7 +156,7 @@
   {
     "datetime": "Sat, 9/26, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "TTU -34.5, O/U 54.5",
+    "odds": "TTU -34.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Sam Houston State",
@@ -222,7 +222,7 @@
   {
     "datetime": "Sat, 9/26, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "TOL -3, O/U 50.5",
+    "odds": "TOL -3, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "SDSU",
@@ -332,7 +332,7 @@
   {
     "datetime": "Sat, 9/26, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "UTSA -13, O/U 57.5",
+    "odds": "UTSA -13, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "Colorado St.",
@@ -354,7 +354,7 @@
   {
     "datetime": "Sat, 9/26, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "PITT -49.5, O/U 58.5",
+    "odds": "PITT -49.5, O/U 60.5",
     "tv": "",
     "awayTeam": {
       "name": "Bucknell",
@@ -552,7 +552,7 @@
   {
     "datetime": "Sat, 9/26, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "FLA -3, O/U 60.5",
+    "odds": "FLA -3.5, O/U 60.5",
     "tv": "",
     "awayTeam": {
       "name": "Mississippi",
@@ -574,7 +574,7 @@
   {
     "datetime": "Sat, 9/26, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "MRSH -26.5, O/U 51.5",
+    "odds": "MRSH -25.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Gardner-Webb",
@@ -684,7 +684,7 @@
   {
     "datetime": "Sat, 9/26, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "OHIO -37.5, O/U 51.5",
+    "odds": "OHIO -35.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Stonehill",
@@ -816,7 +816,7 @@
   {
     "datetime": "Sat, 9/26, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ECU -31.5, O/U 52.5",
+    "odds": "ECU -34.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "N.C. Central",
@@ -970,7 +970,7 @@
   {
     "datetime": "Sat, 9/26, 5:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "FIU -34.5, O/U 50.5",
+    "odds": "FIU -34.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "LIU Brooklyn",
@@ -992,7 +992,7 @@
   {
     "datetime": "Sat, 9/26, 5:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "JMU -6, O/U 44.5",
+    "odds": "JMU -6, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "James Madison",
@@ -1014,7 +1014,7 @@
   {
     "datetime": "Sat, 9/26, 5:30 PM CDT",
     "status": "LIVE",
-    "odds": "LA -10, O/U 48.5",
+    "odds": "LA -10, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Louisiana",
@@ -1058,7 +1058,7 @@
   {
     "datetime": "Sat, 9/26, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "WVU -1.5, O/U 59.5",
+    "odds": "WVU -1.5, O/U 60.5",
     "tv": "",
     "awayTeam": {
       "name": "Oklahoma St.",
@@ -1102,7 +1102,7 @@
   {
     "datetime": "Sat, 9/26, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ARST -5.5, O/U 52.5",
+    "odds": "ARST -6.5, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "Kennesaw St.",
@@ -1256,7 +1256,7 @@
   {
     "datetime": "Sat, 9/26, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ARIZ -10.5, O/U 48.5",
+    "odds": "ARIZ -10, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Arizona",
@@ -1322,7 +1322,7 @@
   {
     "datetime": "Sat, 9/26, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORE -3, O/U 62.5",
+    "odds": "ORE -3, O/U 61.5",
     "tv": "",
     "awayTeam": {
       "name": "Oregon",
@@ -1344,7 +1344,7 @@
   {
     "datetime": "Sat, 9/26, 6:45 PM CDT",
     "status": "UPCOMING",
-    "odds": "MSST -6, O/U 58.5",
+    "odds": "MSST -6.5, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "Missouri",
