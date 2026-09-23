@@ -46,7 +46,7 @@
   {
     "datetime": "Fri, 9/25, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "RUTG -43, O/U 55.5",
+    "odds": "RUTG -43, O/U 56",
     "tv": "",
     "awayTeam": {
       "name": "Howard",
@@ -112,7 +112,7 @@
   {
     "datetime": "Fri, 9/25, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "CAL -1, O/U 50.5",
+    "odds": "CLEM -1.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Clemson",
@@ -882,7 +882,7 @@
   {
     "datetime": "Sat, 9/26, 4:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "PSU -9.5, O/U 44.5",
+    "odds": "PSU -10, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Wisconsin",
@@ -1146,7 +1146,7 @@
   {
     "datetime": "Sat, 9/26, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "JVST -7.0, O/U 51.5",
+    "odds": "JVST -7.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Middle Tenn. St.",
@@ -1256,7 +1256,7 @@
   {
     "datetime": "Sat, 9/26, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ARIZ -10.5, O/U 48.5",
+    "odds": "ARIZ -10, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Arizona",
@@ -1322,7 +1322,7 @@
   {
     "datetime": "Sat, 9/26, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORE -3, O/U 62.5",
+    "odds": "ORE -3.0, O/U 62.5",
     "tv": "",
     "awayTeam": {
       "name": "Oregon",
@@ -1454,7 +1454,7 @@
   {
     "datetime": "Sat, 9/26, 8:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "SMU -34.5, O/U 59.5",
+    "odds": "SMU -34.5, O/U 60.5",
     "tv": "",
     "awayTeam": {
       "name": "Missouri St.",
