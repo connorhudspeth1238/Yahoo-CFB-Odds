@@ -112,7 +112,7 @@
   {
     "datetime": "Fri, 9/25, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "CAL -1.5, O/U 50.5",
+    "odds": "CLEM -1.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Clemson",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sat, 9/26, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "TEX -5, O/U 55.5",
+    "odds": "TEX -4.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Texas",
@@ -288,7 +288,7 @@
   {
     "datetime": "Sat, 9/26, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "OSU -27.5, O/U 54.5",
+    "odds": "OSU -27.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Illinois",
@@ -442,7 +442,7 @@
   {
     "datetime": "Sat, 9/26, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "GA ST -10, O/U 55.5",
+    "odds": "GA ST -10.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Northern Illinois",
@@ -618,7 +618,7 @@
   {
     "datetime": "Sat, 9/26, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UTAH -8, O/U 48.5",
+    "odds": "UTAH -8.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Utah",
@@ -662,7 +662,7 @@
   {
     "datetime": "Sat, 9/26, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "BSU -7.5, O/U 49.5",
+    "odds": "BSU -7, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Boise St.",
@@ -948,7 +948,7 @@
   {
     "datetime": "Sat, 9/26, 5:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TXST -30.5, O/U 63",
+    "odds": "TXST -30.5, O/U 64.5",
     "tv": "",
     "awayTeam": {
       "name": "Incarnate Word",
@@ -992,7 +992,7 @@
   {
     "datetime": "Sat, 9/26, 5:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "JMU -6, O/U 45.5",
+    "odds": "JMU -6, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "James Madison",
@@ -1212,7 +1212,7 @@
   {
     "datetime": "Sat, 9/26, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "NCST -14.0, O/U 55.5",
+    "odds": "NCST -14, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Appalachian St.",
@@ -1410,7 +1410,7 @@
   {
     "datetime": "Sat, 9/26, 8:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "UMASS -4.5, O/U 48.5",
+    "odds": "UMASS -4, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "UMass",
@@ -1542,7 +1542,7 @@
   {
     "datetime": "Sat, 9/26, 10:00 PM CDT",
     "status": "LIVE",
-    "odds": "UW -10, O/U 45.5",
+    "odds": "UW -9.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Minnesota",
