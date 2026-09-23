@@ -46,7 +46,7 @@
   {
     "datetime": "Fri, 9/25, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "RUTG -42.5, O/U 53.5",
+    "odds": "RUTG -42.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Howard",
@@ -244,7 +244,7 @@
   {
     "datetime": "Sat, 9/26, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "KENT -3.5, O/U 51.5",
+    "odds": "KENT -3.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Ball St.",
@@ -288,7 +288,7 @@
   {
     "datetime": "Sat, 9/26, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "OSU -27.5, O/U 53.5",
+    "odds": "OSU -27.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Illinois",
@@ -354,7 +354,7 @@
   {
     "datetime": "Sat, 9/26, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "PITT -51.5, O/U 61",
+    "odds": "PITT -51.5, O/U 61.5",
     "tv": "",
     "awayTeam": {
       "name": "Bucknell",
@@ -398,7 +398,7 @@
   {
     "datetime": "Sat, 9/26, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "EMU -26.5, O/U 50",
+    "odds": "EMU -26.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Lindenwood",
@@ -552,7 +552,7 @@
   {
     "datetime": "Sat, 9/26, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "FLA -3.5, O/U 58.5",
+    "odds": "FLA -3, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "Mississippi",
@@ -662,7 +662,7 @@
   {
     "datetime": "Sat, 9/26, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "BSU -7, O/U 50.5",
+    "odds": "BSU -7.0, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Boise St.",
@@ -816,7 +816,7 @@
   {
     "datetime": "Sat, 9/26, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ECU -34.5, O/U 54",
+    "odds": "ECU -34.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "N.C. Central",
@@ -882,7 +882,7 @@
   {
     "datetime": "Sat, 9/26, 4:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "PSU -10, O/U 44.5",
+    "odds": "PSU -10.0, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Wisconsin",
@@ -1014,7 +1014,7 @@
   {
     "datetime": "Sat, 9/26, 5:30 PM CDT",
     "status": "LIVE",
-    "odds": "LA -10, O/U 48.5",
+    "odds": "LA -10, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Louisiana",
@@ -1102,7 +1102,7 @@
   {
     "datetime": "Sat, 9/26, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ARST -6.5, O/U 52.5",
+    "odds": "ARST -6, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "Kennesaw St.",
@@ -1190,7 +1190,7 @@
   {
     "datetime": "Sat, 9/26, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "WKU -37.5, O/U 54.5",
+    "odds": "WKU -38.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Mercyhurst",
