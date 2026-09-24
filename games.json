@@ -178,7 +178,7 @@
   {
     "datetime": "Sat, 9/26, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "LOU -13, O/U 57.5",
+    "odds": "LOU -13.5, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Wake Forest",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sat, 9/26, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "TEX -4.5, O/U 55.5",
+    "odds": "TEX -4, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Texas",
@@ -354,7 +354,7 @@
   {
     "datetime": "Sat, 9/26, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "PITT -52.5, O/U 61.5",
+    "odds": "PITT -52.5, O/U 62.5",
     "tv": "",
     "awayTeam": {
       "name": "Bucknell",
@@ -398,7 +398,7 @@
   {
     "datetime": "Sat, 9/26, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "EMU -26.5, O/U 50.5",
+    "odds": "EMU -25.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Lindenwood",
@@ -662,7 +662,7 @@
   {
     "datetime": "Sat, 9/26, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "BSU -7, O/U 50.5",
+    "odds": "BSU -7.0, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Boise St.",
@@ -1036,7 +1036,7 @@
   {
     "datetime": "Sat, 9/26, 5:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "MIA -41.5, O/U 53.5",
+    "odds": "MIA -41.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Cent. Michigan",
@@ -1190,7 +1190,7 @@
   {
     "datetime": "Sat, 9/26, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "WKU -38.5, O/U 55.5",
+    "odds": "WKU -38.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Mercyhurst",
