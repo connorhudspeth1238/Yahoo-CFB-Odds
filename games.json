@@ -2,7 +2,7 @@
   {
     "datetime": "Thu, 9/24, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "LIB -2.5, O/U 49.5",
+    "odds": "LIB -2.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Liberty",
@@ -794,7 +794,7 @@
   {
     "datetime": "Sat, 9/26, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "HOU -18, O/U 56.5",
+    "odds": "HOU -17.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Houston",
@@ -1124,7 +1124,7 @@
   {
     "datetime": "Sat, 9/26, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ALA -12.5, O/U 53.5",
+    "odds": "ALA -12.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "South Carolina",
@@ -1322,7 +1322,7 @@
   {
     "datetime": "Sat, 9/26, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORE -3, O/U 62.5",
+    "odds": "ORE -3, O/U 61.5",
     "tv": "",
     "awayTeam": {
       "name": "Oregon",
@@ -1366,7 +1366,7 @@
   {
     "datetime": "Sat, 9/26, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "FAU -13.5, O/U 57.5",
+    "odds": "FAU -13, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Florida Atlantic",
@@ -1454,7 +1454,7 @@
   {
     "datetime": "Sat, 9/26, 8:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "SMU -34.5, O/U 60.5",
+    "odds": "SMU -34.5, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "Missouri St.",
