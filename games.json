@@ -46,7 +46,7 @@
   {
     "datetime": "Fri, 9/25, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "RUTG -43, O/U 56",
+    "odds": "RUTG -43, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Howard",
@@ -178,7 +178,7 @@
   {
     "datetime": "Sat, 9/26, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "LOU -12.5, O/U 58.5",
+    "odds": "LOU -13, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Wake Forest",
@@ -662,7 +662,7 @@
   {
     "datetime": "Sat, 9/26, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "BSU -7, O/U 49.5",
+    "odds": "BSU -7, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Boise St.",
@@ -1322,7 +1322,7 @@
   {
     "datetime": "Sat, 9/26, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORE -3.0, O/U 62.5",
+    "odds": "ORE -3, O/U 62.5",
     "tv": "",
     "awayTeam": {
       "name": "Oregon",
@@ -1344,7 +1344,7 @@
   {
     "datetime": "Sat, 9/26, 6:45 PM CDT",
     "status": "UPCOMING",
-    "odds": "MSST -6, O/U 58.5",
+    "odds": "MSST -6.5, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "Missouri",
