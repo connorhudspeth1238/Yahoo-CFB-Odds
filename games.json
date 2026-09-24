@@ -2,7 +2,7 @@
   {
     "datetime": "Thu, 9/24, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "LIB -2.5, O/U 50.5",
+    "odds": "LIB -2.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Liberty",
@@ -24,7 +24,7 @@
   {
     "datetime": "Fri, 9/25, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ARMY -3, O/U 47.5",
+    "odds": "ARMY -3, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Army",
@@ -46,7 +46,7 @@
   {
     "datetime": "Fri, 9/25, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "RUTG -44, O/U 55.5",
+    "odds": "RUTG -43.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Howard",
@@ -68,7 +68,7 @@
   {
     "datetime": "Fri, 9/25, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NAVY -7, O/U 51.5",
+    "odds": "NAVY -6.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Navy",
@@ -90,7 +90,7 @@
   {
     "datetime": "Fri, 9/25, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "IND -21, O/U 49.5",
+    "odds": "IND -20.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Northwestern",
@@ -178,7 +178,7 @@
   {
     "datetime": "Sat, 9/26, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "LOU -13.5, O/U 56.5",
+    "odds": "LOU -13.5, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Wake Forest",
@@ -508,7 +508,7 @@
   {
     "datetime": "Sat, 9/26, 2:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "HAW -3.5, O/U 44.5",
+    "odds": "HAW -3, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Hawaii",
@@ -530,7 +530,7 @@
   {
     "datetime": "Sat, 9/26, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UGA -14, O/U 44.5",
+    "odds": "UGA -13.5, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Oklahoma",
@@ -596,7 +596,7 @@
   {
     "datetime": "Sat, 9/26, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "DUKE -43.5, O/U 61.5",
+    "odds": "DUKE -43.5, O/U 62.5",
     "tv": "",
     "awayTeam": {
       "name": "William & Mary",
@@ -618,7 +618,7 @@
   {
     "datetime": "Sat, 9/26, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UTAH -8.5, O/U 47.5",
+    "odds": "UTAH -8, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Utah",
@@ -794,7 +794,7 @@
   {
     "datetime": "Sat, 9/26, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "HOU -18.5, O/U 56.5",
+    "odds": "HOU -18, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Houston",
@@ -816,7 +816,7 @@
   {
     "datetime": "Sat, 9/26, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ECU -35.5, O/U 55.5",
+    "odds": "ECU -35.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "N.C. Central",
@@ -948,7 +948,7 @@
   {
     "datetime": "Sat, 9/26, 5:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TXST -30.5, O/U 64.5",
+    "odds": "TXST -30.5, O/U 65.5",
     "tv": "",
     "awayTeam": {
       "name": "Incarnate Word",
@@ -970,7 +970,7 @@
   {
     "datetime": "Sat, 9/26, 5:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "FIU -34.5, O/U 52.5",
+    "odds": "FIU -35.5, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "LIU Brooklyn",
@@ -992,7 +992,7 @@
   {
     "datetime": "Sat, 9/26, 5:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "JMU -6.5, O/U 44.5",
+    "odds": "JMU -6, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "James Madison",
@@ -1234,7 +1234,7 @@
   {
     "datetime": "Sat, 9/26, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "LSU -8.5, O/U 51.5",
+    "odds": "LSU -9.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Texas A&M",
@@ -1256,7 +1256,7 @@
   {
     "datetime": "Sat, 9/26, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ARIZ -10, O/U 48.5",
+    "odds": "ARIZ -10.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Arizona",
@@ -1432,7 +1432,7 @@
   {
     "datetime": "Sat, 9/26, 8:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORST -10.5, O/U 55.5",
+    "odds": "ORST -10.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Oregon St.",
