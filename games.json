@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Thu, 9/24, 6:30 PM CDT",
-    "status": "UPCOMING",
-    "odds": "LIB -2.5, O/U 50.5",
+    "datetime": "Thu, 9/24 CDT",
+    "status": "LIVE",
+    "odds": "ESPN",
     "tv": "",
     "awayTeam": {
       "name": "Liberty",
       "mascot": "LIB",
       "rank": "",
-      "record": "2-1",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/XetbkuhTOQ7gg2HbcyCdTA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181211/500x500/liberty.png.cf.webp"
     },
@@ -16,7 +16,7 @@
       "name": "Coastal Car.",
       "mascot": "CCU",
       "rank": "",
-      "record": "1-2",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/EQVfgxpr4oSEXm5.swFgHg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181206/500x500/coastal_carolina.png.cf.webp"
     }
@@ -1058,7 +1058,7 @@
   {
     "datetime": "Sat, 9/26, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "WVU -1.5, O/U 60.5",
+    "odds": "WVU -1.5, O/U 61.5",
     "tv": "",
     "awayTeam": {
       "name": "Oklahoma St.",
@@ -1366,7 +1366,7 @@
   {
     "datetime": "Sat, 9/26, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "FAU -13, O/U 57.5",
+    "odds": "FAU -12.5, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Florida Atlantic",
@@ -1410,7 +1410,7 @@
   {
     "datetime": "Sat, 9/26, 8:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "UMASS -4, O/U 48.5",
+    "odds": "UMASS -4.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "UMass",
@@ -1454,7 +1454,7 @@
   {
     "datetime": "Sat, 9/26, 8:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "SMU -34.5, O/U 59.5",
+    "odds": "SMU -34.5, O/U 60.5",
     "tv": "",
     "awayTeam": {
       "name": "Missouri St.",
@@ -1498,7 +1498,7 @@
   {
     "datetime": "Sat, 9/26, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "GT -3.5, O/U 48.5",
+    "odds": "GT -3.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Georgia Tech",
