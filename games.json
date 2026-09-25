@@ -2,7 +2,7 @@
   {
     "datetime": "Fri, 9/25, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ARMY -3, O/U 48.5",
+    "odds": "ARMY -3.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Army",
@@ -24,7 +24,7 @@
   {
     "datetime": "Fri, 9/25, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "RUTG -43.5, O/U 56.5",
+    "odds": "RUTG -41.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Howard",
@@ -68,7 +68,7 @@
   {
     "datetime": "Fri, 9/25, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "IND -20.5, O/U 49.5",
+    "odds": "IND -20, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Northwestern",
@@ -90,7 +90,7 @@
   {
     "datetime": "Fri, 9/25, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "CLEM -1.5, O/U 50.5",
+    "odds": "CLEM -1.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Clemson",
@@ -156,7 +156,7 @@
   {
     "datetime": "Sat, 9/26, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "TEX -4.5, O/U 54.5",
+    "odds": "TEX -5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Texas",
@@ -310,7 +310,7 @@
   {
     "datetime": "Sat, 9/26, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "UTSA -13.5, O/U 57.5",
+    "odds": "UTSA -14, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Colorado St.",
@@ -728,7 +728,7 @@
   {
     "datetime": "Sat, 9/26, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "BSU -7, O/U 49.5",
+    "odds": "BSU -7.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Boise St.",
@@ -882,7 +882,7 @@
   {
     "datetime": "Sat, 9/26, 4:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "PSU -10, O/U 44.5",
+    "odds": "PSU -10, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Wisconsin",
@@ -992,7 +992,7 @@
   {
     "datetime": "Sat, 9/26, 5:30 PM CDT",
     "status": "LIVE",
-    "odds": "LA -10, O/U 48.5",
+    "odds": "LA -10.0, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Louisiana",
@@ -1146,7 +1146,7 @@
   {
     "datetime": "Sat, 9/26, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TULN -17.5, O/U 52.5",
+    "odds": "TULN -18.5, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "Southern Miss",
@@ -1212,7 +1212,7 @@
   {
     "datetime": "Sat, 9/26, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "LSU -9.5, O/U 52.5",
+    "odds": "LSU -8.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Texas A&M",
