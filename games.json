@@ -2,7 +2,7 @@
   {
     "datetime": "Sat, 9/26, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "TEX -5, O/U 54.5",
+    "odds": "TEX -5.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Texas",
@@ -134,7 +134,7 @@
   {
     "datetime": "Sat, 9/26, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "UNLV -13.5, O/U 53.5",
+    "odds": "UNLV -13.5, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "UNLV",
@@ -376,7 +376,7 @@
   {
     "datetime": "Sat, 9/26, 2:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "FSU -45.5, O/U 63.5",
+    "odds": "FSU -46.5, O/U 63.5",
     "tv": "",
     "awayTeam": {
       "name": "Central Arkansas",
@@ -772,7 +772,7 @@
   {
     "datetime": "Sat, 9/26, 4:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NEB -5.5, O/U 49.5",
+    "odds": "NEB -5.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Nebraska",
@@ -860,7 +860,7 @@
   {
     "datetime": "Sat, 9/26, 5:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "JMU -6.5, O/U 44.5",
+    "odds": "JMU -6.5, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "James Madison",
@@ -904,7 +904,7 @@
   {
     "datetime": "Sat, 9/26, 5:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "MIA -41.5, O/U 54.5",
+    "odds": "MIA -41.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Cent. Michigan",
@@ -926,7 +926,7 @@
   {
     "datetime": "Sat, 9/26, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "WKU -40.5, O/U 57.5",
+    "odds": "WKU -40.5, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "Mercyhurst",
@@ -1124,7 +1124,7 @@
   {
     "datetime": "Sat, 9/26, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UNT -38.5, O/U 60.5",
+    "odds": "UNT -38.5, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "Houston Christian",
@@ -1548,7 +1548,7 @@
       "name": "Clemson",
       "mascot": "CLEM",
       "rank": "",
-      "record": "2-1",
+      "record": "3-1",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/Yg8UCyJFCBg08WWPwmr3KQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181214/500x500/Clemson_s.png.cf.webp"
     },
@@ -1556,7 +1556,7 @@
       "name": "California",
       "mascot": "CAL",
       "rank": "",
-      "record": "2-1",
+      "record": "2-2",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/B5SETWpWAphdXKrCmDISwg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260702/cal_500.png.cf.webp"
     }
