@@ -2,7 +2,7 @@
   {
     "datetime": "Thu, 10/1, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NMSU -2.5, O/U 56.5",
+    "odds": "NMSU -2.5, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "W. Kentucky",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sat, 10/3, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "SMU -21, O/U 55.5",
+    "odds": "SMU -20.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Boston Coll.",
@@ -332,7 +332,7 @@
   {
     "datetime": "Sat, 10/3, 11:30 AM CDT",
     "status": "UPCOMING",
-    "odds": "WIS -10.5, O/U 43.5",
+    "odds": "WIS -10, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Michigan St.",
@@ -442,7 +442,7 @@
   {
     "datetime": "Sat, 10/3, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UMASS -6, O/U 48.5",
+    "odds": "UMASS -5.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "East. Michigan",
@@ -530,7 +530,7 @@
   {
     "datetime": "Sat, 10/3, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TENN -7, O/U 53.5",
+    "odds": "TENN -7, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Auburn",
@@ -552,7 +552,7 @@
   {
     "datetime": "Sat, 10/3, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "M-OH -13.5, O/U 43.5",
+    "odds": "M-OH -13.5, O/U 42.5",
     "tv": "",
     "awayTeam": {
       "name": "Bowling Green",
@@ -618,7 +618,7 @@
   {
     "datetime": "Sat, 10/3, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "FLA -5, O/U 56.5",
+    "odds": "FLA -5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Florida",
@@ -706,7 +706,7 @@
   {
     "datetime": "Sat, 10/3, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UNLV -2.5, O/U 53.5",
+    "odds": "UNLV -2.5, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "California",
@@ -860,7 +860,7 @@
   {
     "datetime": "Sat, 10/3, 5:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORST -6.5, O/U 61.5",
+    "odds": "ORST -6.5, O/U 62.5",
     "tv": "",
     "awayTeam": {
       "name": "Oregon St.",
@@ -1058,7 +1058,7 @@
   {
     "datetime": "Sat, 10/3, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "BSU -20, O/U 51.5",
+    "odds": "BSU -21, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Utah St.",
