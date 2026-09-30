@@ -68,7 +68,7 @@
   {
     "datetime": "Fri, 10/2, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "LIB -7.5, O/U 50.5",
+    "odds": "LIB -7.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Liberty",
@@ -156,7 +156,7 @@
   {
     "datetime": "Sat, 10/3, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "HOU -12.5, O/U 51.5",
+    "odds": "HOU -12, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "UCF",
@@ -222,7 +222,7 @@
   {
     "datetime": "Sat, 10/3, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "AFA -3.0, O/U 46.5",
+    "odds": "AFA -3, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Navy",
@@ -266,7 +266,7 @@
   {
     "datetime": "Sat, 10/3, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "ISU -3.5, O/U 52.5",
+    "odds": "ISU -3, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "West Virginia",
@@ -332,7 +332,7 @@
   {
     "datetime": "Sat, 10/3, 11:30 AM CDT",
     "status": "UPCOMING",
-    "odds": "WIS -10.0, O/U 43.5",
+    "odds": "WIS -10, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Michigan St.",
@@ -398,7 +398,7 @@
   {
     "datetime": "Sat, 10/3, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TOL -19.5, O/U 52.5",
+    "odds": "TOL -19.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Toledo",
@@ -574,7 +574,7 @@
   {
     "datetime": "Sat, 10/3, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "OHIO -3, O/U 50.5",
+    "odds": "OHIO -3.0, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Ohio",
@@ -640,7 +640,7 @@
   {
     "datetime": "Sat, 10/3, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "OSU -14.0, O/U 45.5",
+    "odds": "OSU -14.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Ohio St.",
@@ -728,7 +728,7 @@
   {
     "datetime": "Sat, 10/3, 2:45 PM CDT",
     "status": "UPCOMING",
-    "odds": "JMU -18.5, O/U 56.5",
+    "odds": "JMU -18.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Marshall",
@@ -794,7 +794,7 @@
   {
     "datetime": "Sat, 10/3, 3:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "SC -2.5, O/U 53.5",
+    "odds": "SC -3, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Kentucky",
@@ -860,7 +860,7 @@
   {
     "datetime": "Sat, 10/3, 5:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORST -6.5, O/U 62.5",
+    "odds": "ORST -6.5, O/U 61.5",
     "tv": "",
     "awayTeam": {
       "name": "Oregon St.",
@@ -1014,7 +1014,7 @@
   {
     "datetime": "Sat, 10/3, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TTU -13, O/U 50.5",
+    "odds": "TTU -12, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Texas Tech",
@@ -1036,7 +1036,7 @@
   {
     "datetime": "Sat, 10/3, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "MIA -16.5, O/U 47.5",
+    "odds": "MIA -16.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Miami (FL)",
@@ -1124,7 +1124,7 @@
   {
     "datetime": "Sat, 10/3, 6:45 PM CDT",
     "status": "UPCOMING",
-    "odds": "LSU -50, O/U 61",
+    "odds": "LSU -52.5, O/U 61.5",
     "tv": "",
     "awayTeam": {
       "name": "McNeese",
@@ -1190,7 +1190,7 @@
   {
     "datetime": "Sat, 10/3, 8:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "WSU -2.5, O/U 45.5",
+    "odds": "WSU -2, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Fresno St.",
@@ -1212,7 +1212,7 @@
   {
     "datetime": "Sat, 10/3, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TXST -4.5, O/U 59.5",
+    "odds": "TXST -5, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "Texas St.",
@@ -1234,7 +1234,7 @@
   {
     "datetime": "Sat, 10/3, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ASU -4, O/U 49.5",
+    "odds": "ASU -4, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Baylor",
