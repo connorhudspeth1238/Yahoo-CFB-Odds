@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Sat, 10/3, 10:00 AM CDT",
+    "datetime": "Sat, 10/3 CDT",
     "status": "LIVE",
-    "odds": "MEM -20.5, O/U 52.5",
+    "odds": "ESPN+",
     "tv": "",
     "awayTeam": {
       "name": "Memphis",
       "mascot": "MEM",
       "rank": "",
-      "record": "3-1",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/dUkd7UCdv1nJMrvArLM0Hg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaab/20220905/500x500/Memphis-Tigers.png.cf.webp"
     },
@@ -16,7 +16,7 @@
       "name": "Charlotte",
       "mascot": "CHAR",
       "rank": "",
-      "record": "0-4",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/rlIs3DENNFedg1Am5Qv1wA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20210208/500x500/charlotte_s.png.cf.webp"
     }
@@ -90,7 +90,7 @@
   {
     "datetime": "Sat, 10/3, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "ALA -5.5, O/U 60.5",
+    "odds": "ALA -5.5, O/U 62.5",
     "tv": "",
     "awayTeam": {
       "name": "Alabama",
@@ -1166,7 +1166,7 @@
     }
   },
   {
-    "datetime": "Sun, 10/4, 11:00 PM CDT",
+    "datetime": "Sat, 10/3, 11:00 PM CDT",
     "status": "UPCOMING",
     "odds": "HAW -3.5, O/U 50.5",
     "tv": "",
