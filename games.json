@@ -112,7 +112,7 @@
   {
     "datetime": "Thu, 10/8, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UTSA -7, O/U 50.5",
+    "odds": "UTSA -7.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "South Florida",
@@ -442,7 +442,7 @@
   {
     "datetime": "Sat, 10/10, 11:45 AM CDT",
     "status": "UPCOMING",
-    "odds": "FLA -12.5, O/U 60.5",
+    "odds": "FLA -12.5, O/U 61.5",
     "tv": "",
     "awayTeam": {
       "name": "South Carolina",
@@ -662,7 +662,7 @@
   {
     "datetime": "Sat, 10/10, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "EMU -7, O/U 51.5",
+    "odds": "EMU -7, O/U 52.0",
     "tv": "",
     "awayTeam": {
       "name": "East. Michigan",
@@ -838,7 +838,7 @@
   {
     "datetime": "Sat, 10/10, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ECU -10, O/U 47.5",
+    "odds": "ECU -9.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Rice",
@@ -992,7 +992,7 @@
   {
     "datetime": "Sat, 10/10, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NEV -8.5, O/U 49.5",
+    "odds": "NEV -9.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Nevada",
