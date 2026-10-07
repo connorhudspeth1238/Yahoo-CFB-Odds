@@ -2,7 +2,7 @@
   {
     "datetime": "Wed, 10/7, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "JVST -3, O/U 49.5",
+    "odds": "JVST -3, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Jacksonville St.",
@@ -376,7 +376,7 @@
   {
     "datetime": "Sat, 10/10, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "IND -7.5, O/U 49.5",
+    "odds": "IND -7.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Indiana",
@@ -398,7 +398,7 @@
   {
     "datetime": "Sat, 10/10, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "OKST -9.5, O/U 53.5",
+    "odds": "OKST -10.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "UCF",
@@ -442,7 +442,7 @@
   {
     "datetime": "Sat, 10/10, 11:45 AM CDT",
     "status": "UPCOMING",
-    "odds": "FLA -12.5, O/U 61.5",
+    "odds": "FLA -12, O/U 60.5",
     "tv": "",
     "awayTeam": {
       "name": "South Carolina",
@@ -464,7 +464,7 @@
   {
     "datetime": "Sat, 10/10, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "APP -9.5, O/U 50.5",
+    "odds": "APP -9.5, O/U 50.0",
     "tv": "",
     "awayTeam": {
       "name": "Old Dominion",
@@ -552,7 +552,7 @@
   {
     "datetime": "Sat, 10/10, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "DUKE -7, O/U 48.5",
+    "odds": "DUKE -6.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Duke",
@@ -618,7 +618,7 @@
   {
     "datetime": "Sat, 10/10, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "MISS -9.5, O/U 59.5",
+    "odds": "MISS -10.0, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Mississippi",
@@ -662,7 +662,7 @@
   {
     "datetime": "Sat, 10/10, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "EMU -7, O/U 52.0",
+    "odds": "EMU -6.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "East. Michigan",
@@ -794,7 +794,7 @@
   {
     "datetime": "Sat, 10/10, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "VT -9.5, O/U 53.5",
+    "odds": "VT -10, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Virginia Tech",
@@ -926,7 +926,7 @@
   {
     "datetime": "Sat, 10/10, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "LSU -8.5, O/U 52.5",
+    "odds": "LSU -8.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "LSU",
@@ -1014,7 +1014,7 @@
   {
     "datetime": "Sat, 10/10, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "MEM -14, O/U 56.5",
+    "odds": "MEM -14, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "UAB",
@@ -1058,7 +1058,7 @@
   {
     "datetime": "Sat, 10/10, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "JMU -7.5, O/U 53.5",
+    "odds": "JMU -7.5, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "James Madison",
@@ -1102,7 +1102,7 @@
   {
     "datetime": "Sat, 10/10, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "LT -3, O/U 47.5",
+    "odds": "LT -3.0, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Louisiana",
@@ -1212,7 +1212,7 @@
   {
     "datetime": "Sat, 10/10, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ASU -20.5, O/U 49.5",
+    "odds": "ASU -20.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Hawaii",
