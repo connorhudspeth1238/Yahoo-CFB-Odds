@@ -46,7 +46,7 @@
   {
     "datetime": "Thu, 10/8, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ARST -3, O/U 59.5",
+    "odds": "ARST -3.0, O/U 60.5",
     "tv": "",
     "awayTeam": {
       "name": "South Alabama",
@@ -68,7 +68,7 @@
   {
     "datetime": "Thu, 10/8, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UTSA -7, O/U 50.5",
+    "odds": "UTSA -6.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "South Florida",
@@ -112,7 +112,7 @@
   {
     "datetime": "Fri, 10/9, 8:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "SJSU -6, O/U 42.5",
+    "odds": "SJSU -4.5, O/U 42.5",
     "tv": "",
     "awayTeam": {
       "name": "Wyoming",
@@ -134,7 +134,7 @@
   {
     "datetime": "Fri, 10/9, 8:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "USU -5.5, O/U 44.5",
+    "odds": "USU -5.5, O/U 44",
     "tv": "",
     "awayTeam": {
       "name": "Washington St.",
@@ -178,7 +178,7 @@
   {
     "datetime": "Fri, 10/9, 9:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "BYU -10, O/U 46.5",
+    "odds": "BYU -10.5, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Iowa St.",
@@ -266,7 +266,7 @@
   {
     "datetime": "Sat, 10/10, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "ARIZ -3.0, O/U 61.5",
+    "odds": "ARIZ -3, O/U 61.5",
     "tv": "",
     "awayTeam": {
       "name": "Arizona",
@@ -354,7 +354,7 @@
   {
     "datetime": "Sat, 10/10, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "ARMY -3.5, O/U 48.5",
+    "odds": "ARMY -3, O/U 48",
     "tv": "",
     "awayTeam": {
       "name": "Tulane",
@@ -376,7 +376,7 @@
   {
     "datetime": "Sat, 10/10, 11:30 AM CDT",
     "status": "UPCOMING",
-    "odds": "NW -37, O/U 52.5",
+    "odds": "NW -37.5, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "Ball St.",
@@ -420,7 +420,7 @@
   {
     "datetime": "Sat, 10/10, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "APP -9.5, O/U 49.5",
+    "odds": "APP -9.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Old Dominion",
@@ -596,7 +596,7 @@
   {
     "datetime": "Sat, 10/10, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TOL -21.0, O/U 54.5",
+    "odds": "TOL -21, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Buffalo",
@@ -618,7 +618,7 @@
   {
     "datetime": "Sat, 10/10, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "OHIO -3, O/U 46.5",
+    "odds": "OHIO -2.5, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Cent. Michigan",
@@ -662,7 +662,7 @@
   {
     "datetime": "Sat, 10/10, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "EMU -7, O/U 51.5",
+    "odds": "EMU -6.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "East. Michigan",
@@ -926,7 +926,7 @@
   {
     "datetime": "Sat, 10/10, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NDSU -3, O/U 47.5",
+    "odds": "NDSU -3.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "N. Dak. St.",
@@ -948,7 +948,7 @@
   {
     "datetime": "Sat, 10/10, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NEV -9.5, O/U 49.5",
+    "odds": "NEV -10, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Nevada",
@@ -1036,7 +1036,7 @@
   {
     "datetime": "Sat, 10/10, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "LT -3.0, O/U 47.5",
+    "odds": "LT -3, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Louisiana",
@@ -1102,7 +1102,7 @@
   {
     "datetime": "Sat, 10/10, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UVA -9.5, O/U 50.5",
+    "odds": "UVA -9, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Syracuse",
@@ -1146,7 +1146,7 @@
   {
     "datetime": "Sat, 10/10, 9:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "UTAH -15.5, O/U 50.5",
+    "odds": "UTAH -15.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Kansas",
@@ -1190,7 +1190,7 @@
   {
     "datetime": "Sat, 10/10, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ASU -20.5, O/U 50.5",
+    "odds": "ASU -20.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Hawaii",
