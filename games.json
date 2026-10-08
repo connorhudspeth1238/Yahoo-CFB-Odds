@@ -2,35 +2,13 @@
   {
     "datetime": "Wed, 10/7 CDT",
     "status": "UPCOMING",
-    "odds": "CBSS",
-    "tv": "",
-    "awayTeam": {
-      "name": "Jacksonville St.",
-      "mascot": "JVST",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/cA3cedvBflRotYp._QE4Sw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20251016/500px/jaxstate.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Kennesaw St.",
-      "mascot": "KENN",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/FXEgUhX__l6Zk9xjWBJ2kw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaab/20230224/500x500/kennesaw-state-owls.png.cf.webp"
-    }
-  },
-  {
-    "datetime": "Wed, 10/7, 6:30 PM CDT",
-    "status": "UPCOMING",
-    "odds": "FIU -7, O/U 46.5",
+    "odds": "ESPN2",
     "tv": "",
     "awayTeam": {
       "name": "N. Mex. St.",
       "mascot": "NMSU",
       "rank": "",
-      "record": "2-3",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/xU7Rn5a4K5UPoVfSNOzF3A--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181211/500x500/new_mexico_state.png.cf.webp"
     },
@@ -38,9 +16,31 @@
       "name": "Florida Intl.",
       "mascot": "FIU",
       "rank": "",
-      "record": "2-2",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/tgCCQiGR1UMFdedr56gkEA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260701/Florida_Panthers_500.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Wed, 10/7 CDT",
+    "status": "FINAL",
+    "odds": "KENN +3, O 48.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Jacksonville St.",
+      "mascot": "JVST",
+      "rank": "",
+      "record": "4-2",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/cA3cedvBflRotYp._QE4Sw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20251016/500px/jaxstate.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Kennesaw St.",
+      "mascot": "KENN",
+      "rank": "",
+      "record": "1-4",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/FXEgUhX__l6Zk9xjWBJ2kw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaab/20230224/500x500/kennesaw-state-owls.png.cf.webp"
     }
   },
   {
@@ -90,7 +90,7 @@
   {
     "datetime": "Thu, 10/8, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ARST -1.5, O/U 60.5",
+    "odds": "ARST -3, O/U 60.5",
     "tv": "",
     "awayTeam": {
       "name": "South Alabama",
@@ -200,7 +200,7 @@
   {
     "datetime": "Fri, 10/9, 8:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "UW -3, O/U 41.5",
+    "odds": "UW -3.5, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Iowa",
@@ -552,7 +552,7 @@
   {
     "datetime": "Sat, 10/10, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "DUKE -6.5, O/U 44.5",
+    "odds": "DUKE -6.5, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Duke",
@@ -574,7 +574,7 @@
   {
     "datetime": "Sat, 10/10, 2:30 PM CDT",
     "status": "LIVE",
-    "odds": "ND -38.0, O/U 54.5",
+    "odds": "ND -38.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Stanford",
@@ -618,7 +618,7 @@
   {
     "datetime": "Sat, 10/10, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "MISS -10.0, O/U 56.5",
+    "odds": "MISS -9.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Mississippi",
@@ -662,7 +662,7 @@
   {
     "datetime": "Sat, 10/10, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "EMU -7.0, O/U 51.5",
+    "odds": "EMU -7, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "East. Michigan",
@@ -728,7 +728,7 @@
   {
     "datetime": "Sat, 10/10, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TOL -21, O/U 54.5",
+    "odds": "TOL -20.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Buffalo",
@@ -794,7 +794,7 @@
   {
     "datetime": "Sat, 10/10, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "VT -10, O/U 53.5",
+    "odds": "VT -10.0, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Virginia Tech",
@@ -948,7 +948,7 @@
   {
     "datetime": "Sat, 10/10, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NDSU -3.5, O/U 47.5",
+    "odds": "NDSU -3, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "N. Dak. St.",
@@ -970,7 +970,7 @@
   {
     "datetime": "Sat, 10/10, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "MRSH -3, O/U 58.5",
+    "odds": "MRSH -3.5, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "Coastal Car.",
