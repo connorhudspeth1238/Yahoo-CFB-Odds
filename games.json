@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Fri, 10/9, 6:00 PM CDT",
+    "datetime": "Fri, 10/9 CDT",
     "status": "UPCOMING",
-    "odds": "LOU -4, O/U 59.5",
+    "odds": "ESPN",
     "tv": "",
     "awayTeam": {
       "name": "Florida St.",
       "mascot": "FSU",
       "rank": "",
-      "record": "3-2",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/U12nbmgOvm1bj39n.Sc.zA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181205/500x500/florida_state.png.cf.webp"
     },
@@ -16,7 +16,7 @@
       "name": "Louisville",
       "mascot": "LOU",
       "rank": "",
-      "record": "2-3",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/Js1VUrzmUehtYyjXsb4x8w--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181212/500x500/Louisville.png.cf.webp"
     }
@@ -46,7 +46,7 @@
   {
     "datetime": "Fri, 10/9, 8:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "USU -3.5, O/U 43.5",
+    "odds": "USU -4, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Washington St.",
@@ -68,7 +68,7 @@
   {
     "datetime": "Fri, 10/9, 8:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "UW -2.5, O/U 40.5",
+    "odds": "UW -3, O/U 40.5",
     "tv": "",
     "awayTeam": {
       "name": "Iowa",
@@ -178,7 +178,7 @@
   {
     "datetime": "Sat, 10/10, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "IND -7.5, O/U 47.5",
+    "odds": "IND -7.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Indiana",
@@ -222,7 +222,7 @@
   {
     "datetime": "Sat, 10/10, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "ARIZ -3.0, O/U 60.5",
+    "odds": "ARIZ -3.5, O/U 60.5",
     "tv": "",
     "awayTeam": {
       "name": "Arizona",
@@ -310,7 +310,7 @@
   {
     "datetime": "Sat, 10/10, 11:45 AM CDT",
     "status": "UPCOMING",
-    "odds": "FLA -12.5, O/U 58.5",
+    "odds": "FLA -11.5, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "South Carolina",
@@ -376,7 +376,7 @@
   {
     "datetime": "Sat, 10/10, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "M-OH -3.5, O/U 45.5",
+    "odds": "M-OH -4.5, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Miami (OH)",
@@ -486,7 +486,7 @@
   {
     "datetime": "Sat, 10/10, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "OHIO -3, O/U 46.5",
+    "odds": "OHIO -2.5, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Cent. Michigan",
@@ -816,7 +816,7 @@
   {
     "datetime": "Sat, 10/10, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NDSU -3, O/U 48.5",
+    "odds": "NDSU -2.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "N. Dak. St.",
@@ -838,7 +838,7 @@
   {
     "datetime": "Sat, 10/10, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "LSU -9.5, O/U 50.5",
+    "odds": "LSU -8.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "LSU",
@@ -882,7 +882,7 @@
   {
     "datetime": "Sat, 10/10, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "MRSH -3.5, O/U 58.5",
+    "odds": "MRSH -4, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "Coastal Car.",
@@ -948,7 +948,7 @@
   {
     "datetime": "Sat, 10/10, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UVA -9.5, O/U 50.5",
+    "odds": "UVA -10, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Syracuse",
