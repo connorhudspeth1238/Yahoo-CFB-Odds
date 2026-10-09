@@ -68,7 +68,7 @@
   {
     "datetime": "Fri, 10/9, 8:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "UW -3, O/U 41.5",
+    "odds": "UW -2.5, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Iowa",
@@ -90,7 +90,7 @@
   {
     "datetime": "Fri, 10/9, 9:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "BYU -10.5, O/U 46.5",
+    "odds": "BYU -10.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Iowa St.",
@@ -112,7 +112,7 @@
   {
     "datetime": "Sat, 10/10, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "BGSU -7.5, O/U 43.5",
+    "odds": "BGSU -8.5, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Sacramento St.",
@@ -222,7 +222,7 @@
   {
     "datetime": "Sat, 10/10, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "ARIZ -3, O/U 60.5",
+    "odds": "ARIZ -3.0, O/U 60.5",
     "tv": "",
     "awayTeam": {
       "name": "Arizona",
@@ -266,7 +266,7 @@
   {
     "datetime": "Sat, 10/10, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "PITT -3.5, O/U 47.5",
+    "odds": "PITT -3.5, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "N. Carolina",
@@ -310,7 +310,7 @@
   {
     "datetime": "Sat, 10/10, 11:45 AM CDT",
     "status": "UPCOMING",
-    "odds": "FLA -11.5, O/U 59.5",
+    "odds": "FLA -12.5, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "South Carolina",
@@ -574,7 +574,7 @@
   {
     "datetime": "Sat, 10/10, 2:30 PM CDT",
     "status": "LIVE",
-    "odds": "ND -39.5, O/U 54.5",
+    "odds": "ND -38.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Stanford",
@@ -596,7 +596,7 @@
   {
     "datetime": "Sat, 10/10, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "NAVY -2.5, O/U 48.5",
+    "odds": "NAVY -1.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Tulsa",
@@ -794,7 +794,7 @@
   {
     "datetime": "Sat, 10/10, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "MEM -14.5, O/U 52.5",
+    "odds": "MEM -14.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "UAB",
