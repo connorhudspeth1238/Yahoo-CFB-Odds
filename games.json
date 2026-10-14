@@ -22,15 +22,15 @@
     }
   },
   {
-    "datetime": "Tue, 10/13, 7:00 PM CDT",
-    "status": "UPCOMING",
-    "odds": "JVST -3, O/U 44.5",
+    "datetime": "Tue, 10/13 CDT",
+    "status": "LIVE",
+    "odds": "ESNU",
     "tv": "",
     "awayTeam": {
       "name": "Florida Intl.",
       "mascot": "FIU",
       "rank": "",
-      "record": "3-2",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/tgCCQiGR1UMFdedr56gkEA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260701/Florida_Panthers_500.png.cf.webp"
     },
@@ -38,7 +38,7 @@
       "name": "Jacksonville St.",
       "mascot": "JVST",
       "rank": "",
-      "record": "4-2",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/cA3cedvBflRotYp._QE4Sw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20251016/500px/jaxstate.png.cf.webp"
     }
@@ -684,7 +684,7 @@
   {
     "datetime": "Sat, 10/17, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "DUKE -3, O/U 47.5",
+    "odds": "DUKE -3.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "N. Carolina",
@@ -728,7 +728,7 @@
   {
     "datetime": "Sat, 10/17, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ALA -9.5, O/U 51.5",
+    "odds": "ALA -8.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Alabama",
@@ -1014,7 +1014,7 @@
   {
     "datetime": "Sat, 10/17, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "MIA -21.0, O/U 55.5",
+    "odds": "MIA -21.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Florida St.",
