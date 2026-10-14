@@ -464,7 +464,7 @@
   {
     "datetime": "Sat, 10/17, 12:00 PM CDT",
     "status": "LIVE",
-    "odds": "TEM -21.5, O/U 47.5",
+    "odds": "TEM -21, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Charlotte",
@@ -530,7 +530,7 @@
   {
     "datetime": "Sat, 10/17, 12:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "WMU -6.5, O/U 42.5",
+    "odds": "WMU -6.5, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "W. Michigan",
@@ -1080,7 +1080,7 @@
   {
     "datetime": "Sat, 10/17, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "LOU -14.5, O/U 56.5",
+    "odds": "LOU -14.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Louisville",
