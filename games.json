@@ -2,7 +2,7 @@
   {
     "datetime": "Wed, 10/14 CDT",
     "status": "UPCOMING",
-    "odds": "CBSS",
+    "odds": "KENN +2.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Kennesaw St.",
@@ -22,15 +22,15 @@
     }
   },
   {
-    "datetime": "Wed, 10/14, 7:00 PM CDT",
-    "status": "UPCOMING",
-    "odds": "WKU -1.5, O/U 53.5",
+    "datetime": "Wed, 10/14 CDT",
+    "status": "LIVE",
+    "odds": "ESPN",
     "tv": "",
     "awayTeam": {
       "name": "W. Kentucky",
       "mascot": "WKU",
       "rank": "",
-      "record": "2-4",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/3RsyO5Wql1xxFmqi8PtUPA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181207/500x500/western_kentucky.png.cf.webp"
     },
@@ -38,7 +38,7 @@
       "name": "Sam Houston State",
       "mascot": "SHS",
       "rank": "",
-      "record": "1-4",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/XPNolzwNLXDwkGMPoU0shA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaab/20211118/500x500/Sam-Houston-Bearkats.png.cf.webp"
     }
@@ -618,7 +618,7 @@
   {
     "datetime": "Sat, 10/17, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ALA -8.5, O/U 51.5",
+    "odds": "ALA -8, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Alabama",
@@ -684,7 +684,7 @@
   {
     "datetime": "Sat, 10/17, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "DUKE -3.5, O/U 47.5",
+    "odds": "DUKE -3, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "N. Carolina",
@@ -706,7 +706,7 @@
   {
     "datetime": "Sat, 10/17, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "VT -10, O/U 57.5",
+    "odds": "VT -10, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Georgia Tech",
@@ -1300,7 +1300,7 @@
   {
     "datetime": "Sat, 10/17, 10:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORE -7.5, O/U 52.5",
+    "odds": "ORE -7, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Nebraska",
