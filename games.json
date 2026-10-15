@@ -46,7 +46,7 @@
   {
     "datetime": "Thu, 10/15, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TXST -14.5, O/U 69.5",
+    "odds": "TXST -14, O/U 70.5",
     "tv": "",
     "awayTeam": {
       "name": "Colorado St.",
@@ -398,7 +398,7 @@
   {
     "datetime": "Sat, 10/17, 11:30 AM CDT",
     "status": "UPCOMING",
-    "odds": "UMD -4.5, O/U 57.5",
+    "odds": "UMD -4.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Rutgers",
@@ -574,7 +574,7 @@
   {
     "datetime": "Sat, 10/17, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ALA -8, O/U 51.5",
+    "odds": "ALA -7.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Alabama",
@@ -904,7 +904,7 @@
   {
     "datetime": "Sat, 10/17, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "VAN -6, O/U 50.5",
+    "odds": "VAN -6, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Arkansas",
