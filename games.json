@@ -24,7 +24,7 @@
   {
     "datetime": "Fri, 10/16, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "PUR -3.5, O/U 50.5",
+    "odds": "PUR -3.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Washington",
@@ -68,7 +68,7 @@
   {
     "datetime": "Sat, 10/17, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "PITT -6.5, O/U 42.5",
+    "odds": "PITT -6.5, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Pittsburgh",
@@ -1102,7 +1102,7 @@
   {
     "datetime": "Sat, 10/17, 9:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "UTAH -15.5, O/U 49.5",
+    "odds": "UTAH -14.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Utah",
@@ -1146,7 +1146,7 @@
   {
     "datetime": "Sat, 10/17, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UNM -15.5, O/U 44.5",
+    "odds": "UNM -15, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "New Mexico",
