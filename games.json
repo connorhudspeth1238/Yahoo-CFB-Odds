@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Fri, 10/16, 6:30 PM CDT",
+    "datetime": "Fri, 10/16 CDT",
     "status": "UPCOMING",
-    "odds": "MEM -6.5, O/U 54.5",
+    "odds": "ESPN",
     "tv": "",
     "awayTeam": {
       "name": "Memphis",
       "mascot": "MEM",
       "rank": "",
-      "record": "5-1",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/dUkd7UCdv1nJMrvArLM0Hg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaab/20220905/500x500/Memphis-Tigers.png.cf.webp"
     },
@@ -16,7 +16,7 @@
       "name": "Tulane",
       "mascot": "TULN",
       "rank": "",
-      "record": "2-3",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/8BJyV34nrQ_tm0A7Dr8tew--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260702/Tulane_Green_Wave_500.png.cf.webp"
     }
@@ -200,7 +200,7 @@
   {
     "datetime": "Sat, 10/17, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "LSU -16.5, O/U 56.5",
+    "odds": "LSU -17, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Mississippi St.",
@@ -222,7 +222,7 @@
   {
     "datetime": "Sat, 10/17, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "JMU -10, O/U 57.5",
+    "odds": "JMU -9.5, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Georgia St.",
@@ -244,7 +244,7 @@
   {
     "datetime": "Sat, 10/17, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "ARMY -1.5, O/U 54.5",
+    "odds": "ARMY -2, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Florida Atlantic",
@@ -354,7 +354,7 @@
   {
     "datetime": "Sat, 10/17, 12:00 PM CDT",
     "status": "LIVE",
-    "odds": "TEM -21, O/U 46.5",
+    "odds": "TEM -20.5, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Charlotte",
@@ -552,7 +552,7 @@
   {
     "datetime": "Sat, 10/17, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TOL -6.5, O/U 52.5",
+    "odds": "TOL -7, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "Toledo",
@@ -1036,7 +1036,7 @@
   {
     "datetime": "Sat, 10/17, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "UTSA -6.5, O/U 55.5",
+    "odds": "UTSA -6.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Navy",
