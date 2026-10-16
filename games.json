@@ -2,7 +2,7 @@
   {
     "datetime": "Fri, 10/16, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "MEM -7, O/U 54.5",
+    "odds": "MEM -6.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Memphis",
@@ -24,7 +24,7 @@
   {
     "datetime": "Fri, 10/16, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "PUR -3, O/U 50.5",
+    "odds": "PUR -3.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Washington",
@@ -68,7 +68,7 @@
   {
     "datetime": "Sat, 10/17, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "PITT -6.5, O/U 43.5",
+    "odds": "PITT -6.5, O/U 42.5",
     "tv": "",
     "awayTeam": {
       "name": "Pittsburgh",
@@ -156,7 +156,7 @@
   {
     "datetime": "Sat, 10/17, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "KSU -4.5, O/U 55.5",
+    "odds": "KSU -3.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Kansas",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sat, 10/17, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "LSU -15.5, O/U 57.5",
+    "odds": "LSU -16.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Mississippi St.",
@@ -222,7 +222,7 @@
   {
     "datetime": "Sat, 10/17, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "JMU -10.5, O/U 57.5",
+    "odds": "JMU -10, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Georgia St.",
@@ -244,7 +244,7 @@
   {
     "datetime": "Sat, 10/17, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "ARMY -2.5, O/U 54.5",
+    "odds": "ARMY -1.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Florida Atlantic",
@@ -376,7 +376,7 @@
   {
     "datetime": "Sat, 10/17, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BUFF -7, O/U 42.5",
+    "odds": "BUFF -7.5, O/U 42.5",
     "tv": "",
     "awayTeam": {
       "name": "UMass",
@@ -640,7 +640,7 @@
   {
     "datetime": "Sat, 10/17, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "VT -9.5, O/U 56.5",
+    "odds": "VT -8.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Georgia Tech",
@@ -1014,7 +1014,7 @@
   {
     "datetime": "Sat, 10/17, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "LT -15.5, O/U 55.5",
+    "odds": "LT -15.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Louisiana Tech",
