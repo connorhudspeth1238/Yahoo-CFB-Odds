@@ -22,15 +22,15 @@
     }
   },
   {
-    "datetime": "Fri, 10/16, 7:00 PM CDT",
-    "status": "UPCOMING",
-    "odds": "PUR -3.5, O/U 50.5",
+    "datetime": "Fri, 10/16 CDT",
+    "status": "LIVE",
+    "odds": "FOX",
     "tv": "",
     "awayTeam": {
       "name": "Washington",
       "mascot": "",
       "rank": "",
-      "record": "3-3",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/67ZtL2lxma2u7mzCzlgB8A--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181217/500x500/washington.png.cf.webp"
     },
@@ -38,21 +38,21 @@
       "name": "Purdue",
       "mascot": "PUR",
       "rank": "",
-      "record": "3-3",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/r3vXMLBMr4HhiINazCOdQA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181212/500x500/purdue.png.cf.webp"
     }
   },
   {
-    "datetime": "Fri, 10/16, 7:00 PM CDT",
-    "status": "UPCOMING",
-    "odds": "APP -1.5, O/U 48.5",
+    "datetime": "Fri, 10/16 CDT",
+    "status": "LIVE",
+    "odds": "ESPN2",
     "tv": "",
     "awayTeam": {
       "name": "Appalachian St.",
       "mascot": "APP",
       "rank": "",
-      "record": "3-2",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/ytza5gdxBr7R8AS4q7zaJw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260701/Appalachianst_500.png.cf.webp"
     },
@@ -60,7 +60,7 @@
       "name": "Coastal Car.",
       "mascot": "CCU",
       "rank": "",
-      "record": "2-4",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/EQVfgxpr4oSEXm5.swFgHg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181206/500x500/coastal_carolina.png.cf.webp"
     }
@@ -618,7 +618,7 @@
   {
     "datetime": "Sat, 10/17, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "WYO -8, O/U 41.5",
+    "odds": "WYO -7.5, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Northern Illinois",
@@ -1102,7 +1102,7 @@
   {
     "datetime": "Sat, 10/17, 9:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "UTAH -14.5, O/U 49.5",
+    "odds": "UTAH -15, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Utah",
