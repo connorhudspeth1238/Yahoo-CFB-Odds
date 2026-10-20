@@ -2,7 +2,7 @@
   {
     "datetime": "Tue, 10/20, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "DEL -2.5, O/U 53.5",
+    "odds": "DEL -3, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Missouri St.",
@@ -24,7 +24,7 @@
   {
     "datetime": "Tue, 10/20, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "FIU -10, O/U 46.5",
+    "odds": "FIU -10, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Middle Tenn. St.",
@@ -46,7 +46,7 @@
   {
     "datetime": "Tue, 10/20, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "S ALA -2.5, O/U 66.5",
+    "odds": "S ALA -2.5, O/U 65.5",
     "tv": "",
     "awayTeam": {
       "name": "South Alabama",
@@ -68,7 +68,7 @@
   {
     "datetime": "Wed, 10/21, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NMSU -3, O/U 44.5",
+    "odds": "NMSU -2.5, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "N. Mex. St.",
@@ -222,7 +222,7 @@
   {
     "datetime": "Fri, 10/23, 8:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "AFA -5, O/U 44.5",
+    "odds": "AFA -4.5, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Air Force",
@@ -310,7 +310,7 @@
   {
     "datetime": "Sat, 10/24, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "TCU -9, O/U 56.5",
+    "odds": "TCU -9.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "West Virginia",
@@ -398,7 +398,7 @@
   {
     "datetime": "Sat, 10/24, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "NW -16.5, O/U 58.5",
+    "odds": "NW -16.5, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Rutgers",
@@ -530,7 +530,7 @@
   {
     "datetime": "Sat, 10/24, 2:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORE -9, O/U 50.5",
+    "odds": "ORE -9.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Oregon",
@@ -552,7 +552,7 @@
   {
     "datetime": "Sat, 10/24, 2:30 PM CDT",
     "status": "LIVE",
-    "odds": "IOWA -7, O/U 40.5",
+    "odds": "IOWA -6.5, O/U 40.5",
     "tv": "",
     "awayTeam": {
       "name": "Iowa",
@@ -816,7 +816,7 @@
   {
     "datetime": "Sat, 10/24, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TROY -14.5, O/U 51.5",
+    "odds": "TROY -14.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "LA Monroe",
@@ -882,7 +882,7 @@
   {
     "datetime": "Sat, 10/24, 4:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "LT -12.5, O/U 46.5",
+    "odds": "LT -12.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Old Dominion",
@@ -1146,7 +1146,7 @@
   {
     "datetime": "Sat, 10/24, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UK -11, O/U 51.5",
+    "odds": "UK -10.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Vanderbilt",
