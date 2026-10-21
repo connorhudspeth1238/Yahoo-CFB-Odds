@@ -442,7 +442,7 @@
   {
     "datetime": "Sat, 10/24, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BAY -3, O/U 53.5",
+    "odds": "BAY -2.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Baylor",
@@ -684,7 +684,7 @@
   {
     "datetime": "Sat, 10/24, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "BALL -14, O/U 51.5",
+    "odds": "BALL -14.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Sacramento St.",
@@ -772,7 +772,7 @@
   {
     "datetime": "Sat, 10/24, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TROY -14.5, O/U 50.5",
+    "odds": "TROY -14.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "LA Monroe",
