@@ -2,28 +2,6 @@
   {
     "datetime": "Tue, 10/20 CDT",
     "status": "UPCOMING",
-    "odds": "DEL -3.5, O/U 69.5",
-    "tv": "",
-    "awayTeam": {
-      "name": "Missouri St.",
-      "mascot": "MOST",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/Vun06LKMNWpfOFkjLxzM4Q--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181218/500x500/missouri_state.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Delaware",
-      "mascot": "DEL",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/4h2XEB0Nt7mIGtfhIx5Crw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260702/Delaware_Fightin__Blue_Hens_500.png.cf.webp"
-    }
-  },
-  {
-    "datetime": "Tue, 10/20 CDT",
-    "status": "UPCOMING",
     "odds": "CBSS",
     "tv": "",
     "awayTeam": {
@@ -41,6 +19,28 @@
       "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/tgCCQiGR1UMFdedr56gkEA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260701/Florida_Panthers_500.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Tue, 10/20 CDT",
+    "status": "UPCOMING",
+    "odds": "ESNU",
+    "tv": "",
+    "awayTeam": {
+      "name": "Missouri St.",
+      "mascot": "MOST",
+      "rank": "",
+      "record": "",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/Vun06LKMNWpfOFkjLxzM4Q--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181218/500x500/missouri_state.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Delaware",
+      "mascot": "DEL",
+      "rank": "",
+      "record": "",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/4h2XEB0Nt7mIGtfhIx5Crw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260702/Delaware_Fightin__Blue_Hens_500.png.cf.webp"
     }
   },
   {
@@ -376,7 +376,7 @@
   {
     "datetime": "Sat, 10/24, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "TOL -3, O/U 45.5",
+    "odds": "TOL -3.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "W. Michigan",
@@ -684,7 +684,7 @@
   {
     "datetime": "Sat, 10/24, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ALA -14, O/U 50.5",
+    "odds": "ALA -13.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Texas A&M",
@@ -750,7 +750,7 @@
   {
     "datetime": "Sat, 10/24, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "BALL -14, O/U 50.5",
+    "odds": "BALL -14, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Sacramento St.",
@@ -1058,7 +1058,7 @@
   {
     "datetime": "Sat, 10/24, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TEX -3, O/U 53.5",
+    "odds": "TEX -3.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Mississippi",
