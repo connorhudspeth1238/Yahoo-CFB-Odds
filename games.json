@@ -2,7 +2,7 @@
   {
     "datetime": "Wed, 10/21, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NMSU -3, O/U 46.5",
+    "odds": "NMSU -3, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "N. Mex. St.",
@@ -46,7 +46,7 @@
   {
     "datetime": "Thu, 10/22, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "LIB -10, O/U 50.5",
+    "odds": "LIB -9.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Liberty",
@@ -68,7 +68,7 @@
   {
     "datetime": "Thu, 10/22, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "MEM -10, O/U 54.5",
+    "odds": "MEM -10.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "East Carolina",
@@ -112,7 +112,7 @@
   {
     "datetime": "Fri, 10/23, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "CONN -14.5, O/U 49.5",
+    "odds": "CONN -14.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "UMass",
@@ -266,7 +266,7 @@
   {
     "datetime": "Sat, 10/24, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "MIA -20, O/U 49.5",
+    "odds": "MIA -20, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Pittsburgh",
@@ -354,7 +354,7 @@
   {
     "datetime": "Sat, 10/24, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "TTU -11, O/U 56.5",
+    "odds": "TTU -10.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Texas Tech",
@@ -486,7 +486,7 @@
   {
     "datetime": "Sat, 10/24, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ALA -13.5, O/U 50.5",
+    "odds": "ALA -13.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Texas A&M",
@@ -794,7 +794,7 @@
   {
     "datetime": "Sat, 10/24, 4:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NEV -5, O/U 46.5",
+    "odds": "NEV -5.5, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "San Jose St.",
