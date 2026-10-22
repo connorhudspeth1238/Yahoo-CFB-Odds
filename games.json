@@ -1,30 +1,8 @@
 [
   {
-    "datetime": "Wed, 10/21 CDT",
-    "status": "UPCOMING",
-    "odds": "NMSU +3.5, O/U 52.5",
-    "tv": "",
-    "awayTeam": {
-      "name": "N. Mex. St.",
-      "mascot": "NMSU",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/xU7Rn5a4K5UPoVfSNOzF3A--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181211/500x500/new_mexico_state.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Sam Houston State",
-      "mascot": "SHS",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/XPNolzwNLXDwkGMPoU0shA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaab/20211118/500x500/Sam-Houston-Bearkats.png.cf.webp"
-    }
-  },
-  {
     "datetime": "Thu, 10/22, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "JMU -10.5, O/U 56.5",
+    "odds": "JMU -11, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "James Madison",
@@ -244,28 +222,6 @@
   {
     "datetime": "Sat, 10/24, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "TOL -3.5, O/U 45.5",
-    "tv": "",
-    "awayTeam": {
-      "name": "W. Michigan",
-      "mascot": "WMU",
-      "rank": "",
-      "record": "5-2",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/v6hwmmxQFqR4bgIOXjYOYg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20251016/500px/westernmichigan.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Toledo",
-      "mascot": "TOL",
-      "rank": "",
-      "record": "5-2",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/vdw_yofiu..U8QWCLnnamA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181205/500x500/toledo_s.png.cf.webp"
-    }
-  },
-  {
-    "datetime": "Sat, 10/24, 11:00 AM CDT",
-    "status": "UPCOMING",
     "odds": "MIA -20, O/U 48.5",
     "tv": "",
     "awayTeam": {
@@ -283,6 +239,28 @@
       "record": "6-0",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/DRdOTbhUxL8J95PvPxS6HQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181127/500X500/miami_fl.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Sat, 10/24, 11:00 AM CDT",
+    "status": "UPCOMING",
+    "odds": "TOL -3.5, O/U 45.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "W. Michigan",
+      "mascot": "WMU",
+      "rank": "",
+      "record": "5-2",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/v6hwmmxQFqR4bgIOXjYOYg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20251016/500px/westernmichigan.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Toledo",
+      "mascot": "TOL",
+      "rank": "",
+      "record": "5-2",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/vdw_yofiu..U8QWCLnnamA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181205/500x500/toledo_s.png.cf.webp"
     }
   },
   {
@@ -485,24 +463,24 @@
   },
   {
     "datetime": "Sat, 10/24, 2:30 PM CDT",
-    "status": "UPCOMING",
-    "odds": "ALA -13.5, O/U 49.5",
+    "status": "LIVE",
+    "odds": "IOWA -6.5, O/U 40.5",
     "tv": "",
     "awayTeam": {
-      "name": "Texas A&M",
-      "mascot": "TAMU",
-      "rank": "",
-      "record": "4-3",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/7L_L7FP24NgjqDIY_l8Xlw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181212/500x500/texas_a_m_s.png.cf.webp"
+      "name": "Iowa",
+      "mascot": "IOWA",
+      "rank": "15",
+      "record": "5-1",
+      "score": "15",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/iV8CS2TOyzxrUbnFCFo45Q--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181211/500x500/Iowa.png.cf.webp"
     },
     "homeTeam": {
-      "name": "Alabama",
-      "mascot": "ALA",
-      "rank": "13",
-      "record": "5-2",
+      "name": "Minnesota",
+      "mascot": "MINN",
+      "rank": "",
+      "record": "4-2",
       "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/wTXjifYDTv4CW9dOvKT_7w--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260701/__Alabama_Crimson_Tide_500.png.cf.webp"
+      "logo": "https://s.yimg.com/iu/api/res/1.2/hq5DWk9.LH4kuy1QNN8FgA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260702/Minnesota_Golden_Gophers_500.png.cf.webp"
     }
   },
   {
@@ -574,28 +552,6 @@
   {
     "datetime": "Sat, 10/24, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "GT -4, O/U 49.5",
-    "tv": "",
-    "awayTeam": {
-      "name": "Boston Coll.",
-      "mascot": "",
-      "rank": "",
-      "record": "3-3",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/tZKedvjlkX3keEab8YU6Tw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181217/500x500/boston_college.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Georgia Tech",
-      "mascot": "",
-      "rank": "",
-      "record": "2-4",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/rzyNgFgDXNSchVcIHoVetw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181129/500X500/georgia_tech.png.cf.webp"
-    }
-  },
-  {
-    "datetime": "Sat, 10/24, 2:30 PM CDT",
-    "status": "UPCOMING",
     "odds": "OU -4.5, O/U 44.5",
     "tv": "",
     "awayTeam": {
@@ -617,24 +573,46 @@
   },
   {
     "datetime": "Sat, 10/24, 2:30 PM CDT",
-    "status": "LIVE",
-    "odds": "IOWA -6.5, O/U 40.5",
+    "status": "UPCOMING",
+    "odds": "GT -4.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
-      "name": "Iowa",
-      "mascot": "IOWA",
-      "rank": "15",
-      "record": "5-1",
-      "score": "15",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/iV8CS2TOyzxrUbnFCFo45Q--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181211/500x500/Iowa.png.cf.webp"
+      "name": "Boston Coll.",
+      "mascot": "",
+      "rank": "",
+      "record": "3-3",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/tZKedvjlkX3keEab8YU6Tw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181217/500x500/boston_college.png.cf.webp"
     },
     "homeTeam": {
-      "name": "Minnesota",
-      "mascot": "MINN",
+      "name": "Georgia Tech",
+      "mascot": "",
       "rank": "",
-      "record": "4-2",
+      "record": "2-4",
       "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/hq5DWk9.LH4kuy1QNN8FgA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260702/Minnesota_Golden_Gophers_500.png.cf.webp"
+      "logo": "https://s.yimg.com/iu/api/res/1.2/rzyNgFgDXNSchVcIHoVetw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181129/500X500/georgia_tech.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Sat, 10/24, 2:30 PM CDT",
+    "status": "UPCOMING",
+    "odds": "ALA -13.5, O/U 49.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Texas A&M",
+      "mascot": "TAMU",
+      "rank": "",
+      "record": "4-3",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/7L_L7FP24NgjqDIY_l8Xlw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181212/500x500/texas_a_m_s.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Alabama",
+      "mascot": "ALA",
+      "rank": "13",
+      "record": "5-2",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/wTXjifYDTv4CW9dOvKT_7w--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260701/__Alabama_Crimson_Tide_500.png.cf.webp"
     }
   },
   {
@@ -662,7 +640,7 @@
   {
     "datetime": "Sat, 10/24, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UCLA -14, O/U 44.5",
+    "odds": "UCLA -14.5, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Michigan St.",
@@ -728,7 +706,7 @@
   {
     "datetime": "Sat, 10/24, 2:45 PM CDT",
     "status": "UPCOMING",
-    "odds": "KSU -3.5, O/U 56.5",
+    "odds": "KSU -2.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Kansas St.",
@@ -794,28 +772,6 @@
   {
     "datetime": "Sat, 10/24, 4:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NEV -6, O/U 46.5",
-    "tv": "",
-    "awayTeam": {
-      "name": "San Jose St.",
-      "mascot": "SJSU",
-      "rank": "",
-      "record": "4-3",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/iiwKpdnKydVpmxqA5UcvFg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181211/500x500/san_jose_state.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Nevada",
-      "mascot": "NEV",
-      "rank": "",
-      "record": "2-4",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/Fu3iYoTkyyZEln9gxRxZ.w--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181210/500x500/nevada2_s.png.cf.webp"
-    }
-  },
-  {
-    "datetime": "Sat, 10/24, 4:00 PM CDT",
-    "status": "UPCOMING",
     "odds": "LA -10, O/U 52.5",
     "tv": "",
     "awayTeam": {
@@ -838,7 +794,29 @@
   {
     "datetime": "Sat, 10/24, 4:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "LT -12.5, O/U 45.5",
+    "odds": "NEV -6.5, O/U 46.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "San Jose St.",
+      "mascot": "SJSU",
+      "rank": "",
+      "record": "4-3",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/iiwKpdnKydVpmxqA5UcvFg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181211/500x500/san_jose_state.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Nevada",
+      "mascot": "NEV",
+      "rank": "",
+      "record": "2-4",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/Fu3iYoTkyyZEln9gxRxZ.w--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181210/500x500/nevada2_s.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Sat, 10/24, 4:00 PM CDT",
+    "status": "UPCOMING",
+    "odds": "LT -13, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Old Dominion",
@@ -904,28 +882,6 @@
   {
     "datetime": "Sat, 10/24, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "OKST -13.5, O/U 56.5",
-    "tv": "",
-    "awayTeam": {
-      "name": "Colorado",
-      "mascot": "COLO",
-      "rank": "",
-      "record": "2-4",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/HVF_8a5GdroLn.FqFYmu.g--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20190531/500x500/colorado_s.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Oklahoma St.",
-      "mascot": "OKST",
-      "rank": "",
-      "record": "4-2",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/Vt1oqKFC1Hm.OCHdUhSeWQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20250409/500px/oklahomast.png.cf.webp"
-    }
-  },
-  {
-    "datetime": "Sat, 10/24, 6:00 PM CDT",
-    "status": "UPCOMING",
     "odds": "GA ST -2.5, O/U 58.5",
     "tv": "",
     "awayTeam": {
@@ -968,25 +924,25 @@
     }
   },
   {
-    "datetime": "Sat, 10/24, 6:30 PM CDT",
+    "datetime": "Sat, 10/24, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ARIZ -10.5, O/U 50.5",
+    "odds": "OKST -13.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
-      "name": "Iowa St.",
-      "mascot": "ISU",
+      "name": "Colorado",
+      "mascot": "COLO",
       "rank": "",
-      "record": "3-3",
+      "record": "2-4",
       "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/00.wrzBlEXnU17IweeIRzw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181217/500x500/iowa_state.png.cf.webp"
+      "logo": "https://s.yimg.com/iu/api/res/1.2/HVF_8a5GdroLn.FqFYmu.g--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20190531/500x500/colorado_s.png.cf.webp"
     },
     "homeTeam": {
-      "name": "Arizona",
-      "mascot": "ARIZ",
-      "rank": "25",
-      "record": "5-1",
+      "name": "Oklahoma St.",
+      "mascot": "OKST",
+      "rank": "",
+      "record": "4-2",
       "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/oMLkP_x140yemKzNjVTgbw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181205/500x500/arizona.png.cf.webp"
+      "logo": "https://s.yimg.com/iu/api/res/1.2/Vt1oqKFC1Hm.OCHdUhSeWQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20250409/500px/oklahomast.png.cf.webp"
     }
   },
   {
@@ -1058,28 +1014,6 @@
   {
     "datetime": "Sat, 10/24, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UNC -7.5, O/U 47.5",
-    "tv": "",
-    "awayTeam": {
-      "name": "Syracuse",
-      "mascot": "SYR",
-      "rank": "",
-      "record": "2-4",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/3Oj9I6jknqYqtC0PG7W28A--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20190410/500x500/syracuse_s.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "N. Carolina",
-      "mascot": "UNC",
-      "rank": "",
-      "record": "4-2",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/IilFpk7.7UN0NFSO7lPRuQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181207/500x500/north_carolina.png.cf.webp"
-    }
-  },
-  {
-    "datetime": "Sat, 10/24, 6:30 PM CDT",
-    "status": "UPCOMING",
     "odds": "UK -10.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
@@ -1097,6 +1031,50 @@
       "record": "6-1",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/e.xzkT88ZsFjH_o7cmottw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181217/500x500/kentucky.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Sat, 10/24, 6:30 PM CDT",
+    "status": "UPCOMING",
+    "odds": "ARIZ -10.5, O/U 50.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Iowa St.",
+      "mascot": "ISU",
+      "rank": "",
+      "record": "3-3",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/00.wrzBlEXnU17IweeIRzw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181217/500x500/iowa_state.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Arizona",
+      "mascot": "ARIZ",
+      "rank": "25",
+      "record": "5-1",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/oMLkP_x140yemKzNjVTgbw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181205/500x500/arizona.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Sat, 10/24, 6:30 PM CDT",
+    "status": "UPCOMING",
+    "odds": "UNC -8.5, O/U 46.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Syracuse",
+      "mascot": "SYR",
+      "rank": "",
+      "record": "2-4",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/3Oj9I6jknqYqtC0PG7W28A--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20190410/500x500/syracuse_s.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "N. Carolina",
+      "mascot": "UNC",
+      "rank": "",
+      "record": "4-2",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/IilFpk7.7UN0NFSO7lPRuQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181207/500x500/north_carolina.png.cf.webp"
     }
   },
   {
@@ -1168,28 +1146,6 @@
   {
     "datetime": "Tue, 10/20 CDT",
     "status": "FINAL",
-    "odds": "MTSU +10.5, O 46.5",
-    "tv": "",
-    "awayTeam": {
-      "name": "Middle Tenn. St.",
-      "mascot": "MTSU",
-      "rank": "",
-      "record": "4-3",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/sEj28Zccyqk2us6luHKsyg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260701/Middle_Tennessee_Blue_Raiders_500.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Florida Intl.",
-      "mascot": "FIU",
-      "rank": "",
-      "record": "3-4",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/tgCCQiGR1UMFdedr56gkEA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260701/Florida_Panthers_500.png.cf.webp"
-    }
-  },
-  {
-    "datetime": "Tue, 10/20 CDT",
-    "status": "FINAL",
     "odds": "DEL -3, O 54.5",
     "tv": "",
     "awayTeam": {
@@ -1212,6 +1168,28 @@
   {
     "datetime": "Tue, 10/20 CDT",
     "status": "FINAL",
+    "odds": "MTSU +10.5, O 46.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Middle Tenn. St.",
+      "mascot": "MTSU",
+      "rank": "",
+      "record": "4-3",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/sEj28Zccyqk2us6luHKsyg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260701/Middle_Tennessee_Blue_Raiders_500.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Florida Intl.",
+      "mascot": "FIU",
+      "rank": "",
+      "record": "3-4",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/tgCCQiGR1UMFdedr56gkEA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260701/Florida_Panthers_500.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Tue, 10/20 CDT",
+    "status": "FINAL",
     "odds": "MRSH +2, U 66.5",
     "tv": "",
     "awayTeam": {
@@ -1229,6 +1207,28 @@
       "record": "4-3",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/W3huG2PrbOvVR5bIWlG0TQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181129/500X500/marshall.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Wed, 10/21 CDT",
+    "status": "FINAL",
+    "odds": "NMSU -3.5, O 46.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "N. Mex. St.",
+      "mascot": "NMSU",
+      "rank": "",
+      "record": "3-4",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/xU7Rn5a4K5UPoVfSNOzF3A--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181211/500x500/new_mexico_state.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Sam Houston State",
+      "mascot": "SHS",
+      "rank": "",
+      "record": "1-6",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/XPNolzwNLXDwkGMPoU0shA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaab/20211118/500x500/Sam-Houston-Bearkats.png.cf.webp"
     }
   }
 ]
