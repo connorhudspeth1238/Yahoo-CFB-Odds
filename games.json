@@ -2,7 +2,7 @@
   {
     "datetime": "Fri, 10/23, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "UVA -2.5, O/U 46.5",
+    "odds": "UVA -2.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Duke",
@@ -24,7 +24,7 @@
   {
     "datetime": "Fri, 10/23, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "CONN -13.5, O/U 53.5",
+    "odds": "CONN -12.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "UMass",
@@ -46,7 +46,7 @@
   {
     "datetime": "Fri, 10/23, 7:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TLSA -1.5, O/U 53.5",
+    "odds": "TLSA -1.5, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "Army",
@@ -178,7 +178,7 @@
   {
     "datetime": "Sat, 10/24, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "SMU -19, O/U 55.5",
+    "odds": "SMU -19.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "California",
@@ -442,7 +442,7 @@
   {
     "datetime": "Sat, 10/24, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UCLA -14.5, O/U 43.5",
+    "odds": "UCLA -15, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Michigan St.",
@@ -552,7 +552,7 @@
   {
     "datetime": "Sat, 10/24, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "OU -3.5, O/U 46.5",
+    "odds": "OU -3, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Oklahoma",
@@ -684,7 +684,7 @@
   {
     "datetime": "Sat, 10/24, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TROY -13.5, O/U 50.5",
+    "odds": "TROY -12.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "LA Monroe",
@@ -794,7 +794,7 @@
   {
     "datetime": "Sat, 10/24, 5:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "SDSU -1.5, O/U 62.5",
+    "odds": "SDSU -1.5, O/U 61.5",
     "tv": "",
     "awayTeam": {
       "name": "SDSU",
@@ -882,7 +882,7 @@
   {
     "datetime": "Sat, 10/24, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TXST -13.5, O/U 61.5",
+    "odds": "TXST -13.5, O/U 60.5",
     "tv": "",
     "awayTeam": {
       "name": "Utah St.",
@@ -926,7 +926,7 @@
   {
     "datetime": "Sat, 10/24, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TEX -3.5, O/U 53.5",
+    "odds": "TEX -3, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Mississippi",
@@ -992,7 +992,7 @@
   {
     "datetime": "Sat, 10/24, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UNC -9, O/U 47.5",
+    "odds": "UNC -9.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Syracuse",
@@ -1014,7 +1014,7 @@
   {
     "datetime": "Sat, 10/24, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "UTSA -3, O/U 51.5",
+    "odds": "UTSA -2.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "UTSA",
