@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Fri, 10/23, 6:00 PM CDT",
+    "datetime": "Fri, 10/23 CDT",
     "status": "UPCOMING",
-    "odds": "UVA -2.5, O/U 47.5",
+    "odds": "ESPN",
     "tv": "",
     "awayTeam": {
       "name": "Duke",
       "mascot": "DUKE",
       "rank": "",
-      "record": "4-2",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/KGl0UOIetKO9IUiWUsY7.Q--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260218/500px/dukewbb_dbg.png.cf.webp"
     },
@@ -16,21 +16,21 @@
       "name": "Virginia",
       "mascot": "UVA",
       "rank": "",
-      "record": "4-3",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/2JHcCbus6uxH87RSwBcQzg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260702/virginia_500.png.cf.webp"
     }
   },
   {
-    "datetime": "Fri, 10/23, 6:00 PM CDT",
+    "datetime": "Fri, 10/23 CDT",
     "status": "UPCOMING",
-    "odds": "CONN -12.5, O/U 53.5",
+    "odds": "CBSS",
     "tv": "",
     "awayTeam": {
       "name": "UMass",
       "mascot": "UMASS",
       "rank": "",
-      "record": "4-3",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/u84oXGDH1qwWHogqTfqJCQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260701/uMass_Minutemen_500.png.cf.webp"
     },
@@ -38,7 +38,7 @@
       "name": "Connecticut",
       "mascot": "CONN",
       "rank": "",
-      "record": "3-3",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/JoGvL1sWRsfK1JyDmPRS8Q--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181212/500x500/connecticut.png.cf.webp"
     }
@@ -46,7 +46,7 @@
   {
     "datetime": "Fri, 10/23, 7:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TLSA -1.5, O/U 52.5",
+    "odds": "ARMY -1.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Army",
@@ -68,7 +68,7 @@
   {
     "datetime": "Fri, 10/23, 8:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "AFA -5.5, O/U 46.5",
+    "odds": "AFA -6, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Air Force",
@@ -90,7 +90,7 @@
   {
     "datetime": "Fri, 10/23, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "NCST -7.5, O/U 55.5",
+    "odds": "NCST -7.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "NC State",
@@ -178,7 +178,7 @@
   {
     "datetime": "Sat, 10/24, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "SMU -19.5, O/U 55.5",
+    "odds": "SMU -18.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "California",
@@ -288,7 +288,7 @@
   {
     "datetime": "Sat, 10/24, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "MIA -20, O/U 48.5",
+    "odds": "MIA -20.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Pittsburgh",
@@ -442,7 +442,7 @@
   {
     "datetime": "Sat, 10/24, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UCLA -15, O/U 43.5",
+    "odds": "UCLA -14.5, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Michigan St.",
@@ -552,7 +552,7 @@
   {
     "datetime": "Sat, 10/24, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "OU -3, O/U 47.5",
+    "odds": "OU -2.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Oklahoma",
@@ -596,7 +596,7 @@
   {
     "datetime": "Sat, 10/24, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "GT -6, O/U 50.5",
+    "odds": "GT -6.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Boston Coll.",
@@ -684,7 +684,7 @@
   {
     "datetime": "Sat, 10/24, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TROY -12.5, O/U 50.5",
+    "odds": "TROY -12, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "LA Monroe",
@@ -772,7 +772,7 @@
   {
     "datetime": "Sat, 10/24, 5:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BSU -13.5, O/U 53.5",
+    "odds": "BSU -14.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Boise St.",
@@ -794,7 +794,7 @@
   {
     "datetime": "Sat, 10/24, 5:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "SDSU -1.5, O/U 61.5",
+    "odds": "SDSU -1.5, O/U 60.5",
     "tv": "",
     "awayTeam": {
       "name": "SDSU",
@@ -948,7 +948,7 @@
   {
     "datetime": "Sat, 10/24, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ARIZ -9.5, O/U 51.5",
+    "odds": "ARIZ -10.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Iowa St.",
