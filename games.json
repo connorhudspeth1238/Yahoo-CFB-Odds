@@ -112,7 +112,7 @@
   {
     "datetime": "Sat, 10/24, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "TOL -3, O/U 47.5",
+    "odds": "TOL -2.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "W. Michigan",
@@ -134,7 +134,7 @@
   {
     "datetime": "Sat, 10/24, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "NW -15.5, O/U 58.5",
+    "odds": "NW -15, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "Rutgers",
@@ -178,7 +178,7 @@
   {
     "datetime": "Sat, 10/24, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "MIA -20, O/U 48.5",
+    "odds": "MIA -20.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Pittsburgh",
@@ -442,7 +442,7 @@
   {
     "datetime": "Sat, 10/24, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UCLA -15, O/U 44.5",
+    "odds": "UCLA -14.5, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Michigan St.",
@@ -684,7 +684,7 @@
   {
     "datetime": "Sat, 10/24, 5:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "SDSU -1.5, O/U 60.5",
+    "odds": "SDSU -1.5, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "SDSU",
@@ -838,7 +838,7 @@
   {
     "datetime": "Sat, 10/24, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "USC -3, O/U 49.5",
+    "odds": "USC -2.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "USC",
@@ -882,7 +882,7 @@
   {
     "datetime": "Sat, 10/24, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UNC -9, O/U 47.5",
+    "odds": "UNC -9.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Syracuse",
@@ -904,7 +904,7 @@
   {
     "datetime": "Sat, 10/24, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "UTSA -2.5, O/U 51.5",
+    "odds": "UTSA -3, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "UTSA",
