@@ -2,28 +2,6 @@
   {
     "datetime": "Sat, 10/24 CDT",
     "status": "UPCOMING",
-    "odds": "ESPN2",
-    "tv": "",
-    "awayTeam": {
-      "name": "West Virginia",
-      "mascot": "WVU",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/SNgHYOhlNNFaqCl9je.pvg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260928/500px/Westvirginia.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "TCU",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/OAQjGicPJrkbEYG17dczzw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181214/500x500/tcu2_s.png.cf.webp"
-    }
-  },
-  {
-    "datetime": "Sat, 10/24 CDT",
-    "status": "UPCOMING",
     "odds": "ESNU",
     "tv": "",
     "awayTeam": {
@@ -198,15 +176,37 @@
     }
   },
   {
-    "datetime": "Sat, 10/24, 12:00 PM CDT",
+    "datetime": "Sat, 10/24 CDT",
     "status": "UPCOMING",
-    "odds": "M-OH -4, O/U 40.5",
+    "odds": "ESPN2",
+    "tv": "",
+    "awayTeam": {
+      "name": "West Virginia",
+      "mascot": "WVU",
+      "rank": "",
+      "record": "",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/SNgHYOhlNNFaqCl9je.pvg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260928/500px/Westvirginia.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "TCU",
+      "mascot": "",
+      "rank": "",
+      "record": "",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/OAQjGicPJrkbEYG17dczzw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181214/500x500/tcu2_s.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Sat, 10/24 CDT",
+    "status": "UPCOMING",
+    "odds": "ESPN+",
     "tv": "",
     "awayTeam": {
       "name": "Miami (OH)",
       "mascot": "",
       "rank": "",
-      "record": "4-3",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/_N2Pvw_rLVg2a98e_kzXoQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181205/500x500/miami_oh.png.cf.webp"
     },
@@ -214,21 +214,21 @@
       "name": "Cent. Michigan",
       "mascot": "CMU",
       "rank": "",
-      "record": "3-4",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/JsEwzBdjufEgqGSIe65uUg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181212/500x500/central_michigan.png.cf.webp"
     }
   },
   {
-    "datetime": "Sat, 10/24, 12:00 PM CDT",
+    "datetime": "Sat, 10/24 CDT",
     "status": "UPCOMING",
-    "odds": "KENT -3, O/U 47.5",
+    "odds": "ESPN+",
     "tv": "",
     "awayTeam": {
       "name": "Akron",
       "mascot": "AKR",
       "rank": "",
-      "record": "1-6",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/nbLzkKBoXWXKHQLcX3bC2w--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260701/arkron_500.png.cf.webp"
     },
@@ -236,21 +236,21 @@
       "name": "Kent St.",
       "mascot": "KENT",
       "rank": "",
-      "record": "2-5",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/1aOe.9po7EqOttcam1wYIg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181210/500x500/kent_state.png.cf.webp"
     }
   },
   {
-    "datetime": "Sat, 10/24, 12:00 PM CDT",
+    "datetime": "Sat, 10/24 CDT",
     "status": "UPCOMING",
-    "odds": "KU -1.5, O/U 54.5",
+    "odds": "TNT",
     "tv": "",
     "awayTeam": {
       "name": "Baylor",
       "mascot": "BAY",
       "rank": "",
-      "record": "4-2",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/HA8r92fhvfa9KY9QzAzq1w--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaab/20211221/500x500/Baylor-Bears.png.cf.webp"
     },
@@ -258,7 +258,7 @@
       "name": "Kansas",
       "mascot": "",
       "rank": "",
-      "record": "2-4",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/z844rvgbOXTFBgcHVgVuRw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181206/500x500/kansas.png.cf.webp"
     }
@@ -266,7 +266,7 @@
   {
     "datetime": "Sat, 10/24, 2:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORE -10, O/U 48.5",
+    "odds": "ORE -10.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Oregon",
@@ -354,7 +354,7 @@
   {
     "datetime": "Sat, 10/24, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UNT -3.5, O/U 60.5",
+    "odds": "UNT -3, O/U 60.5",
     "tv": "",
     "awayTeam": {
       "name": "North Texas",
@@ -376,7 +376,7 @@
   {
     "datetime": "Sat, 10/24, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "OU -1.5, O/U 48.5",
+    "odds": "OU -1.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Oklahoma",
@@ -486,7 +486,7 @@
   {
     "datetime": "Sat, 10/24, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "HAW -3.5, O/U 48.5",
+    "odds": "HAW -3, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Hawaii",
@@ -552,7 +552,7 @@
   {
     "datetime": "Sat, 10/24, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "OHIO -9.5, O/U 48.5",
+    "odds": "OHIO -10.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "East. Michigan",
@@ -574,7 +574,7 @@
   {
     "datetime": "Sat, 10/24, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TROY -12.5, O/U 50.5",
+    "odds": "TROY -13.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "LA Monroe",
@@ -684,7 +684,7 @@
   {
     "datetime": "Sat, 10/24, 5:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "SDSU -1.5, O/U 59.5",
+    "odds": "SDSU -1.5, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "SDSU",
@@ -772,7 +772,7 @@
   {
     "datetime": "Sat, 10/24, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TXST -13.5, O/U 60.5",
+    "odds": "TXST -14, O/U 60.5",
     "tv": "",
     "awayTeam": {
       "name": "Utah St.",
@@ -860,7 +860,7 @@
   {
     "datetime": "Sat, 10/24, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ARIZ -11, O/U 51.5",
+    "odds": "ARIZ -11.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Iowa St.",
@@ -882,7 +882,7 @@
   {
     "datetime": "Sat, 10/24, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UNC -9.5, O/U 49.5",
+    "odds": "UNC -9.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Syracuse",
