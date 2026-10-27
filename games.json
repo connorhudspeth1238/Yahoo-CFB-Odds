@@ -2,7 +2,7 @@
   {
     "datetime": "Tue, 10/27, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "WKU -1.5, O/U 56.5",
+    "odds": "WKU -2.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Delaware",
@@ -156,7 +156,7 @@
   {
     "datetime": "Fri, 10/30, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UCF -1.5, O/U 47.5",
+    "odds": "UCF -1.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Baylor",
@@ -486,7 +486,7 @@
   {
     "datetime": "Sat, 10/31, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "KSU -2.5, O/U 47.5",
+    "odds": "KSU -1.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Kansas St.",
@@ -508,7 +508,7 @@
   {
     "datetime": "Sat, 10/31, 2:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "LT -5.5, O/U 57.5",
+    "odds": "LT -5.5, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "Louisiana Tech",
@@ -596,7 +596,7 @@
   {
     "datetime": "Sat, 10/31, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "LIB -14, O/U 45.5",
+    "odds": "LIB -14, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Florida Intl.",
@@ -706,7 +706,7 @@
   {
     "datetime": "Sat, 10/31, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "NDSU -24.5, O/U 43.5",
+    "odds": "NDSU -24, O/U 42.5",
     "tv": "",
     "awayTeam": {
       "name": "UTEP",
@@ -992,7 +992,7 @@
   {
     "datetime": "Sat, 10/31, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "FSU -6, O/U 50.5",
+    "odds": "FSU -5.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Clemson",
