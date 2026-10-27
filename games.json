@@ -68,7 +68,7 @@
   {
     "datetime": "Wed, 10/28, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "JVST -3, O/U 49.5",
+    "odds": "JVST -3.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Jacksonville St.",
@@ -310,7 +310,7 @@
   {
     "datetime": "Sat, 10/31, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "SMU -9.5, O/U 58.5",
+    "odds": "SMU -10, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "SMU",
@@ -662,7 +662,7 @@
   {
     "datetime": "Sat, 10/31, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "USM -3.5, O/U 56.5",
+    "odds": "USM -3.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Southern Miss",
@@ -706,7 +706,7 @@
   {
     "datetime": "Sat, 10/31, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "NDSU -25, O/U 43.5",
+    "odds": "NDSU -24.5, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "UTEP",
@@ -772,7 +772,7 @@
   {
     "datetime": "Sat, 10/31, 2:30 PM CDT",
     "status": "LIVE",
-    "odds": "IND -20, O/U 42.5",
+    "odds": "IND -20, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Minnesota",
@@ -926,7 +926,7 @@
   {
     "datetime": "Sat, 10/31, 5:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "GASO -5.5, O/U 56.5",
+    "odds": "GASO -5.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Appalachian St.",
@@ -992,7 +992,7 @@
   {
     "datetime": "Sat, 10/31, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "FSU -6, O/U 49.5",
+    "odds": "FSU -5.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Clemson",
@@ -1190,7 +1190,7 @@
   {
     "datetime": "Sat, 10/31, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UNLV -24.5, O/U 53.5",
+    "odds": "UNLV -24, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Northern Illinois",
