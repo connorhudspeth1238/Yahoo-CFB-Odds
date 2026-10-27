@@ -2,7 +2,7 @@
   {
     "datetime": "Tue, 10/27, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "DEL -1, O/U 57.5",
+    "odds": "WKU -1.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Delaware",
@@ -24,7 +24,7 @@
   {
     "datetime": "Tue, 10/27, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "MOST -5, O/U 50.5",
+    "odds": "MOST -6, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Sam Houston State",
@@ -46,7 +46,7 @@
   {
     "datetime": "Wed, 10/28, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "MTSU -2.5, O/U 51.5",
+    "odds": "MTSU -2.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Kennesaw St.",
@@ -90,7 +90,7 @@
   {
     "datetime": "Thu, 10/29, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UNT -13.5, O/U 76.5",
+    "odds": "UNT -13.5, O/U 77.5",
     "tv": "",
     "awayTeam": {
       "name": "Florida Atlantic",
@@ -156,7 +156,7 @@
   {
     "datetime": "Fri, 10/30, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UCF -1.5, O/U 48.5",
+    "odds": "UCF -1.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Baylor",
@@ -244,7 +244,7 @@
   {
     "datetime": "Sat, 10/31, 11:00 AM CDT",
     "status": "LIVE",
-    "odds": "ND -30.5, O/U 55.5",
+    "odds": "ND -30.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Notre Dame",
@@ -574,7 +574,7 @@
   {
     "datetime": "Sat, 10/31, 2:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "LOU -22.5, O/U 61.5",
+    "odds": "LOU -22.5, O/U 60.5",
     "tv": "",
     "awayTeam": {
       "name": "Stanford",
@@ -662,7 +662,7 @@
   {
     "datetime": "Sat, 10/31, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "USM -3.5, O/U 55.5",
+    "odds": "USM -3.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Southern Miss",
@@ -772,7 +772,7 @@
   {
     "datetime": "Sat, 10/31, 2:30 PM CDT",
     "status": "LIVE",
-    "odds": "IND -20.5, O/U 42.5",
+    "odds": "IND -20.5, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Minnesota",
@@ -860,7 +860,7 @@
   {
     "datetime": "Sat, 10/31, 3:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "OU -5.5, O/U 44.5",
+    "odds": "OU -5, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "South Carolina",
@@ -992,7 +992,7 @@
   {
     "datetime": "Sat, 10/31, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "FSU -6, O/U 49.5",
+    "odds": "FSU -6, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Clemson",
@@ -1168,7 +1168,7 @@
   {
     "datetime": "Sat, 10/31, 9:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BSU -11.5, O/U 63.5",
+    "odds": "BSU -11.5, O/U 64.5",
     "tv": "",
     "awayTeam": {
       "name": "Texas St.",
@@ -1212,7 +1212,7 @@
   {
     "datetime": "Sat, 10/31, 10:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORST -5.5, O/U 58.5",
+    "odds": "ORST -5.5, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Oregon St.",
