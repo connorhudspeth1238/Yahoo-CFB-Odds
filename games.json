@@ -2,7 +2,7 @@
   {
     "datetime": "Wed, 10/28, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "MTSU -2.5, O/U 50.5",
+    "odds": "MTSU -1.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Kennesaw St.",
@@ -112,7 +112,7 @@
   {
     "datetime": "Fri, 10/30, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UCF -1.5, O/U 48.5",
+    "odds": "UCF -1.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Baylor",
@@ -156,7 +156,7 @@
   {
     "datetime": "Sat, 10/31, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "S FLA -8, O/U 42.5",
+    "odds": "S FLA -7.5, O/U 42.5",
     "tv": "",
     "awayTeam": {
       "name": "UAB",
@@ -420,7 +420,7 @@
   {
     "datetime": "Sat, 10/31, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "GA ST -6.5, O/U 57.5",
+    "odds": "GA ST -6.5, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "Coastal Car.",
@@ -926,7 +926,7 @@
   {
     "datetime": "Sat, 10/31, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "OKST -8.5, O/U 57.5",
+    "odds": "OKST -9, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Oklahoma St.",
@@ -948,7 +948,7 @@
   {
     "datetime": "Sat, 10/31, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "FSU -5.5, O/U 50.5",
+    "odds": "FSU -6, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Clemson",
@@ -1124,7 +1124,7 @@
   {
     "datetime": "Sat, 10/31, 9:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BSU -11.5, O/U 64.5",
+    "odds": "BSU -11.5, O/U 63.5",
     "tv": "",
     "awayTeam": {
       "name": "Texas St.",
