@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Tue, 10/27, 6:00 PM CDT",
+    "datetime": "Tue, 10/27 CDT",
     "status": "UPCOMING",
-    "odds": "WKU -2.5, O/U 55.5",
+    "odds": "CBSS",
     "tv": "",
     "awayTeam": {
       "name": "Delaware",
       "mascot": "DEL",
       "rank": "",
-      "record": "3-4",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/4h2XEB0Nt7mIGtfhIx5Crw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260702/Delaware_Fightin__Blue_Hens_500.png.cf.webp"
     },
@@ -16,21 +16,21 @@
       "name": "W. Kentucky",
       "mascot": "WKU",
       "rank": "",
-      "record": "3-4",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/3RsyO5Wql1xxFmqi8PtUPA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181207/500x500/western_kentucky.png.cf.webp"
     }
   },
   {
-    "datetime": "Tue, 10/27, 7:00 PM CDT",
+    "datetime": "Tue, 10/27 CDT",
     "status": "UPCOMING",
-    "odds": "MOST -6, O/U 51.5",
+    "odds": "ESPN2",
     "tv": "",
     "awayTeam": {
       "name": "Sam Houston State",
       "mascot": "SHS",
       "rank": "",
-      "record": "1-6",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/XPNolzwNLXDwkGMPoU0shA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaab/20211118/500x500/Sam-Houston-Bearkats.png.cf.webp"
     },
@@ -38,7 +38,7 @@
       "name": "Missouri St.",
       "mascot": "MOST",
       "rank": "",
-      "record": "2-5",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/Vun06LKMNWpfOFkjLxzM4Q--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181218/500x500/missouri_state.png.cf.webp"
     }
@@ -156,7 +156,7 @@
   {
     "datetime": "Fri, 10/30, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UCF -1.5, O/U 48.5",
+    "odds": "UCF -1.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Baylor",
@@ -464,7 +464,7 @@
   {
     "datetime": "Sat, 10/31, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "GA ST -6.5, O/U 58.5",
+    "odds": "GA ST -6.5, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Coastal Car.",
@@ -530,7 +530,7 @@
   {
     "datetime": "Sat, 10/31, 2:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "AFA -2.5, O/U 53.5",
+    "odds": "AFA -1.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Connecticut",
@@ -706,7 +706,7 @@
   {
     "datetime": "Sat, 10/31, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "NDSU -24, O/U 42.5",
+    "odds": "NDSU -24.5, O/U 42.5",
     "tv": "",
     "awayTeam": {
       "name": "UTEP",
@@ -860,7 +860,7 @@
   {
     "datetime": "Sat, 10/31, 3:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "OU -5, O/U 44.5",
+    "odds": "OU -4.5, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "South Carolina",
