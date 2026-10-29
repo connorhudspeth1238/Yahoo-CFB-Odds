@@ -2,35 +2,13 @@
   {
     "datetime": "Wed, 10/28 CDT",
     "status": "UPCOMING",
-    "odds": "CBSS",
-    "tv": "",
-    "awayTeam": {
-      "name": "Kennesaw St.",
-      "mascot": "KENN",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/FXEgUhX__l6Zk9xjWBJ2kw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaab/20230224/500x500/kennesaw-state-owls.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Middle Tenn. St.",
-      "mascot": "MTSU",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/sEj28Zccyqk2us6luHKsyg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260701/Middle_Tennessee_Blue_Raiders_500.png.cf.webp"
-    }
-  },
-  {
-    "datetime": "Wed, 10/28, 7:00 PM CDT",
-    "status": "UPCOMING",
-    "odds": "JVST -3, O/U 50.5",
+    "odds": "ESPN2",
     "tv": "",
     "awayTeam": {
       "name": "Jacksonville St.",
       "mascot": "JVST",
       "rank": "",
-      "record": "5-2",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/cA3cedvBflRotYp._QE4Sw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20251016/500px/jaxstate.png.cf.webp"
     },
@@ -38,9 +16,31 @@
       "name": "N. Mex. St.",
       "mascot": "NMSU",
       "rank": "",
-      "record": "3-4",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/xU7Rn5a4K5UPoVfSNOzF3A--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181211/500x500/new_mexico_state.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Wed, 10/28 CDT",
+    "status": "FINAL",
+    "odds": "KENN -1.5, O 49.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Kennesaw St.",
+      "mascot": "KENN",
+      "rank": "",
+      "record": "1-6",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/FXEgUhX__l6Zk9xjWBJ2kw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaab/20230224/500x500/kennesaw-state-owls.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Middle Tenn. St.",
+      "mascot": "MTSU",
+      "rank": "",
+      "record": "4-3",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/sEj28Zccyqk2us6luHKsyg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260701/Middle_Tennessee_Blue_Raiders_500.png.cf.webp"
     }
   },
   {
@@ -112,7 +112,7 @@
   {
     "datetime": "Fri, 10/30, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UCF -1, O/U 48.5",
+    "odds": "BAY -1, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Baylor",
@@ -222,7 +222,7 @@
   {
     "datetime": "Sat, 10/31, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "SMU -10, O/U 58.5",
+    "odds": "SMU -10.5, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "SMU",
@@ -354,7 +354,7 @@
   {
     "datetime": "Sat, 10/31, 11:30 AM CDT",
     "status": "UPCOMING",
-    "odds": "MICH -14.5, O/U 45.5",
+    "odds": "MICH -14.5, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Michigan",
@@ -398,7 +398,7 @@
   {
     "datetime": "Sat, 10/31, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "MRSH -2.5, O/U 43.5",
+    "odds": "MRSH -3, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Marshall",
@@ -420,7 +420,7 @@
   {
     "datetime": "Sat, 10/31, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "GA ST -6.5, O/U 57.5",
+    "odds": "GA ST -6, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Coastal Car.",
@@ -442,7 +442,7 @@
   {
     "datetime": "Sat, 10/31, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "KSU -1.5, O/U 47.5",
+    "odds": "COLO -1.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Kansas St.",
@@ -618,7 +618,7 @@
   {
     "datetime": "Sat, 10/31, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UGA -11.5, O/U 55.5",
+    "odds": "UGA -12, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Florida",
@@ -860,7 +860,7 @@
   {
     "datetime": "Sat, 10/31, 3:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "PSU -7.5, O/U 54.5",
+    "odds": "PSU -9, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Purdue",
@@ -948,7 +948,7 @@
   {
     "datetime": "Sat, 10/31, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "FSU -6, O/U 50.5",
+    "odds": "FSU -6, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Clemson",
