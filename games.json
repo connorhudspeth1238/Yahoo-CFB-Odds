@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Fri, 10/30, 6:00 PM CDT",
+    "datetime": "Fri, 10/30 CDT",
     "status": "LIVE",
-    "odds": "TULN -8, O/U 46.5",
+    "odds": "ESPN2",
     "tv": "",
     "awayTeam": {
       "name": "Tulane",
       "mascot": "TULN",
       "rank": "",
-      "record": "3-4",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/8BJyV34nrQ_tm0A7Dr8tew--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260702/Tulane_Green_Wave_500.png.cf.webp"
     },
@@ -16,21 +16,21 @@
       "name": "Charlotte",
       "mascot": "CHAR",
       "rank": "",
-      "record": "1-6",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/rlIs3DENNFedg1Am5Qv1wA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20210208/500x500/charlotte_s.png.cf.webp"
     }
   },
   {
-    "datetime": "Fri, 10/30, 6:30 PM CDT",
+    "datetime": "Fri, 10/30 CDT",
     "status": "UPCOMING",
-    "odds": "BAY -2.5, O/U 49.5",
+    "odds": "ESPN",
     "tv": "",
     "awayTeam": {
       "name": "Baylor",
       "mascot": "BAY",
       "rank": "",
-      "record": "4-3",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/HA8r92fhvfa9KY9QzAzq1w--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaab/20211221/500x500/Baylor-Bears.png.cf.webp"
     },
@@ -38,7 +38,7 @@
       "name": "UCF",
       "mascot": "",
       "rank": "",
-      "record": "4-3",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/JMwpbnCM8QUVn2cLAoj26Q--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181217/500x500/ucf.png.cf.webp"
     }
@@ -68,7 +68,7 @@
   {
     "datetime": "Sat, 10/31, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "SMU -10.5, O/U 58.5",
+    "odds": "SMU -10, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "SMU",
@@ -156,7 +156,7 @@
   {
     "datetime": "Sat, 10/31, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "NCST -9, O/U 56.5",
+    "odds": "NCST -9.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "California",
@@ -288,7 +288,7 @@
   {
     "datetime": "Sat, 10/31, 11:45 AM CDT",
     "status": "UPCOMING",
-    "odds": "MISS -11, O/U 57.5",
+    "odds": "MISS -11.5, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Auburn",
@@ -332,7 +332,7 @@
   {
     "datetime": "Sat, 10/31, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "COLO -2.5, O/U 46.5",
+    "odds": "COLO -3, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Kansas St.",
@@ -354,7 +354,7 @@
   {
     "datetime": "Sat, 10/31, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "GA ST -4.5, O/U 56.5",
+    "odds": "GA ST -4, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Coastal Car.",
@@ -860,7 +860,7 @@
   {
     "datetime": "Sat, 10/31, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "SDSU -2.5, O/U 48.5",
+    "odds": "SDSU -2.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Washington St.",
