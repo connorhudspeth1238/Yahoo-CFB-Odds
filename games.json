@@ -1,6 +1,6 @@
 [
   {
-    "datetime": "Tue, 10/27 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "DEL +2.5, O 55.5",
     "tv": "",
@@ -22,7 +22,7 @@
     }
   },
   {
-    "datetime": "Tue, 10/27 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "MOST -5.5, U 51.5",
     "tv": "",
@@ -44,7 +44,7 @@
     }
   },
   {
-    "datetime": "Wed, 10/28 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "KENN -1.5, O 49.5",
     "tv": "",
@@ -66,7 +66,7 @@
     }
   },
   {
-    "datetime": "Wed, 10/28 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "JVST -3, U 50.5",
     "tv": "",
@@ -88,7 +88,7 @@
     }
   },
   {
-    "datetime": "Thu, 10/29 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "FAU +15.5, O 78.5",
     "tv": "",
@@ -110,7 +110,7 @@
     }
   },
   {
-    "datetime": "Thu, 10/29 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "TROY +17, U 52.5",
     "tv": "",
@@ -132,7 +132,7 @@
     }
   },
   {
-    "datetime": "Fri, 10/30 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "CHAR +8, O 47.5",
     "tv": "",
@@ -154,7 +154,7 @@
     }
   },
   {
-    "datetime": "Fri, 10/30 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "BAY -2.5, O 49.5",
     "tv": "",
@@ -176,7 +176,7 @@
     }
   },
   {
-    "datetime": "Fri, 10/30 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "SAC +7.5, U 47.5",
     "tv": "",
@@ -198,7 +198,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "BGSU +14, U 44.5",
     "tv": "",
@@ -220,7 +220,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "S FLA -7.5, U 43.5",
     "tv": "",
@@ -242,7 +242,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "NAVY +31, U 54.5",
     "tv": "",
@@ -264,7 +264,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "TTU -3.5, O 55.5",
     "tv": "",
@@ -286,7 +286,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "IOWA -2.5, U 36.5",
     "tv": "",
@@ -308,7 +308,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "SYR +8.5, U 58.5",
     "tv": "",
@@ -330,7 +330,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "DUKE -7, U 49.5",
     "tv": "",
@@ -352,7 +352,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "U 53.5",
     "tv": "",
@@ -374,7 +374,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "NCST -9.5, U 56.5",
     "tv": "",
@@ -396,7 +396,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "RUTG +16.5, O 47.5",
     "tv": "",
@@ -418,7 +418,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "MISS -10.5, O 58.5",
     "tv": "",
@@ -440,7 +440,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "MRSH -3, O 45.5",
     "tv": "",
@@ -462,7 +462,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "CCU +3.5, U 55.5",
     "tv": "",
@@ -484,7 +484,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "O 47.5",
     "tv": "",
@@ -506,7 +506,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "LT -6.5, U 57.5",
     "tv": "",
@@ -528,7 +528,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "AFA -2, O 52.5",
     "tv": "",
@@ -550,7 +550,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "ECU -4, U 51.5",
     "tv": "",
@@ -572,7 +572,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "LOU -22.5, O 59.5",
     "tv": "",
@@ -594,7 +594,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "LIB -13.5, O 45.5",
     "tv": "",
@@ -616,7 +616,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "ASU +17.5, O 46.5",
     "tv": "",
@@ -638,7 +638,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "U 45.5",
     "tv": "",
@@ -660,7 +660,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "USM -3.5, O 54.5",
     "tv": "",
@@ -682,7 +682,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "UGA -11.5, U 56.5",
     "tv": "",
@@ -704,7 +704,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "NDSU -23.5, U 44.5",
     "tv": "",
@@ -726,7 +726,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "ORE -4, O 47.5",
     "tv": "",
@@ -748,7 +748,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "USU -9.5, U 59.5",
     "tv": "",
@@ -770,7 +770,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "MINN +20.5, U 40.5",
     "tv": "",
@@ -792,7 +792,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "UTAH -7.5, O 56.5",
     "tv": "",
@@ -814,7 +814,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "WAKE -13.5, O 48.5",
     "tv": "",
@@ -836,7 +836,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "SJSU +15.5, U 43.5",
     "tv": "",
@@ -858,7 +858,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "SC +3.5, O 44.5",
     "tv": "",
@@ -880,7 +880,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "UCLA -22.5, U 42.5",
     "tv": "",
@@ -902,7 +902,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "PSU -10, U 55.5",
     "tv": "",
@@ -924,7 +924,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "GASO -6.5, U 54.5",
     "tv": "",
@@ -946,7 +946,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "SDSU -2.5, U 48.5",
     "tv": "",
@@ -968,7 +968,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "ISU +10, O 58.5",
     "tv": "",
@@ -990,7 +990,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "CLEM +5, O 50.5",
     "tv": "",
@@ -1012,7 +1012,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "TEX -20, U 50.5",
     "tv": "",
@@ -1034,7 +1034,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "USC +6.5, U 50.5",
     "tv": "",
@@ -1056,7 +1056,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "UNC +13.5, O 52.5",
     "tv": "",
@@ -1078,7 +1078,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "PITT -9.5, U 54.5",
     "tv": "",
@@ -1100,7 +1100,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "MIZZ -10.5, U 48.5",
     "tv": "",
@@ -1122,7 +1122,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "UW +7.5, U 49.5",
     "tv": "",
@@ -1144,7 +1144,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "MEM -6, O 59.5",
     "tv": "",
@@ -1166,7 +1166,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "TXST +10, O 63.5",
     "tv": "",
@@ -1188,7 +1188,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "NIU +21.5, U 55.5",
     "tv": "",
@@ -1210,7 +1210,7 @@
     }
   },
   {
-    "datetime": "Sat, 10/31 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "FRES +6, O 56.5",
     "tv": "",
