@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Wed, 11/4, 6:00 PM CDT",
+    "datetime": "Wed, 11/4 CDT",
     "status": "UPCOMING",
-    "odds": "TOL -25, O/U 52.5",
+    "odds": "CBSS",
     "tv": "",
     "awayTeam": {
       "name": "Toledo",
       "mascot": "TOL",
       "rank": "",
-      "record": "6-2",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/vdw_yofiu..U8QWCLnnamA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181205/500x500/toledo_s.png.cf.webp"
     },
@@ -16,21 +16,21 @@
       "name": "Sacramento St.",
       "mascot": "SAC",
       "rank": "",
-      "record": "2-7",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/Wr6C9pu4KvzmxKqYD8vNJw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181218/500x500/sacramento_state.png.cf.webp"
     }
   },
   {
-    "datetime": "Wed, 11/4, 6:00 PM CDT",
+    "datetime": "Wed, 11/4 CDT",
     "status": "UPCOMING",
-    "odds": "UMASS -2.5, O/U 49.5",
+    "odds": "ESNU",
     "tv": "",
     "awayTeam": {
       "name": "Ball St.",
       "mascot": "BALL",
       "rank": "",
-      "record": "3-5",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/FvZmthnzxC_.VcxThOF0Qw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181206/500x500/ball_state.png.cf.webp"
     },
@@ -38,21 +38,21 @@
       "name": "UMass",
       "mascot": "UMASS",
       "rank": "",
-      "record": "4-4",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/u84oXGDH1qwWHogqTfqJCQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260701/uMass_Minutemen_500.png.cf.webp"
     }
   },
   {
-    "datetime": "Wed, 11/4, 6:30 PM CDT",
+    "datetime": "Wed, 11/4 CDT",
     "status": "UPCOMING",
-    "odds": "EMU -1.5, O/U 44.5",
+    "odds": "ESPN2",
     "tv": "",
     "awayTeam": {
       "name": "Cent. Michigan",
       "mascot": "CMU",
       "rank": "",
-      "record": "3-5",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/JsEwzBdjufEgqGSIe65uUg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181212/500x500/central_michigan.png.cf.webp"
     },
@@ -60,7 +60,7 @@
       "name": "East. Michigan",
       "mascot": "EMU",
       "rank": "",
-      "record": "4-5",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/r.wevtMy74uO65aa3ZtNNw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181205/500x500/eastern_michigan_s.png.cf.webp"
     }
@@ -156,7 +156,7 @@
   {
     "datetime": "Fri, 11/6, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NEB -4.5, O/U 50.5",
+    "odds": "NEB -4.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Nebraska",
@@ -200,7 +200,7 @@
   {
     "datetime": "Fri, 11/6, 9:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "ARIZ -8.5, O/U 44.5",
+    "odds": "ARIZ -7.5, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "TCU",
@@ -266,7 +266,7 @@
   {
     "datetime": "Sat, 11/7, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "UTAH -5.5, O/U 48.5",
+    "odds": "UTAH -5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "BYU",
@@ -310,7 +310,7 @@
   {
     "datetime": "Sat, 11/7, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "FSU -6.5, O/U 50.5",
+    "odds": "FSU -6.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Florida St.",
@@ -332,7 +332,7 @@
   {
     "datetime": "Sat, 11/7, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "TLSA -1.5, O/U 49.5",
+    "odds": "TLSA -2.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Tulsa",
@@ -530,7 +530,7 @@
   {
     "datetime": "Sat, 11/7, 2:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "DEL -2.5, O/U 56.5",
+    "odds": "DEL -2, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Delaware",
@@ -640,7 +640,7 @@
   {
     "datetime": "Sat, 11/7, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "WAKE -46.5, O/U 59.5",
+    "odds": "WAKE -47.5, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "Merrimack",
@@ -750,7 +750,7 @@
   {
     "datetime": "Sat, 11/7, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "LSU -5.5, O/U 52.5",
+    "odds": "LSU -6, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "Alabama",
@@ -838,7 +838,7 @@
   {
     "datetime": "Sat, 11/7, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "SJSU -10, O/U 51.5",
+    "odds": "SJSU -9.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Northern Illinois",
@@ -1124,7 +1124,7 @@
   {
     "datetime": "Sat, 11/7, 6:30 PM CDT",
     "status": "LIVE",
-    "odds": "ND -7, O/U 56.5",
+    "odds": "ND -7.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Miami (FL)",
@@ -1146,7 +1146,7 @@
   {
     "datetime": "Sat, 11/7, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ASU -3, O/U 48.5",
+    "odds": "ASU -3.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Colorado",
