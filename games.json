@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Fri, 11/6, 6:00 PM CDT",
+    "datetime": "Fri, 11/6 CDT",
     "status": "UPCOMING",
-    "odds": "SMU -5.5, O/U 56.5",
+    "odds": "ESPN",
     "tv": "",
     "awayTeam": {
       "name": "Virginia Tech",
       "mascot": "",
       "rank": "",
-      "record": "6-2",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/v6rYEi8Ce4TKSTZokqSorA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181205/500x500/virginia_tech.png.cf.webp"
     },
@@ -16,21 +16,21 @@
       "name": "SMU",
       "mascot": "",
       "rank": "",
-      "record": "6-2",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/wqmpYmc2rLxuLwEieyB6Eg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20230830/500x500/SMU.png.cf.webp"
     }
   },
   {
-    "datetime": "Fri, 11/6, 6:30 PM CDT",
+    "datetime": "Fri, 11/6 CDT",
     "status": "UPCOMING",
-    "odds": "ECU -1, O/U 39.5",
+    "odds": "ESPN2",
     "tv": "",
     "awayTeam": {
       "name": "South Florida",
       "mascot": "S FLA",
       "rank": "",
-      "record": "6-2",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/Tsvt4AcLfi6HfWbmIwft5g--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181204/500x500/south_florida.png.cf.webp"
     },
@@ -38,7 +38,7 @@
       "name": "East Carolina",
       "mascot": "ECU",
       "rank": "",
-      "record": "4-4",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/zM8ONXAvcPaHps4gwdk6iA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181207/500x500/east_carolina.png.cf.webp"
     }
@@ -46,7 +46,7 @@
   {
     "datetime": "Fri, 11/6, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NEB -4, O/U 50.5",
+    "odds": "NEB -4.5, O/U",
     "tv": "",
     "awayTeam": {
       "name": "Nebraska",
@@ -134,7 +134,7 @@
   {
     "datetime": "Sat, 11/7, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "TEX -3, O/U 42.5",
+    "odds": "TEX -2.5, O/U 42.5",
     "tv": "",
     "awayTeam": {
       "name": "Texas",
@@ -244,7 +244,7 @@
   {
     "datetime": "Sat, 11/7, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "UTAH -4, O/U 48.5",
+    "odds": "UTAH -4.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "BYU",
@@ -288,7 +288,7 @@
   {
     "datetime": "Sat, 11/7, 11:30 AM CDT",
     "status": "UPCOMING",
-    "odds": "DUKE -4.5, O/U 51.5",
+    "odds": "DUKE -4, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Duke",
@@ -310,7 +310,7 @@
   {
     "datetime": "Sat, 11/7, 11:30 AM CDT",
     "status": "UPCOMING",
-    "odds": "PUR -5.5, O/U 56.5",
+    "odds": "PUR -5.5, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Maryland",
@@ -354,7 +354,7 @@
   {
     "datetime": "Sat, 11/7, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "CCU -6.5, O/U 43.5",
+    "odds": "CCU -6.5, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Old Dominion",
@@ -486,7 +486,7 @@
   {
     "datetime": "Sat, 11/7, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "GASO -10.5, O/U 54.5",
+    "odds": "GASO -8.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Marshall",
@@ -596,7 +596,7 @@
   {
     "datetime": "Sat, 11/7, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UW -2.5, O/U 44.5",
+    "odds": "UW -2.5, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Penn St.",
@@ -662,7 +662,7 @@
   {
     "datetime": "Sat, 11/7, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "WAKE -47.5, O/U 58.5",
+    "odds": "WAKE -46.5, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "Merrimack",
@@ -684,7 +684,7 @@
   {
     "datetime": "Sat, 11/7, 2:45 PM CDT",
     "status": "UPCOMING",
-    "odds": "KU -3, O/U 47.5",
+    "odds": "KU -3.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "UCF",
@@ -816,7 +816,7 @@
   {
     "datetime": "Sat, 11/7, 3:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "MSST -3, O/U 48.5",
+    "odds": "MSST -2.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Vanderbilt",
@@ -838,7 +838,7 @@
   {
     "datetime": "Sat, 11/7, 4:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "LA -7.5, O/U 57.5",
+    "odds": "LA -7, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "South Alabama",
@@ -860,7 +860,7 @@
   {
     "datetime": "Sat, 11/7, 5:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BSU -17, O/U 68.5",
+    "odds": "BSU -16.5, O/U 68.5",
     "tv": "",
     "awayTeam": {
       "name": "Boise St.",
@@ -1190,7 +1190,7 @@
   {
     "datetime": "Sat, 11/7, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORST -6.5, O/U 71.5",
+    "odds": "ORST -6.5, O/U 70.5",
     "tv": "",
     "awayTeam": {
       "name": "Texas St.",
