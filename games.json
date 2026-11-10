@@ -178,7 +178,7 @@
   {
     "datetime": "Fri, 11/13, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "PITT -3.5, O/U 54.5",
+    "odds": "PITT -3.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Florida St.",
@@ -486,7 +486,7 @@
   {
     "datetime": "Sat, 11/14, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "CCU -1.5, O/U 51.5",
+    "odds": "CCU -1.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Arkansas St.",
@@ -948,7 +948,7 @@
   {
     "datetime": "Sat, 11/14, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TXST -9.5, O/U 60.5",
+    "odds": "TXST -9.5, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "Fresno St.",
@@ -1036,7 +1036,7 @@
   {
     "datetime": "Sat, 11/14, 4:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "WVU -2.5, O/U 67.5",
+    "odds": "WVU -3, O/U 67.5",
     "tv": "",
     "awayTeam": {
       "name": "Kansas",
