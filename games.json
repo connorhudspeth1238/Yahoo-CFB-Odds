@@ -2,7 +2,7 @@
   {
     "datetime": "Wed, 11/11, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "BUFF -1.5, O/U 51.5",
+    "odds": "BUFF -1.5, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "Buffalo",
@@ -46,7 +46,7 @@
   {
     "datetime": "Wed, 11/11, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TOL -14, O/U 51.5",
+    "odds": "TOL -14, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "UMass",
@@ -288,7 +288,7 @@
   {
     "datetime": "Sat, 11/14, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "SMU -1, O/U 61.5",
+    "odds": "SMU -1.5, O/U 61.5",
     "tv": "",
     "awayTeam": {
       "name": "Wake Forest",
@@ -376,7 +376,7 @@
   {
     "datetime": "Sat, 11/14, 11:30 AM CDT",
     "status": "UPCOMING",
-    "odds": "NEB -13.5, O/U 51.5",
+    "odds": "NEB -14, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "Nebraska",
@@ -398,7 +398,7 @@
   {
     "datetime": "Sat, 11/14, 11:45 AM CDT",
     "status": "UPCOMING",
-    "odds": "ALA -16, O/U 50.5",
+    "odds": "ALA -17, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Alabama",
@@ -486,7 +486,7 @@
   {
     "datetime": "Sat, 11/14, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "RICE -2, O/U 48.5",
+    "odds": "RICE -2.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Tulane",
@@ -662,7 +662,7 @@
   {
     "datetime": "Sat, 11/14, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "BYU -7.5, O/U 49.5",
+    "odds": "BYU -7.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Baylor",
@@ -794,7 +794,7 @@
   {
     "datetime": "Sat, 11/14, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UCF -3, O/U 49.5",
+    "odds": "UCF -3.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Arizona St.",
@@ -816,7 +816,7 @@
   {
     "datetime": "Sat, 11/14, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "IND -7.5, O/U 50.5",
+    "odds": "IND -10, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "USC",
@@ -904,7 +904,7 @@
   {
     "datetime": "Sat, 11/14, 3:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "MISS -1.5, O/U 49.5",
+    "odds": "OU -1, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Mississippi",
@@ -1168,7 +1168,7 @@
   {
     "datetime": "Sat, 11/14, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "IOWA -17, O/U 47.5",
+    "odds": "IOWA -17.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Purdue",
@@ -1190,7 +1190,7 @@
   {
     "datetime": "Sat, 11/14, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "VT -15.5, O/U 58.5",
+    "odds": "VT -15, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "Stanford",
@@ -1366,7 +1366,7 @@
   {
     "datetime": "Sat, 11/14, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "WSU -9, O/U 67.5",
+    "odds": "WSU -9.5, O/U 66.5",
     "tv": "",
     "awayTeam": {
       "name": "Colorado St.",
