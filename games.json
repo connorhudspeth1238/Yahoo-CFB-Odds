@@ -24,7 +24,7 @@
   {
     "datetime": "Wed, 11/11, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "CMU -17.5, O/U 43.5",
+    "odds": "CMU -17.5, O/U 42.5",
     "tv": "",
     "awayTeam": {
       "name": "Sacramento St.",
@@ -178,7 +178,7 @@
   {
     "datetime": "Sat, 11/14, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "ISU -3, O/U 60.5",
+    "odds": "ISU -3, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "Cincinnati",
@@ -288,7 +288,7 @@
   {
     "datetime": "Sat, 11/14, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "SMU -1, O/U 60.5",
+    "odds": "SMU -1, O/U 61.5",
     "tv": "",
     "awayTeam": {
       "name": "Wake Forest",
@@ -398,7 +398,7 @@
   {
     "datetime": "Sat, 11/14, 11:45 AM CDT",
     "status": "UPCOMING",
-    "odds": "ALA -15.5, O/U 50.5",
+    "odds": "ALA -16, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Alabama",
@@ -420,7 +420,7 @@
   {
     "datetime": "Sat, 11/14, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "CCU -1.5, O/U 50.5",
+    "odds": "CCU -1.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Arkansas St.",
@@ -486,7 +486,7 @@
   {
     "datetime": "Sat, 11/14, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "RICE -2.5, O/U 48.5",
+    "odds": "RICE -2, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Tulane",
@@ -574,7 +574,7 @@
   {
     "datetime": "Sat, 11/14, 2:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "DEL -5, O/U 54.5",
+    "odds": "DEL -5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Florida Intl.",
@@ -684,7 +684,7 @@
   {
     "datetime": "Sat, 11/14, 2:30 PM CDT",
     "status": "LIVE",
-    "odds": "ND -29, O/U 52.5",
+    "odds": "ND -29.5, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "Boston Coll.",
@@ -1190,7 +1190,7 @@
   {
     "datetime": "Sat, 11/14, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "VT -15, O/U 58.5",
+    "odds": "VT -15.5, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "Stanford",
@@ -1366,7 +1366,7 @@
   {
     "datetime": "Sat, 11/14, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "WSU -9.5, O/U 67.5",
+    "odds": "WSU -9, O/U 67.5",
     "tv": "",
     "awayTeam": {
       "name": "Colorado St.",
