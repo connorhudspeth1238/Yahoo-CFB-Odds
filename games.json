@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Tue, 11/10, 6:00 PM CDT",
+    "datetime": "Tue, 11/10 CDT",
     "status": "UPCOMING",
-    "odds": "BGSU -3.5, O/U 41.5",
+    "odds": "ESNU",
     "tv": "",
     "awayTeam": {
       "name": "Kent St.",
       "mascot": "KENT",
       "rank": "",
-      "record": "3-6",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/1aOe.9po7EqOttcam1wYIg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181210/500x500/kent_state.png.cf.webp"
     },
@@ -16,21 +16,21 @@
       "name": "Bowling Green",
       "mascot": "BGSU",
       "rank": "",
-      "record": "2-7",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/yOJPi0SLXimy_Kr69hWlxA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181210/500x500/bowling_green.png.cf.webp"
     }
   },
   {
-    "datetime": "Tue, 11/10, 6:00 PM CDT",
+    "datetime": "Tue, 11/10 CDT",
     "status": "UPCOMING",
-    "odds": "WMU -15, O/U 50.5",
+    "odds": "WMU -28.5, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "W. Michigan",
       "mascot": "WMU",
       "rank": "",
-      "record": "6-3",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/v6hwmmxQFqR4bgIOXjYOYg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20251016/500px/westernmichigan.png.cf.webp"
     },
@@ -38,21 +38,21 @@
       "name": "Akron",
       "mascot": "AKR",
       "rank": "",
-      "record": "1-8",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/nbLzkKBoXWXKHQLcX3bC2w--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260701/arkron_500.png.cf.webp"
     }
   },
   {
-    "datetime": "Tue, 11/10, 7:00 PM CDT",
+    "datetime": "Tue, 11/10 CDT",
     "status": "UPCOMING",
-    "odds": "OHIO -1.5, O/U 47.5",
+    "odds": "ESPN2",
     "tv": "",
     "awayTeam": {
       "name": "Ohio",
       "mascot": "OHIO",
       "rank": "",
-      "record": "7-2",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/MAUfB9f1pskokTXJu0lCMA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260702/Ohio500.png.cf.webp"
     },
@@ -60,7 +60,7 @@
       "name": "Miami (OH)",
       "mascot": "",
       "rank": "",
-      "record": "5-4",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/_N2Pvw_rLVg2a98e_kzXoQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/ncaaf/20181205/500x500/miami_oh.png.cf.webp"
     }
@@ -68,7 +68,7 @@
   {
     "datetime": "Wed, 11/11, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "BUFF -2.5, O/U 51.5",
+    "odds": "BUFF -1.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Buffalo",
@@ -310,7 +310,7 @@
   {
     "datetime": "Sat, 11/14, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "WAKE -1, O/U 61.5",
+    "odds": "WAKE -1, O/U 60.5",
     "tv": "",
     "awayTeam": {
       "name": "Wake Forest",
@@ -398,7 +398,7 @@
   {
     "datetime": "Sat, 11/14, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "WIS -8.5, O/U 43.5",
+    "odds": "WIS -8, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Wisconsin",
@@ -684,7 +684,7 @@
   {
     "datetime": "Sat, 11/14, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "IND -7.5, O/U 49.5",
+    "odds": "IND -7.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "USC",
@@ -1234,7 +1234,7 @@
   {
     "datetime": "Sat, 11/14, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "VT -15.5, O/U 58.5",
+    "odds": "VT -15, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "Stanford",
@@ -1344,7 +1344,7 @@
   {
     "datetime": "Sat, 11/14, 8:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "UNT -2.5, O/U 76.5",
+    "odds": "UNT -2.5, O/U 75.5",
     "tv": "",
     "awayTeam": {
       "name": "North Texas",
