@@ -2,7 +2,7 @@
   {
     "datetime": "Sat, 11/14, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "OSU -14, O/U 44.5",
+    "odds": "OSU -14, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Northwestern",
@@ -46,7 +46,7 @@
   {
     "datetime": "Sat, 11/14, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "ISU -3, O/U 58.5",
+    "odds": "ISU -2.5, O/U 58.5",
     "tv": "",
     "awayTeam": {
       "name": "Cincinnati",
@@ -90,7 +90,7 @@
   {
     "datetime": "Sat, 11/14, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "SYR -2.5, O/U 53.5",
+    "odds": "SYR -2.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Syracuse",
@@ -112,7 +112,7 @@
   {
     "datetime": "Sat, 11/14, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "JMU -4.5, O/U 57.5",
+    "odds": "JMU -4.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "James Madison",
@@ -134,7 +134,7 @@
   {
     "datetime": "Sat, 11/14, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "WIS -9, O/U 42.5",
+    "odds": "WIS -9.5, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Wisconsin",
@@ -178,7 +178,7 @@
   {
     "datetime": "Sat, 11/14, 11:30 AM CDT",
     "status": "UPCOMING",
-    "odds": "CLEM -15, O/U 47.5",
+    "odds": "CLEM -15.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Georgia Tech",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sat, 11/14, 11:45 AM CDT",
     "status": "UPCOMING",
-    "odds": "ALA -14, O/U 47.5",
+    "odds": "ALA -14, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Alabama",
@@ -222,7 +222,7 @@
   {
     "datetime": "Sat, 11/14, 12:00 PM CDT",
     "status": "LIVE",
-    "odds": "ECU -11, O/U 45.5",
+    "odds": "ECU -10.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "East Carolina",
@@ -288,7 +288,7 @@
   {
     "datetime": "Sat, 11/14, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TCU -13, O/U 44.5",
+    "odds": "TCU -13.5, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Kansas St.",
@@ -310,7 +310,7 @@
   {
     "datetime": "Sat, 11/14, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "KENN -7.5, O/U 46.5",
+    "odds": "KENN -7.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Kennesaw St.",
@@ -398,7 +398,7 @@
   {
     "datetime": "Sat, 11/14, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "NEV -5.5, O/U 47.5",
+    "odds": "NEV -6, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Nevada",
@@ -420,7 +420,7 @@
   {
     "datetime": "Sat, 11/14, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORE -10.5, O/U 38.5",
+    "odds": "ORE -10, O/U 39.5",
     "tv": "",
     "awayTeam": {
       "name": "Michigan",
@@ -442,7 +442,7 @@
   {
     "datetime": "Sat, 11/14, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UGA -16, O/U 47.5",
+    "odds": "UGA -16.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Missouri",
@@ -464,7 +464,7 @@
   {
     "datetime": "Sat, 11/14, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "IND -9.5, O/U 50.5",
+    "odds": "IND -9.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "USC",
@@ -486,7 +486,7 @@
   {
     "datetime": "Sat, 11/14, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "GASO -6, O/U 56.5",
+    "odds": "GASO -5.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "Georgia Southern",
@@ -684,7 +684,7 @@
   {
     "datetime": "Sat, 11/14, 4:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "LT -17, O/U 56.5",
+    "odds": "LT -17.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Southern Miss",
@@ -750,7 +750,7 @@
   {
     "datetime": "Sat, 11/14, 5:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BSU -16, O/U 63.5",
+    "odds": "BSU -16.5, O/U 63.5",
     "tv": "",
     "awayTeam": {
       "name": "Oregon St.",
@@ -860,7 +860,7 @@
   {
     "datetime": "Sat, 11/14, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "AFA -13.5, O/U 48.5",
+    "odds": "AFA -14, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "San Jose St.",
@@ -904,7 +904,7 @@
   {
     "datetime": "Sat, 11/14, 6:00 PM CDT",
     "status": "LIVE",
-    "odds": "PSU -11.5, O/U 42.5",
+    "odds": "PSU -12.5, O/U 42.5",
     "tv": "",
     "awayTeam": {
       "name": "Minnesota",
@@ -926,7 +926,7 @@
   {
     "datetime": "Sat, 11/14, 6:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "TLSA -6.5, O/U 73.5",
+    "odds": "TLSA -6.5, O/U 72.5",
     "tv": "",
     "awayTeam": {
       "name": "Florida Atlantic",
@@ -948,7 +948,7 @@
   {
     "datetime": "Sat, 11/14, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "VT -15.5, O/U 57.5",
+    "odds": "VT -16.5, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Stanford",
@@ -1014,7 +1014,7 @@
   {
     "datetime": "Sat, 11/14, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UNM -16.5, O/U 46.5",
+    "odds": "UNM -17.5, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "UNLV",
@@ -1168,7 +1168,7 @@
   {
     "datetime": "Sat, 11/14, 9:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "WSU -9, O/U 65.5",
+    "odds": "WSU -9, O/U 64.5",
     "tv": "",
     "awayTeam": {
       "name": "Colorado St.",
@@ -1190,7 +1190,7 @@
   {
     "datetime": "Sat, 11/14, 10:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NDSU -7, O/U 38.5",
+    "odds": "NDSU -7, O/U 39.5",
     "tv": "",
     "awayTeam": {
       "name": "N. Dak. St.",
