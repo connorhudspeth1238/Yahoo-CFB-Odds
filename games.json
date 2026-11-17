@@ -24,7 +24,7 @@
   {
     "datetime": "Tue, 11/17, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "OHIO -11, O/U 49.5",
+    "odds": "OHIO -11.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Ball St.",
@@ -156,7 +156,7 @@
   {
     "datetime": "Fri, 11/20, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "DUKE -12, O/U 40.5",
+    "odds": "DUKE -13, O/U 40.5",
     "tv": "",
     "awayTeam": {
       "name": "Clemson",
@@ -398,7 +398,7 @@
   {
     "datetime": "Sat, 11/21, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "WIS -5.5, O/U 46.5",
+    "odds": "WIS -6, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Wisconsin",
@@ -508,7 +508,7 @@
   {
     "datetime": "Sat, 11/21, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "WAKE -20.5, O/U 56.5",
+    "odds": "WAKE -21, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Wake Forest",
@@ -882,7 +882,7 @@
   {
     "datetime": "Sat, 11/21, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "CONN -13, O/U 47.5",
+    "odds": "CONN -13.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Old Dominion",
@@ -904,7 +904,7 @@
   {
     "datetime": "Sat, 11/21, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UCLA -4, O/U 37.5",
+    "odds": "UCLA -3.5, O/U 37.5",
     "tv": "",
     "awayTeam": {
       "name": "UCLA",
@@ -1102,7 +1102,7 @@
   {
     "datetime": "Sat, 11/21, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "GA ST -1.5, O/U 56.5",
+    "odds": "MRSH -1, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Georgia St.",
@@ -1124,7 +1124,7 @@
   {
     "datetime": "Sat, 11/21, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "S ALA -4, O/U 66.5",
+    "odds": "S ALA -4, O/U 65.5",
     "tv": "",
     "awayTeam": {
       "name": "South Alabama",
