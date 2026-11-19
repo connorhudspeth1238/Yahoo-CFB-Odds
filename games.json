@@ -2,7 +2,7 @@
   {
     "datetime": "Thu, 11/19, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TEM -3, O/U 51.5",
+    "odds": "TEM -2.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Rice",
@@ -156,7 +156,7 @@
   {
     "datetime": "Sat, 11/21, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "CIN -3, O/U 58.5",
+    "odds": "CIN -3, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Colorado",
@@ -332,7 +332,7 @@
   {
     "datetime": "Sat, 11/21, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "WIS -5.5, O/U 46.5",
+    "odds": "WIS -6, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Wisconsin",
@@ -508,7 +508,7 @@
   {
     "datetime": "Sat, 11/21, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ALA -48.5, O/U 58.5",
+    "odds": "ALA -48.5, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Chattanooga",
@@ -860,7 +860,7 @@
   {
     "datetime": "Sat, 11/21, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "PSU -24.5, O/U 50.5",
+    "odds": "PSU -24.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Rutgers",
@@ -1014,7 +1014,7 @@
   {
     "datetime": "Sat, 11/21, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "GASO -8.5, O/U 48.5",
+    "odds": "GASO -9.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Georgia Southern",
@@ -1168,7 +1168,7 @@
   {
     "datetime": "Sat, 11/21, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "UGA -15.5, O/U 51.5",
+    "odds": "UGA -15, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Georgia",
