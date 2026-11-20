@@ -2,7 +2,7 @@
   {
     "datetime": "Fri, 11/20, 5:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "UCF -1.5, O/U 48.5",
+    "odds": "ISU -1.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Iowa St.",
@@ -24,7 +24,7 @@
   {
     "datetime": "Fri, 11/20, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "DUKE -13.5, O/U 41.5",
+    "odds": "DUKE -12.5, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Clemson",
@@ -46,7 +46,7 @@
   {
     "datetime": "Fri, 11/20, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TOL -16.5, O/U 47.5",
+    "odds": "TOL -16.5, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Bowling Green",
@@ -68,7 +68,7 @@
   {
     "datetime": "Fri, 11/20, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ORE -17.5, O/U 44.5",
+    "odds": "ORE -17.5, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Oregon",
@@ -90,7 +90,7 @@
   {
     "datetime": "Fri, 11/20, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "AFA -21.5, O/U 47.5",
+    "odds": "AFA -21.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "UTEP",
@@ -112,7 +112,7 @@
   {
     "datetime": "Fri, 11/20, 8:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "UNM -7.5, O/U 37.5",
+    "odds": "UNM -9.5, O/U 37.5",
     "tv": "",
     "awayTeam": {
       "name": "New Mexico",
@@ -442,7 +442,7 @@
   {
     "datetime": "Sat, 11/21, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "MSST -35.5, O/U 59.5",
+    "odds": "MSST -34.5, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "Tennessee Tech",
@@ -640,7 +640,7 @@
   {
     "datetime": "Sat, 11/21, 2:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "KENN -3, O/U 44.5",
+    "odds": "KENN -2.5, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Florida Intl.",
@@ -706,7 +706,7 @@
   {
     "datetime": "Sat, 11/21, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TTU -4.5, O/U 55.5",
+    "odds": "TTU -4.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Texas Tech",
@@ -904,7 +904,7 @@
   {
     "datetime": "Sat, 11/21, 2:45 PM CDT",
     "status": "UPCOMING",
-    "odds": "OU -7.5, O/U 38.5",
+    "odds": "OU -7.5, O/U 37.5",
     "tv": "",
     "awayTeam": {
       "name": "Texas A&M",
@@ -970,7 +970,7 @@
   {
     "datetime": "Sat, 11/21, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "GASO -9.5, O/U 48.5",
+    "odds": "GASO -9.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Georgia Southern",
@@ -992,7 +992,7 @@
   {
     "datetime": "Sat, 11/21, 3:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "S ALA -3.5, O/U 66.5",
+    "odds": "S ALA -4.5, O/U 66.5",
     "tv": "",
     "awayTeam": {
       "name": "South Alabama",
@@ -1146,7 +1146,7 @@
   {
     "datetime": "Sat, 11/21, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "MIZZ -5, O/U 48.5",
+    "odds": "MIZZ -4.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Kentucky",
@@ -1212,7 +1212,7 @@
   {
     "datetime": "Sat, 11/21, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "FRES -20, O/U 66.5",
+    "odds": "FRES -20.5, O/U 66.5",
     "tv": "",
     "awayTeam": {
       "name": "Colorado St.",
