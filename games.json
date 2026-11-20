@@ -46,7 +46,7 @@
   {
     "datetime": "Fri, 11/20, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TOL -16.5, O/U 48.5",
+    "odds": "TOL -16.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Bowling Green",
@@ -134,7 +134,7 @@
   {
     "datetime": "Sat, 11/21, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "BYU -5.5, O/U 46.5",
+    "odds": "BYU -5.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "BYU",
@@ -156,7 +156,7 @@
   {
     "datetime": "Sat, 11/21, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "FLA -13.5, O/U 46.5",
+    "odds": "FLA -13.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Vanderbilt",
@@ -310,7 +310,7 @@
   {
     "datetime": "Sat, 11/21, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "MEM -3, O/U 67.5",
+    "odds": "MEM -2.5, O/U 67.5",
     "tv": "",
     "awayTeam": {
       "name": "Memphis",
@@ -486,7 +486,7 @@
   {
     "datetime": "Sat, 11/21, 1:00 PM CDT",
     "status": "LIVE",
-    "odds": "TLSA -22.5, O/U 52.5",
+    "odds": "TLSA -22.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Charlotte",
@@ -552,7 +552,7 @@
   {
     "datetime": "Sat, 11/21, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "MTSU -6, O/U 48.5",
+    "odds": "MTSU -6.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Middle Tenn. St.",
@@ -640,7 +640,7 @@
   {
     "datetime": "Sat, 11/21, 2:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "KENN -3.5, O/U 44.5",
+    "odds": "KENN -3, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Florida Intl.",
@@ -684,7 +684,7 @@
   {
     "datetime": "Sat, 11/21, 2:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "DEL -3, O/U 54.5",
+    "odds": "DEL -3, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Delaware",
@@ -772,7 +772,7 @@
   {
     "datetime": "Sat, 11/21, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "LSU -1, O/U 45.5",
+    "odds": "LSU -1.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "LSU",
@@ -816,7 +816,7 @@
   {
     "datetime": "Sat, 11/21, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "PSU -26, O/U 49.5",
+    "odds": "PSU -25.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Rutgers",
@@ -1080,7 +1080,7 @@
   {
     "datetime": "Sat, 11/21, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "LT -14, O/U 53.5",
+    "odds": "LT -14.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Arkansas St.",
@@ -1124,7 +1124,7 @@
   {
     "datetime": "Sat, 11/21, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ARIZ -7, O/U 52.5",
+    "odds": "ARIZ -7.5, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "Arizona",
@@ -1212,7 +1212,7 @@
   {
     "datetime": "Sat, 11/21, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "FRES -20.5, O/U 66.5",
+    "odds": "FRES -20, O/U 66.5",
     "tv": "",
     "awayTeam": {
       "name": "Colorado St.",
@@ -1300,7 +1300,7 @@
   {
     "datetime": "Sat, 11/21, 8:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "UTAH -7, O/U 46.5",
+    "odds": "UTAH -7.5, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Utah",
