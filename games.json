@@ -1,8 +1,8 @@
 [
   {
-    "datetime": "Sat, 11/21, 11:00 AM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "WAKE -21, O/U 56.5",
+    "odds": "WAKE -21.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Wake Forest",
@@ -22,7 +22,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 11:00 AM CDT",
+    "datetime": "",
     "status": "LIVE",
     "odds": "NW -2.5, O/U 41.5",
     "tv": "",
@@ -44,9 +44,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 11:00 AM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "WIS -6, O/U 46.5",
+    "odds": "WIS -4.5, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Wisconsin",
@@ -66,7 +66,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 11:00 AM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "OSU -3.5, O/U 41.5",
     "tv": "",
@@ -88,9 +88,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 11:00 AM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "BYU -5, O/U 46.5",
+    "odds": "BYU -4.5, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "BYU",
@@ -110,9 +110,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 11:00 AM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "FLA -13.5, O/U 45.5",
+    "odds": "FLA -13.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Vanderbilt",
@@ -132,7 +132,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 11:00 AM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "SYR -3, O/U 52.5",
     "tv": "",
@@ -154,9 +154,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 11:00 AM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "MISS -50.5, O/U 60.5",
+    "odds": "MISS -49.5, O/U 60.5",
     "tv": "",
     "awayTeam": {
       "name": "Wofford",
@@ -176,9 +176,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 11:00 AM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "ARMY -6, O/U 46.5",
+    "odds": "ARMY -4.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "East Carolina",
@@ -198,9 +198,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 11:00 AM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "UNT -6.5, O/U 55.5",
+    "odds": "UNT -7.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "North Texas",
@@ -220,9 +220,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 11:00 AM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "CIN -3, O/U 57.5",
+    "odds": "CIN -3, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Colorado",
@@ -242,9 +242,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 11:00 AM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "MEM -2.5, O/U 67.5",
+    "odds": "MEM -2.5, O/U 68.5",
     "tv": "",
     "awayTeam": {
       "name": "Memphis",
@@ -264,9 +264,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 11:30 AM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "UVA -1.5, O/U 42.5",
+    "odds": "UNC -1.5, O/U 42.5",
     "tv": "",
     "awayTeam": {
       "name": "N. Carolina",
@@ -286,9 +286,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 12:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "MSST -32.5, O/U 59.5",
+    "odds": "MSST -29.5, O/U 59.5",
     "tv": "",
     "awayTeam": {
       "name": "Tennessee Tech",
@@ -308,9 +308,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 12:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "HOU -7, O/U 71.5",
+    "odds": "HOU -7, O/U 72.5",
     "tv": "",
     "awayTeam": {
       "name": "Houston",
@@ -330,7 +330,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 12:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "LIB -17.5, O/U 53.5",
     "tv": "",
@@ -352,9 +352,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 1:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "ALA -48.5, O/U 58.5",
+    "odds": "ALA -48.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Chattanooga",
@@ -374,7 +374,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 1:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "JVST -10.5, O/U 52.5",
     "tv": "",
@@ -396,7 +396,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 1:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "MTSU -6.5, O/U 48.5",
     "tv": "",
@@ -418,7 +418,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 1:00 PM CDT",
+    "datetime": "",
     "status": "LIVE",
     "odds": "TLSA -22.5, O/U 51.5",
     "tv": "",
@@ -440,9 +440,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 1:30 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "APP -13.5, O/U 49.5",
+    "odds": "APP -14, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "LA Monroe",
@@ -462,7 +462,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 1:30 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "IOWA -8.5, O/U 40.5",
     "tv": "",
@@ -484,9 +484,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 1:30 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "S FLA -1.5, O/U 63.5",
+    "odds": "S FLA -1.5, O/U 64.5",
     "tv": "",
     "awayTeam": {
       "name": "South Florida",
@@ -506,7 +506,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 2:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "KENN -2.5, O/U 44.5",
     "tv": "",
@@ -528,7 +528,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 2:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "LA -10.5, O/U 49.5",
     "tv": "",
@@ -550,7 +550,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 2:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "DEL -3, O/U 53.5",
     "tv": "",
@@ -572,7 +572,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 2:30 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "UCLA -3.5, O/U 36.5",
     "tv": "",
@@ -594,7 +594,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 2:30 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "CONN -13.5, O/U 47.5",
     "tv": "",
@@ -616,9 +616,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 2:30 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "TEX -20.5, O/U 47.5",
+    "odds": "TEX -18.5, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Arkansas",
@@ -638,9 +638,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 2:30 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "TTU -4.5, O/U 56.5",
+    "odds": "TTU -5.5, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Texas Tech",
@@ -660,7 +660,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 2:30 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "AUB -48.5, O/U 59.5",
     "tv": "",
@@ -682,7 +682,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 2:30 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "FSU -10.5, O/U 56.5",
     "tv": "",
@@ -704,7 +704,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 2:30 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "LSU -1.5, O/U 45.5",
     "tv": "",
@@ -726,9 +726,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 2:30 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "IND -7.5, O/U 43.5",
+    "odds": "IND -9, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Indiana",
@@ -748,9 +748,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 2:30 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "PSU -26.5, O/U 49.5",
+    "odds": "PSU -26.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Rutgers",
@@ -770,9 +770,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 2:45 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "OU -7, O/U 37.5",
+    "odds": "OU -7, O/U 36.5",
     "tv": "",
     "awayTeam": {
       "name": "Texas A&M",
@@ -792,9 +792,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 3:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "S ALA -4.5, O/U 66.5",
+    "odds": "S ALA -5, O/U 65.5",
     "tv": "",
     "awayTeam": {
       "name": "South Alabama",
@@ -814,9 +814,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 3:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "GASO -9, O/U 47.5",
+    "odds": "GASO -9.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Georgia Southern",
@@ -836,9 +836,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 3:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "NDSU -25, O/U 44.5",
+    "odds": "NDSU -26, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Northern Illinois",
@@ -858,9 +858,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 3:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "MRSH -2.5, O/U 55.5",
+    "odds": "MRSH -2.5, O/U 56.5",
     "tv": "",
     "awayTeam": {
       "name": "Georgia St.",
@@ -880,9 +880,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 5:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "TXST -13.5, O/U 62.5",
+    "odds": "TXST -13.5, O/U 61.5",
     "tv": "",
     "awayTeam": {
       "name": "Washington St.",
@@ -902,7 +902,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 5:15 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "USC -17.5, O/U 57.5",
     "tv": "",
@@ -924,7 +924,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 6:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "UNLV -6.5, O/U 47.5",
     "tv": "",
@@ -946,9 +946,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 6:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "ARIZ -7.5, O/U 52.5",
+    "odds": "ARIZ -10, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Arizona",
@@ -968,7 +968,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 6:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "LT -14.5, O/U 54.5",
     "tv": "",
@@ -990,7 +990,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 6:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "MIA -20.5, O/U 61.5",
     "tv": "",
@@ -1012,7 +1012,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 6:30 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "MIZZ -4.5, O/U 48.5",
     "tv": "",
@@ -1034,7 +1034,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 6:30 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "UGA -15, O/U 51.5",
     "tv": "",
@@ -1056,9 +1056,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 6:30 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "FRES -20.5, O/U 66.5",
+    "odds": "FRES -20, O/U 66.5",
     "tv": "",
     "awayTeam": {
       "name": "Colorado St.",
@@ -1078,9 +1078,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 6:30 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "LOU -13.5, O/U 50.5",
+    "odds": "LOU -12.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Pittsburgh",
@@ -1100,7 +1100,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 6:30 PM CDT",
+    "datetime": "",
     "status": "LIVE",
     "odds": "ND -20.5, O/U 56.5",
     "tv": "",
@@ -1122,7 +1122,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 6:30 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "STAN -2.5, O/U 55.5",
     "tv": "",
@@ -1144,9 +1144,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 7:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "UTSA -5.5, O/U 49.5",
+    "odds": "UTSA -4.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "UTSA",
@@ -1166,9 +1166,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 8:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "UTAH -8, O/U 46.5",
+    "odds": "UTAH -8.5, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Utah",
@@ -1188,9 +1188,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 8:30 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "BSU -17.5, O/U 60.5",
+    "odds": "BSU -20.5, O/U 61.5",
     "tv": "",
     "awayTeam": {
       "name": "SDSU",
@@ -1210,7 +1210,7 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 9:15 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "OKST -2.5, O/U 59.5",
     "tv": "",
@@ -1232,9 +1232,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 9:30 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "ORST -8.5, O/U 50.5",
+    "odds": "ORST -7.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Utah St.",
@@ -1254,9 +1254,9 @@
     }
   },
   {
-    "datetime": "Sat, 11/21, 9:30 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "NEV -6, O/U 40.5",
+    "odds": "NEV -7, O/U 40.5",
     "tv": "",
     "awayTeam": {
       "name": "Hawaii",
@@ -1276,7 +1276,7 @@
     }
   },
   {
-    "datetime": "Tue, 11/17 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "EMU +17.5, O 45.5",
     "tv": "",
@@ -1298,7 +1298,7 @@
     }
   },
   {
-    "datetime": "Tue, 11/17 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "M-OH -9.5, U 46.5",
     "tv": "",
@@ -1320,7 +1320,7 @@
     }
   },
   {
-    "datetime": "Tue, 11/17 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "BALL +10, O 49.5",
     "tv": "",
@@ -1342,7 +1342,7 @@
     }
   },
   {
-    "datetime": "Wed, 11/18 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "AKR +3, O 46.5",
     "tv": "",
@@ -1364,7 +1364,7 @@
     }
   },
   {
-    "datetime": "Wed, 11/18 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "BUFF -2.5, O 46.5",
     "tv": "",
@@ -1386,7 +1386,7 @@
     }
   },
   {
-    "datetime": "Thu, 11/19 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "RICE +2.5, O 51.5",
     "tv": "",
@@ -1408,7 +1408,7 @@
     }
   },
   {
-    "datetime": "Fri, 11/20 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "UCF +1.5, O 50.5",
     "tv": "",
@@ -1430,7 +1430,7 @@
     }
   },
   {
-    "datetime": "Fri, 11/20 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "TOL -17, U 45.5",
     "tv": "",
@@ -1452,7 +1452,7 @@
     }
   },
   {
-    "datetime": "Fri, 11/20 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "CLEM +11.5, U 41.5",
     "tv": "",
@@ -1474,7 +1474,7 @@
     }
   },
   {
-    "datetime": "Fri, 11/20 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "AFA -22.5, O 48.5",
     "tv": "",
@@ -1496,7 +1496,7 @@
     }
   },
   {
-    "datetime": "Fri, 11/20 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "ORE -18.5, O 42.5",
     "tv": "",
@@ -1518,7 +1518,7 @@
     }
   },
   {
-    "datetime": "Fri, 11/20 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "WYO +10, O 37.5",
     "tv": "",
