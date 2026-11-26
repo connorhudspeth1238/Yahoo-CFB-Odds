@@ -112,7 +112,7 @@
   {
     "datetime": "Fri, 11/27, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "UTSA -1.5, O/U 58.5",
+    "odds": "UTSA -1.5, O/U 57.5",
     "tv": "",
     "awayTeam": {
       "name": "Tulsa",
@@ -178,7 +178,7 @@
   {
     "datetime": "Fri, 11/27, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "NDSU -8.5, O/U 40.5",
+    "odds": "NDSU -8.5, O/U 39.5",
     "tv": "",
     "awayTeam": {
       "name": "N. Dak. St.",
@@ -200,7 +200,7 @@
   {
     "datetime": "Fri, 11/27, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "MEM -17.5, O/U 66.5",
+    "odds": "MEM -18, O/U 66.5",
     "tv": "",
     "awayTeam": {
       "name": "Temple",
@@ -266,7 +266,7 @@
   {
     "datetime": "Fri, 11/27, 6:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "TEX -11, O/U 40.5",
+    "odds": "TEX -11.5, O/U 40.5",
     "tv": "",
     "awayTeam": {
       "name": "Texas",
@@ -288,7 +288,7 @@
   {
     "datetime": "Fri, 11/27, 8:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "UTAH -25.5, O/U 66.5",
+    "odds": "UTAH -26, O/U 66.5",
     "tv": "",
     "awayTeam": {
       "name": "West Virginia",
@@ -332,7 +332,7 @@
   {
     "datetime": "Sat, 11/28, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "CONN -3, O/U 45.5",
+    "odds": "CONN -3, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Connecticut",
@@ -464,7 +464,7 @@
   {
     "datetime": "Sat, 11/28, 11:00 AM CDT",
     "status": "UPCOMING",
-    "odds": "UNC -5.5, O/U 53.5",
+    "odds": "UNC -5.5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "NC State",
@@ -508,7 +508,7 @@
   {
     "datetime": "Sat, 11/28, 11:30 AM CDT",
     "status": "UPCOMING",
-    "odds": "NW -3, O/U 50.5",
+    "odds": "NW -2.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Illinois",
@@ -728,7 +728,7 @@
   {
     "datetime": "Sat, 11/28, 1:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ARMY -5.5, O/U 48.5",
+    "odds": "ARMY -6, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Army",
@@ -838,7 +838,7 @@
   {
     "datetime": "Sat, 11/28, 2:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "SC -6.5, O/U 41.5",
+    "odds": "SC -6, O/U 42.5",
     "tv": "",
     "awayTeam": {
       "name": "South Carolina",
@@ -992,7 +992,7 @@
   {
     "datetime": "Sat, 11/28, 2:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "NIU -4.5, O/U 50.5",
+    "odds": "NIU -4, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "UTEP",
@@ -1124,7 +1124,7 @@
   {
     "datetime": "Sat, 11/28, 3:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "MSU -3.5, O/U 46.5",
+    "odds": "MSU -3, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Michigan St.",
@@ -1234,7 +1234,7 @@
   {
     "datetime": "Sat, 11/28, 6:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "IND -23, O/U 52.5",
+    "odds": "IND -23.5, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "Purdue",
